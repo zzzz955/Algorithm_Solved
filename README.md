@@ -127,6 +127,7 @@
 | Gold III | 1644 | 소수의 연속합  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1644.%E2%80%85%EC%86%8C%EC%88%98%EC%9D%98%E2%80%85%EC%97%B0%EC%86%8D%ED%95%A9/README.md) | <small>`수학` `정수론` `소수 판정` `에라토스테네스의 체` `두 포인터` </small> |
 | Gold III | 1701 | Cubeditor  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1701.%E2%80%85Cubeditor/README.md) | <small>`KMP` `문자열` </small> |
 | Gold III | 1719 | 택배  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1719.%E2%80%85%ED%83%9D%EB%B0%B0/README.md) | <small>`데이크스트라` `플로이드–워셜` `그래프 이론` `최단 경로` </small> |
+| Gold III | 1726 | 로봇  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1726.%E2%80%85%EB%A1%9C%EB%B4%87/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold III | 1774 | 우주신과의 교감  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1774.%E2%80%85%EC%9A%B0%EC%A3%BC%EC%8B%A0%EA%B3%BC%EC%9D%98%E2%80%85%EA%B5%90%EA%B0%90/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold III | 1939 | 중량제한  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1939.%E2%80%85%EC%A4%91%EB%9F%89%EC%A0%9C%ED%95%9C/README.md) | <small>`너비 우선 탐색` `이분 탐색` `자료 구조` `분리 집합` `그래프 이론` `+2`</small> |
 | Gold III | 2143 | 두 배열의 합  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2143.%E2%80%85%EB%91%90%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%ED%95%A9/README.md) | <small>`이분 탐색` `자료 구조` `해시를 사용한 집합과 맵` `누적 합` </small> |
