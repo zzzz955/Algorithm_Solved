@@ -74,6 +74,7 @@
 | Gold I | 2357 | 최솟값과 최댓값  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2357.%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B3%BC%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
 | Gold I | 2536 | 버스 갈아타기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2536.%E2%80%85%EB%B2%84%EC%8A%A4%E2%80%85%EA%B0%88%EC%95%84%ED%83%80%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `기하학` `그래프 이론` `그래프 탐색` `선분 교차 판정` </small> |
 | Gold I | 3665 | 최종 순위  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/3665.%E2%80%85%EC%B5%9C%EC%A2%85%E2%80%85%EC%88%9C%EC%9C%84/README.md) | <small>`방향 비순환 그래프` `그래프 이론` `위상 정렬` </small> |
+| Gold I | 4991 | 로봇 청소기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/4991.%E2%80%85%EB%A1%9C%EB%B4%87%E2%80%85%EC%B2%AD%EC%86%8C%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `비트마스킹` `브루트포스 알고리즘` `그래프 이론` `+1`</small> |
 | Gold I | 5676 | 음주 코딩  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/5676.%E2%80%85%EC%9D%8C%EC%A3%BC%E2%80%85%EC%BD%94%EB%94%A9/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
 | Gold I | 6213 | Balanced Lineup  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/6213.%E2%80%85Balanced%E2%80%85Lineup/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Gold I | 10868 | 최솟값  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/10868.%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92/README.md) | <small>`세그먼트 트리` `희소 배열` `자료 구조` </small> |
