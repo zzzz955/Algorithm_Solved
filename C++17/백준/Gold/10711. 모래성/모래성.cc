@@ -10,25 +10,24 @@ int dy[] = { -1, 0, 1, -1, 1, -1, 0, 1 };
 struct Pos {
 	int x, y;
 };
-queue<Pos> q1;
+queue<Pos> q;
 
 int solution() {
 	int result = 0;
-	while (!q1.empty()) {
-		queue<Pos> q2;
-		swap(q1, q2);
-		while (!q2.empty()) {
-			Pos pos = q2.front(); q2.pop();
+	while (!q.empty()) {
+		int len = q.size();
+		while (len--) {
+			Pos pos = q.front(); q.pop();
 			int cx = pos.x, cy = pos.y;
 
 			for (int i = 0; i < 8; ++i) {
 				int nx = cx + dx[i], ny = cy + dy[i];
 				if (0 <= nx && nx < n && 0 <= ny && ny < m && lst[nx][ny]) {
-					if (--lst[nx][ny] == 0) q1.push({ nx, ny });
+					if (--lst[nx][ny] == 0) q.push({ nx, ny });
 				}
 			}
 		}
-		if (!q1.empty()) result++;
+		if (!q.empty()) result++;
 	}
 	return result;
 }
@@ -43,7 +42,7 @@ int main() {
 			char ch; cin >> ch;
 			if (ch == '.') {
 				lst[i][j] = 0;
-				q1.push({ i, j });
+				q.push({ i, j });
 			}
 			else lst[i][j] = ch - '0';
 		}
