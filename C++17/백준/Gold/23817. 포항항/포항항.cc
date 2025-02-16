@@ -5,7 +5,6 @@
 using namespace std;
 
 int n, m, sx, sy, idx = 1, ans = 2e9;
-string init[1000];
 int lst[1000][1000];
 bool v[1000][1000];
 int dx[] = { 1, -1, 0, 0 };
@@ -19,7 +18,6 @@ struct Edge {
 vector<Edge> edges[22];
 Pos starts[22];
 bool pv[22];
-vector<int> path;
 
 void bfs(int index, Pos start) {
 	queue<Pos> q;
@@ -51,10 +49,8 @@ void bt(int level, int node, int sum) {
 	for (const Edge& e : edges[node]) {
 		if (pv[e.idx]) continue;
 		pv[e.idx] = true;
-		path.push_back(e.idx);
 		bt(level + 1, e.idx, sum + e.t);
 		pv[e.idx] = false;
-		path.pop_back();
 	}
 }
 
@@ -64,11 +60,11 @@ int main() {
 
 	cin >> n >> m;
 	for (int i = 0; i < n; ++i) {
-		cin >> init[i];
 		for (int j = 0; j < m; ++j) {
-			if (init[i][j] == '.') lst[i][j] = 0;
-			else if (init[i][j] == 'X') lst[i][j] = -1;
-			else if (init[i][j] == 'K') {
+			char ch; cin >> ch;
+			if (ch == '.') lst[i][j] = 0;
+			else if (ch == 'X') lst[i][j] = -1;
+			else if (ch == 'K') {
 				lst[i][j] = ++idx;
 				starts[idx] = { i, j };
 			}
