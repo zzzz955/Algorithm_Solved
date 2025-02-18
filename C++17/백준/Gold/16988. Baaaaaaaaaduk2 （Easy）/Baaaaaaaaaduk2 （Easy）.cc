@@ -8,7 +8,7 @@ int n, m, ans;
 int lst[20][20];
 bool v[20][20];
 struct Pos {
-	int x, y, g;
+	int x, y;
 };
 int dx[] = { 1, -1, 0 ,0 };
 int dy[] = { 0, 0, 1, -1 };
@@ -22,7 +22,7 @@ int bfs(int sx, int sy) {
 
 	while (!q.empty()) {
 		Pos pos = q.front(); q.pop();
-		int cx = pos.x, cy = pos.y, cg = pos.g;
+		int cx = pos.x, cy = pos.y;
 
 		for (int i = 0; i < 4; ++i) {
 			int nx = cx + dx[i], ny = cy + dy[i];
