@@ -163,6 +163,7 @@
 | Gold III | 16637 | 괄호 추가하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16637.%E2%80%85%EA%B4%84%ED%98%B8%E2%80%85%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/README.md) | <small>`브루트포스 알고리즘` `구현` </small> |
 | Gold III | 16934 | 게임 닉네임  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16934.%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%85%EB%8B%89%EB%84%A4%EC%9E%84/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `문자열` `트리` `트라이` </small> |
 | Gold III | 16954 | 움직이는 미로 탈출  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16954.%E2%80%85%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
+| Gold III | 16988 | Baaaaaaaaaduk2 (Easy)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16988.%E2%80%85Baaaaaaaaaduk2%E2%80%85%EF%BC%88Easy%EF%BC%89/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `깊이 우선 탐색` `그래프 이론` `+1`</small> |
 | Gold III | 17135 | 캐슬 디펜스  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17135.%E2%80%85%EC%BA%90%EC%8A%AC%E2%80%85%EB%94%94%ED%8E%9C%EC%8A%A4/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `그래프 이론` `그래프 탐색` `구현` `+1`</small> |
 | Gold III | 17142 | 연구소 3  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17142.%E2%80%85%EC%97%B0%EA%B5%AC%EC%86%8C%E2%80%853/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `그래프 이론` `그래프 탐색` </small> |
 | Gold III | 17299 | 오등큰수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17299.%E2%80%85%EC%98%A4%EB%93%B1%ED%81%B0%EC%88%98/README.md) | <small>`자료 구조` `스택` </small> |
