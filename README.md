@@ -513,6 +513,7 @@
 | Bronze IV | 27918 | 탁구 경기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/27918.%E2%80%85%ED%83%81%EA%B5%AC%E2%80%85%EA%B2%BD%EA%B8%B0/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Bronze IV | 31403 | $A + B - C$  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/31403.%E2%80%85%24A%E2%80%85%EF%BC%8B%E2%80%85B%E2%80%85%EF%BC%8D%E2%80%85C%24/README.md) | <small>`사칙연산` `수학` `문자열` </small> |
 | Bronze IV | 31775 | 글로벌 포닉스  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/31775.%E2%80%85%EA%B8%80%EB%A1%9C%EB%B2%8C%E2%80%85%ED%8F%AC%EB%8B%89%EC%8A%A4/README.md) | <small>`구현` `문자열` </small> |
+| Bronze V | 1271 | 엄청난 부자2  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/1271.%E2%80%85%EC%97%84%EC%B2%AD%EB%82%9C%E2%80%85%EB%B6%80%EC%9E%902/README.md) | <small>`임의 정밀도 / 큰 수 연산` `사칙연산` `수학` </small> |
 | Bronze V | 4999 | 아!  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/4999.%E2%80%85%EC%95%84%EF%BC%81/README.md) | <small>`구현` `문자열` </small> |
 | Bronze V | 11942 | 고려대는 사랑입니다  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/11942.%E2%80%85%EA%B3%A0%EB%A0%A4%EB%8C%80%EB%8A%94%E2%80%85%EC%82%AC%EB%9E%91%EC%9E%85%EB%8B%88%EB%8B%A4/README.md) | <small>`구현` </small> |
 
