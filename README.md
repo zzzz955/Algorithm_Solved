@@ -250,6 +250,7 @@
 | Gold IV | 21939 | 문제 추천 시스템 Version 1  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21939.%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%85%EC%B6%94%EC%B2%9C%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%85Version%E2%80%851/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `우선순위 큐` `트리를 사용한 집합과 맵` </small> |
 | Gold IV | 22856 | 트리 순회  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/22856.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%88%9C%ED%9A%8C/README.md) | <small>`그래프 이론` `그래프 탐색` `트리` </small> |
 | Gold IV | 23793 | 두 단계 최단 경로 1  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/23793.%E2%80%85%EB%91%90%E2%80%85%EB%8B%A8%EA%B3%84%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C%E2%80%851/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
+| Gold V | 1052 | 물병  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1052.%E2%80%85%EB%AC%BC%EB%B3%91/README.md) | <small>`비트마스킹` `그리디 알고리즘` `수학` </small> |
 | Gold V | 1068 | 트리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1068.%E2%80%85%ED%8A%B8%EB%A6%AC/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` `트리` </small> |
 | Gold V | 1092 | 배  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1092.%E2%80%85%EB%B0%B0/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Gold V | 1240 | 노드사이의 거리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1240.%E2%80%85%EB%85%B8%EB%93%9C%EC%82%AC%EC%9D%B4%EC%9D%98%E2%80%85%EA%B1%B0%EB%A6%AC/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` `트리` </small> |
