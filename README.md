@@ -276,6 +276,7 @@
 | Gold V | 2565 | 전깃줄  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2565.%E2%80%85%EC%A0%84%EA%B9%83%EC%A4%84/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Gold V | 2589 | 보물섬  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2589.%E2%80%85%EB%B3%B4%EB%AC%BC%EC%84%AC/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 2668 | 숫자고르기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2668.%E2%80%85%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
+| Gold V | 2866 | 문자열 잘라내기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2866.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0/README.md) | <small>`이분 탐색` `자료 구조` `해시를 사용한 집합과 맵` `문자열` </small> |
 | Gold V | 3079 | 입국심사  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/3079.%E2%80%85%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
 | Gold V | 3980 | 선발 명단  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/3980.%E2%80%85%EC%84%A0%EB%B0%9C%E2%80%85%EB%AA%85%EB%8B%A8/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
 | Gold V | 5972 | 택배 배송  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/5972.%E2%80%85%ED%83%9D%EB%B0%B0%E2%80%85%EB%B0%B0%EC%86%A1/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
