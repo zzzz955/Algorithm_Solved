@@ -141,6 +141,7 @@
 | Gold III | 1939 | 중량제한  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1939.%E2%80%85%EC%A4%91%EB%9F%89%EC%A0%9C%ED%95%9C/README.md) | <small>`너비 우선 탐색` `이분 탐색` `자료 구조` `분리 집합` `그래프 이론` `+2`</small> |
 | Gold III | 2143 | 두 배열의 합  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2143.%E2%80%85%EB%91%90%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%ED%95%A9/README.md) | <small>`이분 탐색` `자료 구조` `해시를 사용한 집합과 맵` `누적 합` </small> |
 | Gold III | 2146 | 다리 만들기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2146.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
+| Gold III | 2151 | 거울 설치  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2151.%E2%80%85%EA%B1%B0%EC%9A%B8%E2%80%85%EC%84%A4%EC%B9%98/README.md) | <small>`너비 우선 탐색` `데이크스트라` `그래프 이론` `그래프 탐색` `최단 경로` </small> |
 | Gold III | 2206 | 벽 부수고 이동하기  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/2206.%E2%80%85%EB%B2%BD%E2%80%85%EB%B6%80%EC%88%98%EA%B3%A0%E2%80%85%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold III | 2252 | 줄 세우기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2252.%E2%80%85%EC%A4%84%E2%80%85%EC%84%B8%EC%9A%B0%EA%B8%B0/README.md) | <small>`방향 비순환 그래프` `그래프 이론` `위상 정렬` </small> |
 | Gold III | 2473 | 세 용액  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2473.%E2%80%85%EC%84%B8%E2%80%85%EC%9A%A9%EC%95%A1/README.md) | <small>`이분 탐색` `정렬` `두 포인터` </small> |
