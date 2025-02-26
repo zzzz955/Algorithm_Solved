@@ -234,6 +234,7 @@
 | Gold IV | 13913 | 숨바꼭질 4  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13913.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%E2%80%854/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 14002 | 가장 긴 증가하는 부분 수열 4  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14002.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4%E2%80%854/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Gold IV | 14226 | 이모티콘  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14226.%E2%80%85%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
+| Gold IV | 14267 | 회사 문화 1  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14267.%E2%80%85%ED%9A%8C%EC%82%AC%E2%80%85%EB%AC%B8%ED%99%94%E2%80%851/README.md) | <small>`깊이 우선 탐색` `다이나믹 프로그래밍` `트리에서의 다이나믹 프로그래밍` `트리` `+2`</small> |
 | Gold IV | 14499 | 주사위 굴리기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14499.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EA%B5%B4%EB%A6%AC%EA%B8%B0/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Gold IV | 14500 | 테트로미노  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14500.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8/README.md) | <small>`브루트포스 알고리즘` `구현` </small> |
 | Gold IV | 14502 | 연구소  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14502.%E2%80%85%EC%97%B0%EA%B5%AC%EC%86%8C/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `그래프 이론` `그래프 탐색` `구현` </small> |
