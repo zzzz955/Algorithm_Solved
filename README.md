@@ -315,6 +315,7 @@
 | Gold V | 18405 | 경쟁적 전염  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/18405.%E2%80%85%EA%B2%BD%EC%9F%81%EC%A0%81%E2%80%85%EC%A0%84%EC%97%BC/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` </small> |
 | Gold V | 18428 | 감시 피하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/18428.%E2%80%85%EA%B0%90%EC%8B%9C%E2%80%85%ED%94%BC%ED%95%98%EA%B8%B0/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
 | Gold V | 19641 | 중첩 집합 모델  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/19641.%E2%80%85%EC%A4%91%EC%B2%A9%E2%80%85%EC%A7%91%ED%95%A9%E2%80%85%EB%AA%A8%EB%8D%B8/README.md) | <small>`깊이 우선 탐색` `오일러 경로 테크닉` `그래프 이론` `그래프 탐색` `트리` </small> |
+| Gold V | 19940 | 피자 오븐  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/19940.%E2%80%85%ED%94%BC%EC%9E%90%E2%80%85%EC%98%A4%EB%B8%90/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `그리디 알고리즘` `수학` </small> |
 | Gold V | 20008 | 몬스터를 처치하자!  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/20008.%E2%80%85%EB%AA%AC%EC%8A%A4%ED%84%B0%EB%A5%BC%E2%80%85%EC%B2%98%EC%B9%98%ED%95%98%EC%9E%90%EF%BC%81/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
 | Gold V | 20437 | 문자열 게임 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/20437.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%852/README.md) | <small>`슬라이딩 윈도우` `문자열` </small> |
 | Gold V | 21608 | 상어 초등학교  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21608.%E2%80%85%EC%83%81%EC%96%B4%E2%80%85%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90/README.md) | <small>`구현` </small> |
