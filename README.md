@@ -300,6 +300,7 @@
 | Gold V | 14567 | 선수과목 (Prerequisite)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14567.%E2%80%85%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9%E2%80%85%EF%BC%88Prerequisite%EF%BC%89/README.md) | <small>`방향 비순환 그래프` `다이나믹 프로그래밍` `그래프 이론` `위상 정렬` </small> |
 | Gold V | 14719 | 빗물  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14719.%E2%80%85%EB%B9%97%EB%AC%BC/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Gold V | 14891 | 톱니바퀴  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14891.%E2%80%85%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4/README.md) | <small>`구현` `시뮬레이션` </small> |
+| Gold V | 15662 | 톱니바퀴 (2)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/15662.%E2%80%85%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4%E2%80%85%EF%BC%882%EF%BC%89/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Gold V | 15681 | 트리와 쿼리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/15681.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/README.md) | <small>`깊이 우선 탐색` `다이나믹 프로그래밍` `트리에서의 다이나믹 프로그래밍` `트리` `+2`</small> |
 | Gold V | 15686 | 치킨 배달  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/15686.%E2%80%85%EC%B9%98%ED%82%A8%E2%80%85%EB%B0%B0%EB%8B%AC/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `구현` </small> |
 | Gold V | 15989 | 1, 2, 3 더하기 4  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/15989.%E2%80%851%EF%BC%8C%E2%80%852%EF%BC%8C%E2%80%853%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0%E2%80%854/README.md) | <small>`다이나믹 프로그래밍` </small> |
