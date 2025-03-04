@@ -299,6 +299,7 @@
 | Gold V | 10472 | 십자뒤집기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/10472.%E2%80%85%EC%8B%AD%EC%9E%90%EB%92%A4%EC%A7%91%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `비트마스킹` `브루트포스 알고리즘` `그래프 이론` `+1`</small> |
 | Gold V | 11000 | 강의실 배정  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11000.%E2%80%85%EA%B0%95%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95/README.md) | <small>`자료 구조` `그리디 알고리즘` `우선순위 큐` `정렬` </small> |
 | Gold V | 11729 | 하노이 탑 이동 순서  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11729.%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4%E2%80%85%ED%83%91%E2%80%85%EC%9D%B4%EB%8F%99%E2%80%85%EC%88%9C%EC%84%9C/README.md) | <small>`재귀` </small> |
+| Gold V | 12865 | 평범한 배낭  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12865.%E2%80%85%ED%8F%89%EB%B2%94%ED%95%9C%E2%80%85%EB%B0%B0%EB%82%AD/README.md) | <small>`다이나믹 프로그래밍` `배낭 문제` </small> |
 | Gold V | 12865 | 평범한 배낭  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/12865.%E2%80%85%ED%8F%89%EB%B2%94%ED%95%9C%E2%80%85%EB%B0%B0%EB%82%AD/README.md) | <small>`다이나믹 프로그래밍` `배낭 문제` </small> |
 | Gold V | 12919 | A와 B 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12919.%E2%80%85A%EC%99%80%E2%80%85B%E2%80%852/README.md) | <small>`브루트포스 알고리즘` `재귀` `문자열` </small> |
 | Gold V | 13023 | ABCDE  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13023.%E2%80%85ABCDE/README.md) | <small>`백트래킹` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
