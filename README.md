@@ -232,6 +232,7 @@
 | Gold IV | 11559 | Puyo Puyo  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11559.%E2%80%85Puyo%E2%80%85Puyo/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
 | Gold IV | 12851 | 숨바꼭질 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12851.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%E2%80%852/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 12869 | 뮤탈리스크  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/12869.%E2%80%85%EB%AE%A4%ED%83%88%EB%A6%AC%EC%8A%A4%ED%81%AC/README.md) | <small>`너비 우선 탐색` `다이나믹 프로그래밍` `그래프 이론` `그래프 탐색` </small> |
+| Gold IV | 12886 | 돌 그룹  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12886.%E2%80%85%EB%8F%8C%E2%80%85%EA%B7%B8%EB%A3%B9/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 13144 | List of Unique Numbers  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13144.%E2%80%85List%E2%80%85of%E2%80%85Unique%E2%80%85Numbers/README.md) | <small>`두 포인터` </small> |
 | Gold IV | 13397 | 구간 나누기 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13397.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0%E2%80%852/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
 | Gold IV | 13913 | 숨바꼭질 4  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13913.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%E2%80%854/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
