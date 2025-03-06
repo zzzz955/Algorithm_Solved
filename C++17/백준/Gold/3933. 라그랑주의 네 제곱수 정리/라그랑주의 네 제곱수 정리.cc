@@ -1,12 +1,11 @@
 #include<iostream>
 #include<vector>
 #include<cmath>
-#include<unordered_map>
 #include<set>
 #include<algorithm>
 using namespace std;
 
-unordered_map<int, int> dp;
+int dp[1 << 15];
 
 int chk(int n) {
     if (dp[n]) return dp[n];
