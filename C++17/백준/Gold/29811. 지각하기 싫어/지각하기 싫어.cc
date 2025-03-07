@@ -33,8 +33,8 @@ int main() {
 				NV.insert({ b, a });
 			}
 			else {
-				MV.erase({ M[a % n], a });
-				M[a % n] = b;
+				MV.erase({ M[a - n], a });
+				M[a - n] = b;
 				MV.insert({ b, a });
 			}
 		}
