@@ -338,6 +338,7 @@
 | Gold V | 20437 | 문자열 게임 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/20437.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%852/README.md) | <small>`슬라이딩 윈도우` `문자열` </small> |
 | Gold V | 21608 | 상어 초등학교  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21608.%E2%80%85%EC%83%81%EC%96%B4%E2%80%85%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90/README.md) | <small>`구현` </small> |
 | Gold V | 22251 | 빌런 호석  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/22251.%E2%80%85%EB%B9%8C%EB%9F%B0%E2%80%85%ED%98%B8%EC%84%9D/README.md) | <small>`브루트포스 알고리즘` `구현` </small> |
+| Gold V | 23747 | 와드  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/23747.%E2%80%85%EC%99%80%EB%93%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
 | Gold V | 27396 | 문자열 변환과 쿼리  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/27396.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B3%80%ED%99%98%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `문자열` </small> |
 | Silver I | 1074 | Z  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1074.%E2%80%85Z/README.md) | <small>`분할 정복` `재귀` </small> |
 | Silver I | 1283 | 단축키 지정  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/1283.%E2%80%85%EB%8B%A8%EC%B6%95%ED%82%A4%E2%80%85%EC%A7%80%EC%A0%95/README.md) | <small>`구현` `문자열` </small> |
