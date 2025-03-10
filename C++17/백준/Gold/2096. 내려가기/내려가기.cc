@@ -4,7 +4,8 @@ using namespace std;
 
 const int N = 1e5;
 int n;
-int lst[N][3], dp[3][2], pre[3][2];
+char lst[N][3];
+int dp[3][2], pre[3][2];
 
 int main() {
 	ios::sync_with_stdio(0);
@@ -12,9 +13,12 @@ int main() {
 	cout.tie(0);
 
 	cin >> n;
-	for (int i = 0; i < n; ++i)
-		for (int j = 0; j < 3; ++j)
+	for (int i = 0; i < n; ++i) {
+		for (int j = 0; j < 3; ++j) {
 			cin >> lst[i][j];
+			lst[i][j] -= '0';
+		}
+	}
 
 	for (int i = 0; i < 3; ++i) {
 		dp[i][0] = dp[i][1] = lst[0][i];
