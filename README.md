@@ -269,6 +269,7 @@
 | Gold IV | 29811 | 지각하기 싫어  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/29811.%E2%80%85%EC%A7%80%EA%B0%81%ED%95%98%EA%B8%B0%E2%80%85%EC%8B%AB%EC%96%B4/README.md) | <small>`자료 구조` `우선순위 큐` `트리를 사용한 집합과 맵` </small> |
 | Gold IV | 30827 | 회의실 배정  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/30827.%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Gold IV | 31792 | 한빛미디어 (Hard)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/31792.%E2%80%85%ED%95%9C%EB%B9%9B%EB%AF%B8%EB%94%94%EC%96%B4%E2%80%85%EF%BC%88Hard%EF%BC%89/README.md) | <small>`이분 탐색` `자료 구조` `그리디 알고리즘` `트리를 사용한 집합과 맵` </small> |
+| Gold V | 1038 | 감소하는 수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1038.%E2%80%85%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%E2%80%85%EC%88%98/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
 | Gold V | 1052 | 물병  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1052.%E2%80%85%EB%AC%BC%EB%B3%91/README.md) | <small>`비트마스킹` `그리디 알고리즘` `수학` </small> |
 | Gold V | 1068 | 트리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1068.%E2%80%85%ED%8A%B8%EB%A6%AC/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` `트리` </small> |
 | Gold V | 1092 | 배  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1092.%E2%80%85%EB%B0%B0/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
