@@ -1,14 +1,15 @@
 #include<iostream>
-#include<vector>
 #include<algorithm>
 #include<cmath>
 using namespace std;
 
+const int N = 200000;
 int n;
 struct Pos {
 	int x, y;
 };
-Pos lst[200000];
+Pos lst[N];
+double adists[N], bdists[N];
 
 double getDist(int x, int y, int tx, int ty) {
 	return pow(pow(x - tx, 2) + pow(y - ty, 2), 0.5f);
@@ -31,21 +32,17 @@ int main() {
 		}
 
 		int ax, ay, bx, by, q; cin >> ax >> ay >> bx >> by >> q;
-		vector<double> adists, bdists;
 		for (int i = 0; i < n; ++i) {
-			double adist = getDist(lst[i].x, lst[i].y, ax, ay);
-			double bdist = getDist(lst[i].x, lst[i].y, bx, by);
-			//cout << adist << " " << bdist << "\n";
-			adists.push_back(adist);
-			bdists.push_back(bdist);
+			adists[i] = getDist(lst[i].x, lst[i].y, ax, ay);
+			bdists[i] = getDist(lst[i].x, lst[i].y, bx, by);
 		}
 		
-		sort(adists.begin(), adists.end());
-		sort(bdists.begin(), bdists.end());
+		sort(adists, adists + n);
+		sort(bdists, bdists + n);
 		while (q--) {
 			int r1, r2; cin >> r1 >> r2;
-			int ac = upper_bound(adists.begin(), adists.end(), r1) - adists.begin();
-			int bc = upper_bound(bdists.begin(), bdists.end(), r2) - bdists.begin();
+			int ac = upper_bound(adists, adists + n, r1) - adists;
+			int bc = upper_bound(bdists, bdists + n, r2) - bdists;
 			int result = ac + bc >= n ? 0 : n - (ac + bc);
 			cout << result << "\n";
 		}
