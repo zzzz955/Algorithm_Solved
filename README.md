@@ -371,6 +371,7 @@
 | Silver II | 1406 | 에디터  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/1406.%E2%80%85%EC%97%90%EB%94%94%ED%84%B0/README.md) | <small>`자료 구조` `연결 리스트` `스택` </small> |
 | Silver II | 1541 | 잃어버린 괄호  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/1541.%E2%80%85%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%E2%80%85%EA%B4%84%ED%98%B8/README.md) | <small>`그리디 알고리즘` `수학` `파싱` `문자열` </small> |
 | Silver II | 1654 | 랜선 자르기  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/1654.%E2%80%85%EB%9E%9C%EC%84%A0%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
+| Silver II | 1927 | 최소 힙  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/1927.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%ED%9E%99/README.md) | <small>`자료 구조` `우선순위 큐` </small> |
 | Silver II | 2630 | 색종이 만들기  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/2630.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`분할 정복` `재귀` </small> |
 | Silver II | 2644 | 촌수계산  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/2644.%E2%80%85%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` </small> |
 | Silver II | 2805 | 나무 자르기  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/2805.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
