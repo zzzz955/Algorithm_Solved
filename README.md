@@ -248,6 +248,7 @@
 | Gold IV | 14499 | 주사위 굴리기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14499.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EA%B5%B4%EB%A6%AC%EA%B8%B0/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Gold IV | 14500 | 테트로미노  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14500.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8/README.md) | <small>`브루트포스 알고리즘` `구현` </small> |
 | Gold IV | 14502 | 연구소  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14502.%E2%80%85%EC%97%B0%EA%B5%AC%EC%86%8C/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `그래프 이론` `그래프 탐색` `구현` </small> |
+| Gold IV | 14698 | 전생했더니 슬라임 연구자였던 건에 대하여 (Hard)  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Gold/14698.%E2%80%85%EC%A0%84%EC%83%9D%ED%96%88%EB%8D%94%EB%8B%88%E2%80%85%EC%8A%AC%EB%9D%BC%EC%9E%84%E2%80%85%EC%97%B0%EA%B5%AC%EC%9E%90%EC%98%80%EB%8D%98%E2%80%85%EA%B1%B4%EC%97%90%E2%80%85%EB%8C%80%ED%95%98%EC%97%AC%E2%80%85%EF%BC%88Hard%EF%BC%89/README.md) | <small>`자료 구조` `그리디 알고리즘` `우선순위 큐` </small> |
 | Gold IV | 14923 | 미로 탈출  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14923.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 14938 | 서강그라운드  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14938.%E2%80%85%EC%84%9C%EA%B0%95%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C/README.md) | <small>`데이크스트라` `플로이드–워셜` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 16120 | PPAP  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/16120.%E2%80%85PPAP/README.md) | <small>`자료 구조` `스택` `문자열` </small> |
