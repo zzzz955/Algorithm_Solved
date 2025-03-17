@@ -251,6 +251,7 @@
 | Gold IV | 14698 | 전생했더니 슬라임 연구자였던 건에 대하여 (Hard)  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Gold/14698.%E2%80%85%EC%A0%84%EC%83%9D%ED%96%88%EB%8D%94%EB%8B%88%E2%80%85%EC%8A%AC%EB%9D%BC%EC%9E%84%E2%80%85%EC%97%B0%EA%B5%AC%EC%9E%90%EC%98%80%EB%8D%98%E2%80%85%EA%B1%B4%EC%97%90%E2%80%85%EB%8C%80%ED%95%98%EC%97%AC%E2%80%85%EF%BC%88Hard%EF%BC%89/README.md) | <small>`자료 구조` `그리디 알고리즘` `우선순위 큐` </small> |
 | Gold IV | 14923 | 미로 탈출  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14923.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 14938 | 서강그라운드  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14938.%E2%80%85%EC%84%9C%EA%B0%95%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C/README.md) | <small>`데이크스트라` `플로이드–워셜` `그래프 이론` `최단 경로` </small> |
+| Gold IV | 14950 | 정복자  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14950.%E2%80%85%EC%A0%95%EB%B3%B5%EC%9E%90/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold IV | 16120 | PPAP  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/16120.%E2%80%85PPAP/README.md) | <small>`자료 구조` `스택` `문자열` </small> |
 | Gold IV | 16197 | 두 동전  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/16197.%E2%80%85%EB%91%90%E2%80%85%EB%8F%99%EC%A0%84/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 16234 | 인구 이동  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16234.%E2%80%85%EC%9D%B8%EA%B5%AC%E2%80%85%EC%9D%B4%EB%8F%99/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
