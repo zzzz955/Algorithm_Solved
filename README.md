@@ -237,6 +237,7 @@
 | Gold IV | 10282 | 해킹  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/10282.%E2%80%85%ED%95%B4%ED%82%B9/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 11404 | 플로이드  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11404.%E2%80%85%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C/README.md) | <small>`플로이드–워셜` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 11559 | Puyo Puyo  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11559.%E2%80%85Puyo%E2%80%85Puyo/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
+| Gold IV | 12834 | 주간 미팅  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12834.%E2%80%85%EC%A3%BC%EA%B0%84%E2%80%85%EB%AF%B8%ED%8C%85/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 12851 | 숨바꼭질 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12851.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%E2%80%852/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 12869 | 뮤탈리스크  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/12869.%E2%80%85%EB%AE%A4%ED%83%88%EB%A6%AC%EC%8A%A4%ED%81%AC/README.md) | <small>`너비 우선 탐색` `다이나믹 프로그래밍` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 12886 | 돌 그룹  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12886.%E2%80%85%EB%8F%8C%E2%80%85%EA%B7%B8%EB%A3%B9/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
