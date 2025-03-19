@@ -1,42 +1,8 @@
 #include<iostream>
 #include<vector>
-#include<queue>
 using namespace std;
 
 int n, m, k;
-struct Edge {
-	int nn, nv;
-};
-vector<Edge> edges[251];
-struct Pos {
-	int cn, cv;
-	bool operator<(const Pos& other) const {
-		return cv > other.cv;
-	}
-};
-
-int dijkstra(int sn, int dn) {
-	priority_queue<Pos> pq;
-	pq.push({ sn, 0 });
-	vector<int> dist(n + 1, 2e9);
-	dist[sn] = 0;
-
-	while (!pq.empty()) {
-		Pos pos = pq.top(); pq.pop();
-		int cn = pos.cn, cv = pos.cv;
-
-		if (dist[cn] < cv) continue;
-		if (cn == dn) return dist[dn];
-		for (const Edge& edge : edges[cn]) {
-			int nn = edge.nn, nv = edge.nv;
-			if (dist[nn] > cv + nv) {
-				dist[nn] = cv + nv;
-				pq.push({ nn, cv + nv });
-			}
-		}
-	}
-	return -1;
-}
 
 int main() {
 	ios::sync_with_stdio(0);
@@ -44,20 +10,35 @@ int main() {
 	cout.tie(0);
 
 	cin >> n >> m;
+	vector<vector<int>> dist(n + 1, vector<int>(n + 1, 2e9));
 	while (m--) {
 		int u, v, e; cin >> u >> v >> e;
 		if (!e) {
-			edges[u].push_back({ v, 0 });
-			edges[v].push_back({ u, 1 });
+			dist[u][v] = 0;
+			dist[v][u] = 1;
 		}
 		else {
-			edges[u].push_back({ v, 0 });
-			edges[v].push_back({ u, 0 });
+			dist[u][v] = 0;
+			dist[v][u] = 0;
 		}
 	}
+	for (int i = 1; i <= n; ++i) dist[i][i] = 0;
+
+	for (int k = 1; k <= n; ++k) {
+		for (int i = 1; i <= n; ++i) {
+			for (int j = 1; j <= n; ++j) {
+				if (dist[i][k] != 2e9 && dist[k][j] != 2e9) {
+					if (dist[i][j] > dist[i][k] + dist[k][j]) {
+						dist[i][j] = dist[i][k] + dist[k][j];
+					}
+				}
+			}
+		}
+	}
+
 	cin >> k;
 	while (k--) {
 		int sn, dn; cin >> sn >> dn;
-		cout << dijkstra(sn, dn) << "\n";
+		cout << dist[sn][dn] << "\n";
 	}
 }
