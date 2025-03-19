@@ -164,6 +164,7 @@
 | Gold III | 9470 | Strahler 순서  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9470.%E2%80%85Strahler%E2%80%85%EC%88%9C%EC%84%9C/README.md) | <small>`방향 비순환 그래프` `그래프 이론` `위상 정렬` </small> |
 | Gold III | 10423 | 전기가 부족해  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/10423.%E2%80%85%EC%A0%84%EA%B8%B0%EA%B0%80%E2%80%85%EB%B6%80%EC%A1%B1%ED%95%B4/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold III | 11437 | LCA  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11437.%E2%80%85LCA/README.md) | <small>`그래프 이론` `최소 공통 조상` `트리` </small> |
+| Gold III | 11562 | 백양로 브레이크  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11562.%E2%80%85%EB%B0%B1%EC%96%91%EB%A1%9C%E2%80%85%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC/README.md) | <small>`플로이드–워셜` `그래프 이론` `최단 경로` </small> |
 | Gold III | 11779 | 최소비용 구하기 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11779.%E2%80%85%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%852/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold III | 11779 | 최소비용 구하기 2  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/11779.%E2%80%85%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%852/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold III | 14427 | 수열과 쿼리 15  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14427.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8515/README.md) | <small>`자료 구조` `우선순위 큐` `세그먼트 트리` </small> |
