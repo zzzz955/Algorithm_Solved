@@ -433,6 +433,7 @@
 | Silver V | 2635 | 수 이어가기  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/2635.%E2%80%85%EC%88%98%E2%80%85%EC%9D%B4%EC%96%B4%EA%B0%80%EA%B8%B0/README.md) | <small>`브루트포스 알고리즘` `수학` </small> |
 | Silver V | 2822 | 점수 계산  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2822.%E2%80%85%EC%A0%90%EC%88%98%E2%80%85%EA%B3%84%EC%82%B0/README.md) | <small>`정렬` </small> |
 | Silver V | 3049 | 다각형의 대각선  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/3049.%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EB%8C%80%EA%B0%81%EC%84%A0/README.md) | <small>`조합론` `수학` </small> |
+| Silver V | 4673 | 셀프 넘버  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/4673.%E2%80%85%EC%85%80%ED%94%84%E2%80%85%EB%84%98%EB%B2%84/README.md) | <small>`브루트포스 알고리즘` `구현` `수학` </small> |
 | Silver V | 5347 | LCM  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/5347.%E2%80%85LCM/README.md) | <small>`유클리드 호제법` `수학` `정수론` </small> |
 | Silver V | 5555 | 반지  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/5555.%E2%80%85%EB%B0%98%EC%A7%80/README.md) | <small>`브루트포스 알고리즘` `문자열` </small> |
 | Silver V | 5635 | 생일  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/5635.%E2%80%85%EC%83%9D%EC%9D%BC/README.md) | <small>`구현` `정렬` `문자열` </small> |
