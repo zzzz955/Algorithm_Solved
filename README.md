@@ -14,6 +14,7 @@
 | Platinum III | 1168 | 요세푸스 문제 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1168.%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%852/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum III | 1395 | 스위치  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1395.%E2%80%85%EC%8A%A4%EC%9C%84%EC%B9%98/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
 | Platinum III | 2820 | 자동차 공장  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/2820.%E2%80%85%EC%9E%90%EB%8F%99%EC%B0%A8%E2%80%85%EA%B3%B5%EC%9E%A5/README.md) | <small>`자료 구조` `오일러 경로 테크닉` `느리게 갱신되는 세그먼트 트리` `트리` `+1`</small> |
+| Platinum III | 9345 | 디지털 비디오 디스크(DVDs)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/9345.%E2%80%85%EB%94%94%EC%A7%80%ED%84%B8%E2%80%85%EB%B9%84%EB%94%94%EC%98%A4%E2%80%85%EB%94%94%EC%8A%A4%ED%81%AC%EF%BC%88DVDs%EF%BC%89/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum III | 12094 | 2048 (Hard)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/12094.%E2%80%852048%E2%80%85%EF%BC%88Hard%EF%BC%89/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `구현` `시뮬레이션` </small> |
 | Platinum III | 12844 | XOR  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/12844.%E2%80%85XOR/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
 | Platinum III | 13505 | 두 수 XOR  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/13505.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%E2%80%85XOR/README.md) | <small>`자료 구조` `트리` `트라이` </small> |
