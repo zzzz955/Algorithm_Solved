@@ -31,6 +31,7 @@
 | Platinum III | 19585 | 전설  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/19585.%E2%80%85%EC%A0%84%EC%84%A4/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `문자열` `트리` `트라이` </small> |
 | Platinum IV | 1280 | 나무 심기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1280.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%8B%AC%EA%B8%B0/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum IV | 2517 | 달리기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/2517.%E2%80%85%EB%8B%AC%EB%A6%AC%EA%B8%B0/README.md) | <small>`값 / 좌표 압축` `자료 구조` `세그먼트 트리` </small> |
+| Platinum IV | 2934 | LRH 식물  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/2934.%E2%80%85LRH%E2%80%85%EC%8B%9D%EB%AC%BC/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
 | Platinum IV | 3176 | 도로 네트워크  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/3176.%E2%80%85%EB%8F%84%EB%A1%9C%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/README.md) | <small>`자료 구조` `최소 공통 조상` `희소 배열` `트리` </small> |
 | Platinum IV | 3653 | 영화 수집  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/3653.%E2%80%85%EC%98%81%ED%99%94%E2%80%85%EC%88%98%EC%A7%91/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum IV | 5670 | 휴대폰 자판  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/5670.%E2%80%85%ED%9C%B4%EB%8C%80%ED%8F%B0%E2%80%85%EC%9E%90%ED%8C%90/README.md) | <small>`자료 구조` `문자열` `트리` `트라이` </small> |
