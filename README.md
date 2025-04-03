@@ -17,6 +17,7 @@
 | Platinum III | 9345 | 디지털 비디오 디스크(DVDs)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/9345.%E2%80%85%EB%94%94%EC%A7%80%ED%84%B8%E2%80%85%EB%B9%84%EB%94%94%EC%98%A4%E2%80%85%EB%94%94%EC%8A%A4%ED%81%AC%EF%BC%88DVDs%EF%BC%89/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum III | 12094 | 2048 (Hard)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/12094.%E2%80%852048%E2%80%85%EF%BC%88Hard%EF%BC%89/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `구현` `시뮬레이션` </small> |
 | Platinum III | 12844 | XOR  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/12844.%E2%80%85XOR/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
+| Platinum III | 12895 | 화려한 마을  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/12895.%E2%80%85%ED%99%94%EB%A0%A4%ED%95%9C%E2%80%85%EB%A7%88%EC%9D%84/README.md) | <small>`비트마스킹` `자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
 | Platinum III | 13505 | 두 수 XOR  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/13505.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%E2%80%85XOR/README.md) | <small>`자료 구조` `트리` `트라이` </small> |
 | Platinum III | 13511 | 트리와 쿼리 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/13511.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%852/README.md) | <small>`자료 구조` `최소 공통 조상` `희소 배열` `트리` </small> |
 | Platinum III | 13537 | 수열과 쿼리 1  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/13537.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%851/README.md) | <small>`자료 구조` `머지 소트 트리` `세그먼트 트리` `정렬` </small> |
