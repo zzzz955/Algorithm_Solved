@@ -6,13 +6,14 @@ using namespace std;
 const int N = 1001;
 int n, m;
 int mat[N];
-bool v[N];
+int v[N];
+int t;
 vector<int> edges[N];
 
 bool dfs(int node) {
 	for (int next : edges[node]) {
-		if (v[next]) continue;
-		v[next] = true;
+		if (v[next] == t) continue;
+		v[next] = t;
 		if (!mat[next] || dfs(mat[next])) {
 			mat[next] = node;
 			return true;
@@ -36,7 +37,7 @@ int main() {
 
 	int ans = 0;
 	for (int i = 1; i <= n; ++i) {
-		memset(v, false, sizeof(v));
+		t++;
 		if (dfs(i)) ans++;
 	}
 	cout << ans << "\n";
