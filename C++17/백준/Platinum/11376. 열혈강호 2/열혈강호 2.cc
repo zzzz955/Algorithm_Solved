@@ -40,6 +40,7 @@ int main() {
 		if (dfs(i)) ans++;
 		t++;
 		if (dfs(i)) ans++;
+		if (ans == m) break;
 	}
 	cout << ans;
 }
