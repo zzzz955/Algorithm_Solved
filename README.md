@@ -123,6 +123,7 @@
 | Gold II | 1368 | 물대기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1368.%E2%80%85%EB%AC%BC%EB%8C%80%EA%B8%B0/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold II | 1400 | 화물차  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1400.%E2%80%85%ED%99%94%EB%AC%BC%EC%B0%A8/README.md) | <small>`너비 우선 탐색` `데이크스트라` `그래프 이론` `그래프 탐색` `구현` `+1`</small> |
 | Gold II | 1445 | 일요일 아침의 데이트  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1445.%E2%80%85%EC%9D%BC%EC%9A%94%EC%9D%BC%E2%80%85%EC%95%84%EC%B9%A8%EC%9D%98%E2%80%85%EB%8D%B0%EC%9D%B4%ED%8A%B8/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
+| Gold II | 1486 | 등산  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1486.%E2%80%85%EB%93%B1%EC%82%B0/README.md) | <small>`데이크스트라` `플로이드–워셜` `그래프 이론` `최단 경로` </small> |
 | Gold II | 1525 | 퍼즐  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1525.%E2%80%85%ED%8D%BC%EC%A6%90/README.md) | <small>`너비 우선 탐색` `자료 구조` `그래프 이론` `그래프 탐색` `+1`</small> |
 | Gold II | 1766 | 문제집  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1766.%E2%80%85%EB%AC%B8%EC%A0%9C%EC%A7%91/README.md) | <small>`방향 비순환 그래프` `자료 구조` `그래프 이론` `우선순위 큐` `위상 정렬` </small> |
 | Gold II | 1781 | 컵라면  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/1781.%E2%80%85%EC%BB%B5%EB%9D%BC%EB%A9%B4/README.md) | <small>`자료 구조` `그리디 알고리즘` `우선순위 큐` `정렬` </small> |
