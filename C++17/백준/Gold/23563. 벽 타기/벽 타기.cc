@@ -28,16 +28,17 @@ int dijkstra() {
 
 		for (int i = 0; i < 4; ++i) {
 			int nx = cx + dx[i], ny = cy + dy[i];
-			bool cw = false, nw = false;
-			for (int j = 0; j < 4; ++j) {
-				int nnx = cx + dx[j], nny = cy + dy[j];
-				if (0 <= nnx && nnx < n && 0 <= nny && nny < m && lst[nnx][nny]) {
-					cw = true;
-					break;
-				}
-			}
 
 			if (0 <= nx && nx < n && 0 <= ny && ny < m && !lst[nx][ny]) {
+				bool cw = false, nw = false;
+				for (int j = 0; j < 4; ++j) {
+					int nnx = cx + dx[j], nny = cy + dy[j];
+					if (0 <= nnx && nnx < n && 0 <= nny && nny < m && lst[nnx][nny]) {
+						cw = true;
+						break;
+					}
+				}
+
 				for (int j = 0; j < 4; ++j) {
 					int nnx = nx + dx[j], nny = ny + dy[j];
 					if (0 <= nnx && nnx < n && 0 <= nny && nny < m && lst[nnx][nny]) {
@@ -45,6 +46,7 @@ int dijkstra() {
 						break;
 					}
 				}
+
 				int nt = cw && nw ? ct : ct + 1;
 				if (dist[nx][ny] > nt) {
 					dist[nx][ny] = nt;
