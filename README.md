@@ -576,6 +576,7 @@
 | Bronze III | 11586 | 지영 공주님의 마법 거울  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/11586.%E2%80%85%EC%A7%80%EC%98%81%E2%80%85%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%98%E2%80%85%EB%A7%88%EB%B2%95%E2%80%85%EA%B1%B0%EC%9A%B8/README.md) | <small>`문자열` `구현` </small> |
 | Bronze III | 30802 | 웰컴 키트  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/30802.%E2%80%85%EC%9B%B0%EC%BB%B4%E2%80%85%ED%82%A4%ED%8A%B8/README.md) | <small>`사칙연산` `구현` `수학` </small> |
 | Bronze IV | 1264 | 모음의 개수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/1264.%E2%80%85%EB%AA%A8%EC%9D%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/README.md) | <small>`구현` `문자열` </small> |
+| Bronze IV | 2083 | 럭비 클럽  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2083.%E2%80%85%EB%9F%AD%EB%B9%84%E2%80%85%ED%81%B4%EB%9F%BD/README.md) | <small>`구현` </small> |
 | Bronze IV | 2845 | 파티가 끝나고 난 뒤  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2845.%E2%80%85%ED%8C%8C%ED%8B%B0%EA%B0%80%E2%80%85%EB%81%9D%EB%82%98%EA%B3%A0%E2%80%85%EB%82%9C%E2%80%85%EB%92%A4/README.md) | <small>`구현` `사칙연산` `수학` </small> |
 | Bronze IV | 4470 | 줄번호  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/4470.%E2%80%85%EC%A4%84%EB%B2%88%ED%98%B8/README.md) | <small>`구현` `문자열` </small> |
 | Bronze IV | 5524 | 입실 관리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/5524.%E2%80%85%EC%9E%85%EC%8B%A4%E2%80%85%EA%B4%80%EB%A6%AC/README.md) | <small>`문자열` </small> |
