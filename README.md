@@ -283,6 +283,7 @@
 | Gold IV | 16120 | PPAP  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/16120.%E2%80%85PPAP/README.md) | <small>`자료 구조` `스택` `문자열` </small> |
 | Gold IV | 16197 | 두 동전  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/16197.%E2%80%85%EB%91%90%E2%80%85%EB%8F%99%EC%A0%84/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 16234 | 인구 이동  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16234.%E2%80%85%EC%9D%B8%EA%B5%AC%E2%80%85%EC%9D%B4%EB%8F%99/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
+| Gold IV | 16397 | 탈출  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16397.%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 16398 | 행성 연결  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16398.%E2%80%85%ED%96%89%EC%84%B1%E2%80%85%EC%97%B0%EA%B2%B0/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold IV | 16973 | 직사각형 탈출  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16973.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `누적 합` </small> |
 | Gold IV | 17092 | 색칠 공부  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17092.%E2%80%85%EC%83%89%EC%B9%A0%E2%80%85%EA%B3%B5%EB%B6%80/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `구현` `정렬` </small> |
