@@ -5,31 +5,36 @@
 using namespace std;
 
 int n, t, g;
-unordered_map<int, int> v;
+bool v[100000];
+struct Cur {
+	int x, y;
+};
 
 int bfs() {
-	queue<int> q;
-	q.push(n);
-	v[n] = 0;
+	queue<Cur> q;
+	q.push({ n, 0 });
+	v[n] = true;
 
 	while (!q.empty()) {
-		int p = q.front(); q.pop();
-		if (v[p] > t) continue;
-		if (p == g) return v[p];
+		Cur cur = q.front(); q.pop();
+		int p = cur.x, ct = cur.y;
+
+		if (ct > t) continue;
+		if (p == g) return ct;
 		//cout << p << " " << v[p] << "\n";
 		
-		if (p + 1 < 1e5 && !v.count(p + 1)) {
-			v[p + 1] = v[p] + 1;
-			q.push(p + 1);
+		if (p + 1 < 1e5 && !v[p + 1]) {
+			v[p + 1] = true;
+			q.push({ p + 1, ct + 1 });
 		}
 
 		if (p * 2 >= 1e5) continue;
 		string b = to_string(p * 2);
 		if (b[0] > '0') b[0]--;
 		int B = stoi(b);
-		if (B < 1e5 && !v.count(B)) {
-			v[B] = v[p] + 1;
-			q.push(B);
+		if (B < 1e5 && !v[B]) {
+			v[B] = true;
+			q.push({ B, ct + 1 });
 		}
 	}
 	return -1;
