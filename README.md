@@ -80,6 +80,7 @@
 | Platinum V | 14727 | 퍼즐 자르기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/14727.%E2%80%85%ED%8D%BC%EC%A6%90%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/README.md) | <small>`자료 구조` `분할 정복` `세그먼트 트리` `스택` </small> |
 | Platinum V | 15678 | 연세워터파크  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/15678.%E2%80%85%EC%97%B0%EC%84%B8%EC%9B%8C%ED%84%B0%ED%8C%8C%ED%81%AC/README.md) | <small>`자료 구조` `덱` `덱을 이용한 구간 최댓값 트릭` `다이나믹 프로그래밍` `+3`</small> |
 | Platinum V | 16496 | 큰 수 만들기  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Platinum/16496.%E2%80%85%ED%81%B0%E2%80%85%EC%88%98%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
+| Platinum V | 17400 | 깃발춤  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/17400.%E2%80%85%EA%B9%83%EB%B0%9C%EC%B6%A4/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum V | 20541 | 앨범정리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/20541.%E2%80%85%EC%95%A8%EB%B2%94%EC%A0%95%EB%A6%AC/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `구현` `문자열` `트리` `+1`</small> |
 | Platinum V | 27989 | 가장 큰 증가하는 부분 수열 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/27989.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%ED%81%B0%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4%E2%80%852/README.md) | <small>`값 / 좌표 압축` `자료 구조` `다이나믹 프로그래밍` `세그먼트 트리` </small> |
 | Gold I | 1175 | 배달  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1175.%E2%80%85%EB%B0%B0%EB%8B%AC/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
