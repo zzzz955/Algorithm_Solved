@@ -68,6 +68,7 @@
 | Platinum V | 2887 | 행성 터널  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/2887.%E2%80%85%ED%96%89%EC%84%B1%E2%80%85%ED%84%B0%EB%84%90/README.md) | <small>`그래프 이론` `최소 스패닝 트리` `정렬` </small> |
 | Platinum V | 3015 | 오아시스 재결합  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/3015.%E2%80%85%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4%E2%80%85%EC%9E%AC%EA%B2%B0%ED%95%A9/README.md) | <small>`자료 구조` `스택` </small> |
 | Platinum V | 3197 | 백조의 호수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/3197.%E2%80%85%EB%B0%B1%EC%A1%B0%EC%9D%98%E2%80%85%ED%98%B8%EC%88%98/README.md) | <small>`너비 우선 탐색` `자료 구조` `분리 집합` `그래프 이론` `그래프 탐색` </small> |
+| Platinum V | 3770 | 대한민국  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/3770.%E2%80%85%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum V | 6549 | 히스토그램에서 가장 큰 직사각형  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/6549.%E2%80%85%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8%EC%97%90%EC%84%9C%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%ED%81%B0%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/README.md) | <small>`자료 구조` `분할 정복` `세그먼트 트리` `스택` </small> |
 | Platinum V | 7578 | 공장  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/7578.%E2%80%85%EA%B3%B5%EC%9E%A5/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum V | 9426 | 중앙값 측정  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/9426.%E2%80%85%EC%A4%91%EC%95%99%EA%B0%92%E2%80%85%EC%B8%A1%EC%A0%95/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
