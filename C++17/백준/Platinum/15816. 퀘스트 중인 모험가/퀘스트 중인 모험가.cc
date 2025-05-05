@@ -9,7 +9,7 @@ struct Query {
 	int op, arg1, arg2;
 };
 unordered_map<int, int> VI;
-vector<int> tree;
+int tree[16000000];
 
 void update(int node, int s, int e, int idx) {
 	if (s == e) tree[node]++;
@@ -66,7 +66,6 @@ int main() {
 		VI[sorted[i]] = i;
 	}
 
-	tree.resize(all * 4);
 	for (int i = 0; i < n; ++i) {
 		update(1, 0, all - 1, VI[lst[i]]);
 	}
