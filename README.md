@@ -93,8 +93,8 @@
 | Gold I | 1208 | 부분수열의 합 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1208.%E2%80%85%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%852/README.md) | <small>`이분 탐색` `중간에서 만나기` </small> |
 | Gold I | 1275 | 커피숍2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1275.%E2%80%85%EC%BB%A4%ED%94%BC%EC%88%8D2/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
 | Gold I | 1300 | K번째 수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1300.%E2%80%85K%EB%B2%88%EC%A7%B8%E2%80%85%EC%88%98/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
-| Gold I | 1700 | 멀티탭 스케줄링  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1700.%E2%80%85%EB%A9%80%ED%8B%B0%ED%83%AD%E2%80%85%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81/README.md) | <small>`그리디 알고리즘` </small> |
 | Gold I | 1700 | 멀티탭 스케줄링  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1700.%E2%80%85%EB%A9%80%ED%8B%B0%ED%83%AD%E2%80%85%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81/README.md) | <small>`그리디 알고리즘` </small> |
+| Gold I | 1700 | 멀티탭 스케줄링  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1700.%E2%80%85%EB%A9%80%ED%8B%B0%ED%83%AD%E2%80%85%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81/README.md) | <small>`그리디 알고리즘` </small> |
 | Gold I | 1884 | 고속도로  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1884.%E2%80%85%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C/README.md) | <small>`데이크스트라` `다이나믹 프로그래밍` `그래프 이론` `최단 경로` </small> |
 | Gold I | 2042 | 구간 합 구하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2042.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
 | Gold I | 2098 | 외판원 순회  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2098.%E2%80%85%EC%99%B8%ED%8C%90%EC%9B%90%E2%80%85%EC%88%9C%ED%9A%8C/README.md) | <small>`비트마스킹` `다이나믹 프로그래밍` `비트필드를 이용한 다이나믹 프로그래밍` `+1`</small> |
@@ -110,8 +110,8 @@
 | Gold I | 11689 | GCD(n, k) = 1  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/11689.%E2%80%85GCD%EF%BC%88n%EF%BC%8C%E2%80%85k%EF%BC%89%E2%80%85%EF%BC%9D%E2%80%851/README.md) | <small>`오일러 피 함수` `수학` `정수론` </small> |
 | Gold I | 12100 | 2048 (Easy)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12100.%E2%80%852048%E2%80%85%EF%BC%88Easy%EF%BC%89/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `구현` `시뮬레이션` </small> |
 | Gold I | 12837 | 가계부 (Hard)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12837.%E2%80%85%EA%B0%80%EA%B3%84%EB%B6%80%E2%80%85%EF%BC%88Hard%EF%BC%89/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
-| Gold I | 13459 | 구슬 탈출  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/13459.%E2%80%85%EA%B5%AC%EC%8A%AC%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
 | Gold I | 13459 | 구슬 탈출  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13459.%E2%80%85%EA%B5%AC%EC%8A%AC%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
+| Gold I | 13459 | 구슬 탈출  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/13459.%E2%80%85%EA%B5%AC%EC%8A%AC%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
 | Gold I | 13460 | 구슬 탈출 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13460.%E2%80%85%EA%B5%AC%EC%8A%AC%E2%80%85%ED%83%88%EC%B6%9C%E2%80%852/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
 | Gold I | 14428 | 수열과 쿼리 16  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14428.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8516/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
 | Gold I | 14438 | 수열과 쿼리 17  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14438.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8517/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
@@ -223,14 +223,15 @@
 | Gold IV | 1327 | 소트 게임  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1327.%E2%80%85%EC%86%8C%ED%8A%B8%E2%80%85%EA%B2%8C%EC%9E%84/README.md) | <small>`너비 우선 탐색` `자료 구조` `그래프 이론` `그래프 탐색` `+2`</small> |
 | Gold IV | 1339 | 단어 수학  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1339.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%88%98%ED%95%99/README.md) | <small>`그리디 알고리즘` </small> |
 | Gold IV | 1477 | 휴게소 세우기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1477.%E2%80%85%ED%9C%B4%EA%B2%8C%EC%86%8C%E2%80%85%EC%84%B8%EC%9A%B0%EA%B8%B0/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
-| Gold IV | 1504 | 특정한 최단 경로  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1504.%E2%80%85%ED%8A%B9%EC%A0%95%ED%95%9C%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 1504 | 특정한 최단 경로  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1504.%E2%80%85%ED%8A%B9%EC%A0%95%ED%95%9C%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
+| Gold IV | 1504 | 특정한 최단 경로  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1504.%E2%80%85%ED%8A%B9%EC%A0%95%ED%95%9C%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 1647 | 도시 분할 계획  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1647.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EB%B6%84%ED%95%A0%E2%80%85%EA%B3%84%ED%9A%8D/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold IV | 1662 | 압축  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1662.%E2%80%85%EC%95%95%EC%B6%95/README.md) | <small>`자료 구조` `재귀` `스택` </small> |
 | Gold IV | 1707 | 이분 그래프  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1707.%E2%80%85%EC%9D%B4%EB%B6%84%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/README.md) | <small>`너비 우선 탐색` `이분 그래프` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 1744 | 수 묶기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1744.%E2%80%85%EC%88%98%E2%80%85%EB%AC%B6%EA%B8%B0/README.md) | <small>`많은 조건 분기` `그리디 알고리즘` `정렬` </small> |
 | Gold IV | 1753 | 최단경로  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/1753.%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 1806 | 부분합  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1806.%E2%80%85%EB%B6%80%EB%B6%84%ED%95%A9/README.md) | <small>`누적 합` `두 포인터` </small> |
+| Gold IV | 1863 | 스카이라인 쉬운거  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1863.%E2%80%85%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8%E2%80%85%EC%89%AC%EC%9A%B4%EA%B1%B0/README.md) | <small>`자료 구조` `스택` </small> |
 | Gold IV | 1922 | 네트워크 연결  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1922.%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%E2%80%85%EC%97%B0%EA%B2%B0/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold IV | 1963 | 소수 경로  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1963.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EA%B2%BD%EB%A1%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `수학` `정수론` `소수 판정` `+1`</small> |
 | Gold IV | 1967 | 트리의 지름  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1967.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EC%A7%80%EB%A6%84/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` `트리` </small> |
@@ -428,8 +429,8 @@
 | Silver II | 3085 | 사탕 게임  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/3085.%E2%80%85%EC%82%AC%ED%83%95%E2%80%85%EA%B2%8C%EC%9E%84/README.md) | <small>`브루트포스 알고리즘` `구현` </small> |
 | Silver II | 9184 | 신나는 함수 실행  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/9184.%E2%80%85%EC%8B%A0%EB%82%98%EB%8A%94%E2%80%85%ED%95%A8%EC%88%98%E2%80%85%EC%8B%A4%ED%96%89/README.md) | <small>`다이나믹 프로그래밍` `재귀` </small> |
 | Silver II | 11722 | 가장 긴 감소하는 부분 수열  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/11722.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4/README.md) | <small>`다이나믹 프로그래밍` </small> |
-| Silver II | 11724 | 연결 요소의 개수  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/11724.%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EC%9A%94%EC%86%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` </small> |
 | Silver II | 11724 | 연결 요소의 개수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/11724.%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EC%9A%94%EC%86%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` </small> |
+| Silver II | 11724 | 연결 요소의 개수  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/11724.%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EC%9A%94%EC%86%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` </small> |
 | Silver II | 11725 | 트리의 부모 찾기  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/11725.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EB%B6%80%EB%AA%A8%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`그래프 이론` `그래프 탐색` `트리` `너비 우선 탐색` `깊이 우선 탐색` </small> |
 | Silver II | 14713 | 앵무새  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/14713.%E2%80%85%EC%95%B5%EB%AC%B4%EC%83%88/README.md) | <small>`자료 구조` `구현` `큐` `문자열` </small> |
 | Silver II | 15663 | N과 M (9)  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/15663.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%889%EF%BC%89/README.md) | <small>`백트래킹` </small> |
