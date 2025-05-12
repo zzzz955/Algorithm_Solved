@@ -1,0 +1,70 @@
+import java.util.*;
+import java.io.*;
+
+class Pos {
+    public int x;
+    public int y;
+    Pos(int x, int y) {
+        this.x = x;
+        this.y = y;
+    }
+}
+
+public class Main {
+    public static void main(String[] args) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        int[][] lst = new int[50][50];
+        boolean[][] v = new boolean[50][50];
+        int dx[] = {-1, -1, -1, 0, 0, 1, 1, 1};
+        int dy[] = {-1, 0, 1, -1, 1, -1, 0, 1};
+
+        while (true) {
+            StringTokenizer st = new StringTokenizer(br.readLine());
+            int W = Integer.parseInt(st.nextToken());
+            int H = Integer.parseInt(st.nextToken());
+            if (W == 0 && H == 0) break;
+
+            for (int i = 0; i < H; ++i) {
+                st = new StringTokenizer(br.readLine());
+                for (int j = 0; j < W; ++j) {
+                    lst[i][j] = Integer.parseInt(st.nextToken());
+                    v[i][j] = false;
+                }
+            }
+
+            int ans = 0;
+            for (int i = 0; i < H; ++i) {
+                for (int j = 0; j < W; ++j) {
+                    if (v[i][j]) continue;
+                    if (lst[i][j] == 0) continue;
+//                    bw.write("x:" + i + ", y:" + j + "\n");
+                    v[i][j] = true;
+                    ans++;
+                    bfs(i, j, lst, v, dx, dy, H, W);
+                }
+            }
+            bw.write(ans + "\n");
+        }
+        br.close();
+        bw.close();
+    }
+
+    static void bfs(int sx, int sy, int[][] lst, boolean[][] v, int[] dx, int[] dy, int H, int W) {
+        Queue<Pos> q = new LinkedList<>();
+        q.add(new Pos(sx, sy));
+
+        while (!q.isEmpty()) {
+            Pos p = q.poll();
+            int cx = p.x, cy = p.y;
+
+            for (int i = 0; i < 8; ++i) {
+                int nx = cx + dx[i], ny = cy + dy[i];
+                if (0 <= nx && nx < H && 0 <= ny && ny < W && !v[nx][ny] && lst[nx][ny] > 0) {
+                    v[nx][ny] = true;
+                    q.add(new Pos(nx, ny));
+                }
+            }
+        }
+    }
+}
