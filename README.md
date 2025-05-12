@@ -441,6 +441,7 @@
 | Silver II | 20006 | 랭킹전 대기열  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/20006.%E2%80%85%EB%9E%AD%ED%82%B9%EC%A0%84%E2%80%85%EB%8C%80%EA%B8%B0%EC%97%B4/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Silver II | 24444 | 알고리즘 수업 - 너비 우선 탐색 1  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/24444.%E2%80%85%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%E2%80%85%EC%88%98%EC%97%85%E2%80%85%EF%BC%8D%E2%80%85%EB%84%88%EB%B9%84%E2%80%85%EC%9A%B0%EC%84%A0%E2%80%85%ED%83%90%EC%83%89%E2%80%851/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `정렬` </small> |
 | Silver II | 24938 | 키트 분배하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/24938.%E2%80%85%ED%82%A4%ED%8A%B8%E2%80%85%EB%B6%84%EB%B0%B0%ED%95%98%EA%B8%B0/README.md) | <small>`그리디 알고리즘` </small> |
+| Silver III | 1021 | 회전하는 큐  | [&nbsp;🔗&nbsp;](Java/%EB%B0%B1%EC%A4%80/Silver/1021.%E2%80%85%ED%9A%8C%EC%A0%84%ED%95%98%EB%8A%94%E2%80%85%ED%81%90/README.md) | <small>`자료 구조` `덱` </small> |
 | Silver III | 1213 | 팰린드롬 만들기  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/1213.%E2%80%85%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`그리디 알고리즘` `구현` `문자열` </small> |
 | Silver III | 1680 | 쓰레기 수거  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/1680.%E2%80%85%EC%93%B0%EB%A0%88%EA%B8%B0%E2%80%85%EC%88%98%EA%B1%B0/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Silver III | 2149 | 암호 해독  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/2149.%E2%80%85%EC%95%94%ED%98%B8%E2%80%85%ED%95%B4%EB%8F%85/README.md) | <small>`구현` `정렬` `문자열` </small> |
