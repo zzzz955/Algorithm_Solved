@@ -7,8 +7,8 @@ class Main {
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
     static class KV {
         String key;
-        String value;
-        KV(String key, String value) {
+        int value;
+        KV(String key, int value) {
             this.key = key;
             this.value = value;
         }
@@ -33,12 +33,12 @@ class Main {
 
         ArrayList<KV> kvs = new ArrayList<>();
         for (var entry : dic.entrySet()) {
-            kvs.add(new KV(entry.getKey(), String.format("%.4f", entry.getValue() / cnt * 100)));
+            kvs.add(new KV(entry.getKey(), entry.getValue()));
         }
 
         kvs.sort((kv1, kv2) -> kv1.key.compareTo(kv2.key));
         for (KV kv : kvs) {
-            bw.write(kv.key + " " + kv.value + "\n");
+            bw.write(kv.key + " " + String.format("%.4f", kv.value / cnt * 100) + "\n");
         }
 
         br.close();
