@@ -2,9 +2,17 @@ import java.util.*;
 import java.io.*;
 
 class Main {
-    static TreeMap<String, Integer> dic = new TreeMap<>();
+    static HashMap<String, Integer> dic = new HashMap<>();
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+    static class KV {
+        String key;
+        String value;
+        KV(String key, String value) {
+            this.key = key;
+            this.value = value;
+        }
+    }
 
     public static void main(String[] args) throws IOException {
         String treeName = br.readLine();
@@ -20,11 +28,17 @@ class Main {
                 treeName = br.readLine();
             }
         } catch (Exception e) {
-            
+
         }
 
+        ArrayList<KV> kvs = new ArrayList<>();
         for (var entry : dic.entrySet()) {
-            bw.write(entry.getKey() + " " + String.format("%.4f", entry.getValue() / cnt * 100) + "\n");
+            kvs.add(new KV(entry.getKey(), String.format("%.4f", entry.getValue() / cnt * 100)));
+        }
+
+        kvs.sort((kv1, kv2) -> kv1.key.compareTo(kv2.key));
+        for (KV kv : kvs) {
+            bw.write(kv.key + " " + kv.value + "\n");
         }
 
         br.close();
