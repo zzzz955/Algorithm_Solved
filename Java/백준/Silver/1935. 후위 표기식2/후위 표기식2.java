@@ -2,7 +2,8 @@ import java.util.*;
 import java.io.*;
 
 class Main {
-    static HashMap<Character, Double> dic = new HashMap<>();
+    static double[] dic = new double[100];
+//    static HashMap<Character, Double> dic = new HashMap<>();
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
@@ -13,20 +14,20 @@ class Main {
         for (char c = 'A'; c < 'A' + N; ++c) {
             st = new StringTokenizer(br.readLine());
             double M = Double.parseDouble(st.nextToken());
-            dic.put(c, M);
+            dic[c] = M;
         }
 
         Deque<Double> stack = new ArrayDeque<>();
         for (int i  = 0; i < s.length(); ++i) {
             char ch = s.charAt(i);
             if ('A' <= ch && ch <= 'Z') {
-                stack.push(dic.get(ch));
+                stack.push(dic[ch]);
             }
             else {
-                Double two = stack.pop();
-                Double one = stack.pop();
+                double two = stack.pop();
+                double one = stack.pop();
 
-                Double three;
+                double three;
                 if (ch == '*') {
                     three = one * two;
                 }
