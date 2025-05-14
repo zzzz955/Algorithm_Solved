@@ -15,12 +15,12 @@ class Main {
         StringTokenizer st = new StringTokenizer(br.readLine());
         int N = Integer.parseInt(st.nextToken());
 
-        long[] H = new long[N];
+        int[] H = new int[N];
         IV[] P = new IV[N];
 
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < N; ++i) {
-            long val = Long.parseLong(st.nextToken());
+            int val = Integer.parseInt(st.nextToken());
             H[i] = val;
         }
 
