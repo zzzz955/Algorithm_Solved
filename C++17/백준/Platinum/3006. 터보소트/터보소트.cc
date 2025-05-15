@@ -2,7 +2,6 @@
 using namespace std;
 
 const int N = 1e5 + 1;
-int lst[N];
 int idx[N];
 int tree[N * 4];
 
@@ -30,8 +29,8 @@ int main() {
 
 	int n; cin >> n;
 	for (int i = 1; i <= n; ++i) {
-		cin >> lst[i];
-		idx[lst[i]] = i;
+		int a; cin >> a;
+		idx[a] = i;
 	}
 
 	int L = 1, R = n, t = 1;
