@@ -12,12 +12,12 @@ int query(int node, int s, int e, int L, int R) {
 	return query(node * 2, s, mid, L, R) + query(node * 2 + 1, mid + 1, e, L, R);
 }
 
-void update(int node, int s, int e, int idx, int val) {
-	if (s == e) tree[node] += val;
+void update(int node, int s, int e, int idx) {
+	if (s == e) ++tree[node];
 	else {
 		int mid = (s + e) / 2;
-		if (idx <= mid) update(node * 2, s, mid, idx, val);
-		else update(node * 2 + 1, mid + 1, e, idx, val);
+		if (idx <= mid) update(node * 2, s, mid, idx);
+		else update(node * 2 + 1, mid + 1, e, idx);
 		tree[node] = tree[node * 2] + tree[node * 2 + 1];
 	}
 }
@@ -35,18 +35,17 @@ int main() {
 
 	int L = 1, R = n, t = 1;
 	while (L <= R) {
-		if (t % 2) {
+		if (t++ % 2) {
 			int sum = query(1, 1, n, 1, idx[L]);
-			update(1, 1, n, idx[L], 1);
+			update(1, 1, n, idx[L]);
 			cout << idx[L] - 1 - sum << "\n";
 			L++;
 		}
 		else {
 			int sum = query(1, 1, n, idx[R], n);
-			update(1, 1, n, idx[R], 1);
+			update(1, 1, n, idx[R]);
 			cout << n - idx[R] - sum << "\n";
 			R--;
 		}
-		t++;
 	}
 }
