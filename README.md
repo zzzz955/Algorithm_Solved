@@ -441,6 +441,7 @@
 | Silver II | 11724 | 연결 요소의 개수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/11724.%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EC%9A%94%EC%86%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` </small> |
 | Silver II | 11724 | 연결 요소의 개수  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/11724.%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EC%9A%94%EC%86%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` </small> |
 | Silver II | 11725 | 트리의 부모 찾기  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/11725.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EB%B6%80%EB%AA%A8%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`그래프 이론` `그래프 탐색` `트리` `너비 우선 탐색` `깊이 우선 탐색` </small> |
+| Silver II | 12891 | DNA 비밀번호  | [&nbsp;🔗&nbsp;](Java/%EB%B0%B1%EC%A4%80/Silver/12891.%E2%80%85DNA%E2%80%85%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8/README.md) | <small>`슬라이딩 윈도우` `문자열` </small> |
 | Silver II | 14247 | 나무 자르기  | [&nbsp;🔗&nbsp;](Java/%EB%B0%B1%EC%A4%80/Silver/14247.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Silver II | 14713 | 앵무새  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/14713.%E2%80%85%EC%95%B5%EB%AC%B4%EC%83%88/README.md) | <small>`자료 구조` `구현` `큐` `문자열` </small> |
 | Silver II | 15663 | N과 M (9)  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/15663.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%889%EF%BC%89/README.md) | <small>`백트래킹` </small> |
