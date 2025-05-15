@@ -1,0 +1,53 @@
+#include<iostream>
+using namespace std;
+
+const int N = 1e5 + 1;
+int lst[N];
+int idx[N];
+int tree[N * 4];
+
+int query(int node, int s, int e, int L, int R) {
+	if (R < s || e < L) return 0;
+	if (L <= s && e <= R) return tree[node];
+	int mid = (s + e) / 2;
+	return query(node * 2, s, mid, L, R) + query(node * 2 + 1, mid + 1, e, L, R);
+}
+
+void update(int node, int s, int e, int idx, int val) {
+	if (s == e) tree[node] += val;
+	else {
+		int mid = (s + e) / 2;
+		if (idx <= mid) update(node * 2, s, mid, idx, val);
+		else update(node * 2 + 1, mid + 1, e, idx, val);
+		tree[node] = tree[node * 2] + tree[node * 2 + 1];
+	}
+}
+
+int main() {
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+	cout.tie(0);
+
+	int n; cin >> n;
+	for (int i = 1; i <= n; ++i) {
+		cin >> lst[i];
+		idx[lst[i]] = i;
+	}
+
+	int L = 1, R = n, t = 1;
+	while (L <= R) {
+		if (t % 2) {
+			int sum = query(1, 1, n, 1, idx[L]);
+			update(1, 1, n, idx[L], 1);
+			cout << idx[L] - 1 - sum << "\n";
+			L++;
+		}
+		else {
+			int sum = query(1, 1, n, idx[R], n);
+			update(1, 1, n, idx[R], 1);
+			cout << n - idx[R] - sum << "\n";
+			R--;
+		}
+		t++;
+	}
+}
