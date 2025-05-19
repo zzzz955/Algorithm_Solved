@@ -56,6 +56,7 @@
 | Platinum IV | 17481 | 최애 정하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/17481.%E2%80%85%EC%B5%9C%EC%95%A0%E2%80%85%EC%A0%95%ED%95%98%EA%B8%B0/README.md) | <small>`이분 매칭` `자료 구조` `해시를 사용한 집합과 맵` </small> |
 | Platinum IV | 18135 | 겨울나기  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/18135.%E2%80%85%EA%B2%A8%EC%9A%B8%EB%82%98%EA%B8%B0/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
 | Platinum IV | 18138 | 리유나는 세일러복을 좋아해  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/18138.%E2%80%85%EB%A6%AC%EC%9C%A0%EB%82%98%EB%8A%94%E2%80%85%EC%84%B8%EC%9D%BC%EB%9F%AC%EB%B3%B5%EC%9D%84%E2%80%85%EC%A2%8B%EC%95%84%ED%95%B4/README.md) | <small>`이분 매칭` </small> |
+| Platinum IV | 22959 | 신촌 수열과 쿼리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/22959.%E2%80%85%EC%8B%A0%EC%B4%8C%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC/README.md) | <small>`자료 구조` `세그먼트 트리` `이분 탐색` </small> |
 | Platinum V | 1306 | 달려라 홍준  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1306.%E2%80%85%EB%8B%AC%EB%A0%A4%EB%9D%BC%E2%80%85%ED%99%8D%EC%A4%80/README.md) | <small>`자료 구조` `세그먼트 트리` `슬라이딩 윈도우` </small> |
 | Platinum V | 1321 | 군인  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1321.%E2%80%85%EA%B5%B0%EC%9D%B8/README.md) | <small>`이분 탐색` `자료 구조` `세그먼트 트리` </small> |
 | Platinum V | 1517 | 버블 소트  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1517.%E2%80%85%EB%B2%84%EB%B8%94%E2%80%85%EC%86%8C%ED%8A%B8/README.md) | <small>`자료 구조` `분할 정복` `세그먼트 트리` `정렬` </small> |
