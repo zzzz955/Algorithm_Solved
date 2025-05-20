@@ -43,13 +43,12 @@ int main() {
 	for (int i = 1; i <= n; ++i) cin >> lst[i];
 	build(1, 1, n);
 
-	vector<string> ans;
 	while (m--) {
 		int op, l, r; cin >> op >> l >> r;
 		if (op == 1) {
 			int res = query(1, 1, n, l, r - 1);
-			//cout << res << " ";
-			ans.push_back(res ? "HSS090\n" : "CS204\n");
+			if (res) cout << "HSS090\n";
+			else cout << "CS204\n";
 		}
 		else {
 			swap(lst[l], lst[r]);
@@ -59,6 +58,4 @@ int main() {
 			update(1, 1, n, r);
 		}
 	}
-
-	for (const string& s : ans) cout << s;
 }
