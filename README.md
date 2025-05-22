@@ -10,6 +10,7 @@
 | Platinum I | 13925 | 수열과 쿼리 13  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/13925.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8513/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
 | Platinum II | 7469 | K번째 수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/7469.%E2%80%85K%EB%B2%88%EC%A7%B8%E2%80%85%EC%88%98/README.md) | <small>`이분 탐색` `자료 구조` `머지 소트 트리` `세그먼트 트리` `정렬` </small> |
 | Platinum II | 15480 | LCA와 쿼리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/15480.%E2%80%85LCA%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/README.md) | <small>`최소 공통 조상` `트리` </small> |
+| Platinum II | 15782 | Calculate! 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/15782.%E2%80%85Calculate%EF%BC%81%E2%80%852/README.md) | <small>`자료 구조` `오일러 경로 테크닉` `그래프 이론` `그래프 탐색` `세그먼트 트리` `+2`</small> |
 | Platinum II | 15899 | 트리와 색깔  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/15899.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%83%89%EA%B9%94/README.md) | <small>`자료 구조` `오일러 경로 테크닉` `머지 소트 트리` `세그먼트 트리` `정렬` `+1`</small> |
 | Platinum III | 1168 | 요세푸스 문제 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1168.%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%852/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum III | 1395 | 스위치  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1395.%E2%80%85%EC%8A%A4%EC%9C%84%EC%B9%98/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
