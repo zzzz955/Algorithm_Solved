@@ -408,6 +408,7 @@
 | Gold V | 22352 | 항체 인식  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/22352.%E2%80%85%ED%95%AD%EC%B2%B4%E2%80%85%EC%9D%B8%EC%8B%9D/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 23747 | 와드  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/23747.%E2%80%85%EC%99%80%EB%93%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
 | Gold V | 27396 | 문자열 변환과 쿼리  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/27396.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B3%80%ED%99%98%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `문자열` </small> |
+| Gold V | 33851 | DAG LCA  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/33851.%E2%80%85DAG%E2%80%85LCA/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` </small> |
 | Silver I | 1074 | Z  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1074.%E2%80%85Z/README.md) | <small>`분할 정복` `재귀` </small> |
 | Silver I | 1283 | 단축키 지정  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/1283.%E2%80%85%EB%8B%A8%EC%B6%95%ED%82%A4%E2%80%85%EC%A7%80%EC%A0%95/README.md) | <small>`구현` `문자열` </small> |
 | Silver I | 1389 | 케빈 베이컨의 6단계 법칙  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/1389.%E2%80%85%EC%BC%80%EB%B9%88%E2%80%85%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%E2%80%856%EB%8B%A8%EA%B3%84%E2%80%85%EB%B2%95%EC%B9%99/README.md) | <small>`너비 우선 탐색` `플로이드–워셜` `그래프 이론` `그래프 탐색` `최단 경로` </small> |
