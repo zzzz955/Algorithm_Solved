@@ -384,6 +384,7 @@
 | Gold V | 14719 | 빗물  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14719.%E2%80%85%EB%B9%97%EB%AC%BC/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Gold V | 14891 | 톱니바퀴  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14891.%E2%80%85%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Gold V | 15558 | 점프 게임  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/15558.%E2%80%85%EC%A0%90%ED%94%84%E2%80%85%EA%B2%8C%EC%9E%84/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
+| Gold V | 15661 | 링크와 스타트  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/15661.%E2%80%85%EB%A7%81%ED%81%AC%EC%99%80%E2%80%85%EC%8A%A4%ED%83%80%ED%8A%B8/README.md) | <small>`브루트포스 알고리즘` `비트마스킹` `백트래킹` </small> |
 | Gold V | 15662 | 톱니바퀴 (2)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/15662.%E2%80%85%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4%E2%80%85%EF%BC%882%EF%BC%89/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Gold V | 15681 | 트리와 쿼리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/15681.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/README.md) | <small>`깊이 우선 탐색` `다이나믹 프로그래밍` `트리에서의 다이나믹 프로그래밍` `트리` `+2`</small> |
 | Gold V | 15686 | 치킨 배달  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/15686.%E2%80%85%EC%B9%98%ED%82%A8%E2%80%85%EB%B0%B0%EB%8B%AC/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `구현` </small> |
