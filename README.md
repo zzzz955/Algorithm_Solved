@@ -342,6 +342,7 @@
 | Gold V | 1717 | 집합의 표현  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1717.%E2%80%85%EC%A7%91%ED%95%A9%EC%9D%98%E2%80%85%ED%91%9C%ED%98%84/README.md) | <small>`자료 구조` `분리 집합` </small> |
 | Gold V | 1759 | 암호 만들기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1759.%E2%80%85%EC%95%94%ED%98%B8%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `조합론` `수학` </small> |
 | Gold V | 1916 | 최소비용 구하기  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/1916.%E2%80%85%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
+| Gold V | 2023 | 신기한 소수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2023.%E2%80%85%EC%8B%A0%EA%B8%B0%ED%95%9C%E2%80%85%EC%86%8C%EC%88%98/README.md) | <small>`수학` `정수론` `백트래킹` `소수 판정` </small> |
 | Gold V | 2096 | 내려가기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2096.%E2%80%85%EB%82%B4%EB%A0%A4%EA%B0%80%EA%B8%B0/README.md) | <small>`다이나믹 프로그래밍` `슬라이딩 윈도우` </small> |
 | Gold V | 2166 | 다각형의 면적  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2166.%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EB%A9%B4%EC%A0%81/README.md) | <small>`기하학` `다각형의 넓이` </small> |
 | Gold V | 2170 | 선 긋기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2170.%E2%80%85%EC%84%A0%E2%80%85%EA%B8%8B%EA%B8%B0/README.md) | <small>`정렬` `스위핑` </small> |
