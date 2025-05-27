@@ -392,6 +392,7 @@
 | Gold V | 16509 | 장군  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16509.%E2%80%85%EC%9E%A5%EA%B5%B0/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` </small> |
 | Gold V | 16928 | 뱀과 사다리 게임  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16928.%E2%80%85%EB%B1%80%EA%B3%BC%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC%E2%80%85%EA%B2%8C%EC%9E%84/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 16935 | 배열 돌리기 3  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16935.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%853/README.md) | <small>`구현` </small> |
+| Gold V | 16938 | 캠프 준비  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16938.%E2%80%85%EC%BA%A0%ED%94%84%E2%80%85%EC%A4%80%EB%B9%84/README.md) | <small>`백트래킹` `비트마스킹` `브루트포스 알고리즘` </small> |
 | Gold V | 16987 | 계란으로 계란치기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16987.%E2%80%85%EA%B3%84%EB%9E%80%EC%9C%BC%EB%A1%9C%E2%80%85%EA%B3%84%EB%9E%80%EC%B9%98%EA%B8%B0/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
 | Gold V | 17070 | 파이프 옮기기 1  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17070.%E2%80%85%ED%8C%8C%EC%9D%B4%ED%94%84%E2%80%85%EC%98%AE%EA%B8%B0%EA%B8%B0%E2%80%851/README.md) | <small>`다이나믹 프로그래밍` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 17396 | 백도어  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17396.%E2%80%85%EB%B0%B1%EB%8F%84%EC%96%B4/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
