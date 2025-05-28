@@ -256,6 +256,7 @@
 | Gold IV | 2295 | 세 수의 합  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2295.%E2%80%85%EC%84%B8%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9/README.md) | <small>`이분 탐색` `자료 구조` `해시를 사용한 집합과 맵` `중간에서 만나기` </small> |
 | Gold IV | 2412 | 암벽 등반  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2412.%E2%80%85%EC%95%94%EB%B2%BD%E2%80%85%EB%93%B1%EB%B0%98/README.md) | <small>`너비 우선 탐색` `자료 구조` `그래프 이론` `그래프 탐색` `+1`</small> |
 | Gold IV | 2458 | 키 순서  | [&nbsp;🔗&nbsp;](Java/%EB%B0%B1%EC%A4%80/Gold/2458.%E2%80%85%ED%82%A4%E2%80%85%EC%88%9C%EC%84%9C/README.md) | <small>`깊이 우선 탐색` `플로이드–워셜` `그래프 이론` `그래프 탐색` `최단 경로` </small> |
+| Gold IV | 2479 | 경로 찾기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2479.%E2%80%85%EA%B2%BD%EB%A1%9C%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` </small> |
 | Gold IV | 2573 | 빙산  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2573.%E2%80%85%EB%B9%99%EC%82%B0/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` `구현` </small> |
 | Gold IV | 2580 | 스도쿠  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2580.%E2%80%85%EC%8A%A4%EB%8F%84%EC%BF%A0/README.md) | <small>`백트래킹` </small> |
 | Gold IV | 2636 | 치즈  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2636.%E2%80%85%EC%B9%98%EC%A6%88/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
