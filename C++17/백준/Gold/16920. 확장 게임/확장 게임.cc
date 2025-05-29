@@ -50,6 +50,7 @@ void solution() {
 
 	while (con) {
 		for (int i = 1; i <= p; ++i) {
+			if (qs[i].empty()) continue;
 			floodfill(i);
 		}
 		con = get_con();
