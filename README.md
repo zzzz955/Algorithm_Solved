@@ -648,6 +648,7 @@
 | Bronze V | 14928 | 큰 수 (BIG)  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Bronze/14928.%E2%80%85%ED%81%B0%E2%80%85%EC%88%98%E2%80%85%EF%BC%88BIG%EF%BC%89/README.md) | <small>`수학` `사칙연산` `임의 정밀도 / 큰 수 연산` </small> |
 | Bronze V | 15680 | 연세대학교  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/15680.%E2%80%85%EC%97%B0%EC%84%B8%EB%8C%80%ED%95%99%EA%B5%90/README.md) | <small>`구현` </small> |
 | Bronze V | 15727 | 조별과제를 하려는데 조장이 사라졌다  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/15727.%E2%80%85%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C%EB%A5%BC%E2%80%85%ED%95%98%EB%A0%A4%EB%8A%94%EB%8D%B0%E2%80%85%EC%A1%B0%EC%9E%A5%EC%9D%B4%E2%80%85%EC%82%AC%EB%9D%BC%EC%A1%8C%EB%8B%A4/README.md) | <small>`사칙연산` `수학` </small> |
+| Bronze V | 15740 | A+B | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/15740.%E2%80%85A%EF%BC%8BB%E2%80%85%EF%BC%8D%E2%80%859/README.md) | <small>`수학` `사칙연산` `임의 정밀도 / 큰 수 연산` </small> |
 | Bronze V | 15964 | 이상한 기호  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/15964.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EA%B8%B0%ED%98%B8/README.md) | <small>`사칙연산` `수학` `구현` </small> |
 | Bronze V | 16394 | 홍익대학교  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/16394.%E2%80%85%ED%99%8D%EC%9D%B5%EB%8C%80%ED%95%99%EA%B5%90/README.md) | <small>`사칙연산` `수학` </small> |
 
