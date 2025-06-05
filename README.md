@@ -209,6 +209,7 @@
 | Gold III | 14890 | 경사로  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14890.%E2%80%85%EA%B2%BD%EC%82%AC%EB%A1%9C/README.md) | <small>`구현` </small> |
 | Gold III | 15683 | 감시  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/15683.%E2%80%85%EA%B0%90%EC%8B%9C/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `구현` `시뮬레이션` </small> |
 | Gold III | 16236 | 아기 상어  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16236.%E2%80%85%EC%95%84%EA%B8%B0%E2%80%85%EC%83%81%EC%96%B4/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
+| Gold III | 16437 | 양 구출 작전  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16437.%E2%80%85%EC%96%91%E2%80%85%EA%B5%AC%EC%B6%9C%E2%80%85%EC%9E%91%EC%A0%84/README.md) | <small>`그래프 이론` `그래프 탐색` `트리` `깊이 우선 탐색` </small> |
 | Gold III | 16637 | 괄호 추가하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16637.%E2%80%85%EA%B4%84%ED%98%B8%E2%80%85%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/README.md) | <small>`브루트포스 알고리즘` `구현` </small> |
 | Gold III | 16934 | 게임 닉네임  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16934.%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%85%EB%8B%89%EB%84%A4%EC%9E%84/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `문자열` `트리` `트라이` </small> |
 | Gold III | 16954 | 움직이는 미로 탈출  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16954.%E2%80%85%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
