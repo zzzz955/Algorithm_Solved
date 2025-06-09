@@ -51,6 +51,7 @@
 | Platinum IV | 12899 | 데이터 구조  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/12899.%E2%80%85%EB%8D%B0%EC%9D%B4%ED%84%B0%E2%80%85%EA%B5%AC%EC%A1%B0/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum IV | 14245 | XOR  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/14245.%E2%80%85XOR/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
 | Platinum IV | 14463 | 소가 길을 건너간 이유 9  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/14463.%E2%80%85%EC%86%8C%EA%B0%80%E2%80%85%EA%B8%B8%EC%9D%84%E2%80%85%EA%B1%B4%EB%84%88%EA%B0%84%E2%80%85%EC%9D%B4%EC%9C%A0%E2%80%859/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
+| Platinum IV | 14868 | 문명  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/14868.%E2%80%85%EB%AC%B8%EB%AA%85/README.md) | <small>`그래프 이론` `자료 구조` `그래프 탐색` `너비 우선 탐색` `분리 집합` </small> |
 | Platinum IV | 15816 | 퀘스트 중인 모험가  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/15816.%E2%80%85%ED%80%98%EC%8A%A4%ED%8A%B8%E2%80%85%EC%A4%91%EC%9D%B8%E2%80%85%EB%AA%A8%ED%97%98%EA%B0%80/README.md) | <small>`값 / 좌표 압축` `자료 구조` `세그먼트 트리` </small> |
 | Platinum IV | 15967 | 에바쿰  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/15967.%E2%80%85%EC%97%90%EB%B0%94%EC%BF%B0/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
 | Platinum IV | 16975 | 수열과 쿼리 21  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/16975.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8521/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
