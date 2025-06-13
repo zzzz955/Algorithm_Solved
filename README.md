@@ -367,6 +367,7 @@
 | Gold V | 2668 | 숫자고르기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2668.%E2%80%85%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 2866 | 문자열 잘라내기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2866.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0/README.md) | <small>`이분 탐색` `자료 구조` `해시를 사용한 집합과 맵` `문자열` </small> |
 | Gold V | 3079 | 입국심사  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/3079.%E2%80%85%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
+| Gold V | 3649 | 로봇 프로젝트  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/3649.%E2%80%85%EB%A1%9C%EB%B4%87%E2%80%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/README.md) | <small>`이분 탐색` `정렬` `두 포인터` </small> |
 | Gold V | 3933 | 라그랑주의 네 제곱수 정리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/3933.%E2%80%85%EB%9D%BC%EA%B7%B8%EB%9E%91%EC%A3%BC%EC%9D%98%E2%80%85%EB%84%A4%E2%80%85%EC%A0%9C%EA%B3%B1%EC%88%98%E2%80%85%EC%A0%95%EB%A6%AC/README.md) | <small>`브루트포스 알고리즘` `다이나믹 프로그래밍` </small> |
 | Gold V | 3980 | 선발 명단  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/3980.%E2%80%85%EC%84%A0%EB%B0%9C%E2%80%85%EB%AA%85%EB%8B%A8/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
 | Gold V | 5972 | 택배 배송  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/5972.%E2%80%85%ED%83%9D%EB%B0%B0%E2%80%85%EB%B0%B0%EC%86%A1/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
