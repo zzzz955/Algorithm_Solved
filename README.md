@@ -146,6 +146,7 @@
 | Gold II | 2211 | 네트워크 복구  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2211.%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%E2%80%85%EB%B3%B5%EA%B5%AC/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold II | 2352 | 반도체 설계  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2352.%E2%80%85%EB%B0%98%EB%8F%84%EC%B2%B4%E2%80%85%EC%84%A4%EA%B3%84/README.md) | <small>`이분 탐색` `가장 긴 증가하는 부분 수열: O(n log n)` </small> |
 | Gold II | 2437 | 저울  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2437.%E2%80%85%EC%A0%80%EC%9A%B8/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
+| Gold II | 2632 | 피자판매  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2632.%E2%80%85%ED%94%BC%EC%9E%90%ED%8C%90%EB%A7%A4/README.md) | <small>`이분 탐색` `집합과 맵` `누적 합` </small> |
 | Gold II | 2637 | 장난감 조립  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2637.%E2%80%85%EC%9E%A5%EB%82%9C%EA%B0%90%E2%80%85%EC%A1%B0%EB%A6%BD/README.md) | <small>`다이나믹 프로그래밍` `그래프 이론` `방향 비순환 그래프` `위상 정렬` </small> |
 | Gold II | 2871 | 아름다운 단어  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2871.%E2%80%85%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%E2%80%85%EB%8B%A8%EC%96%B4/README.md) | <small>`그리디 알고리즘` </small> |
 | Gold II | 3109 | 빵집  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/3109.%E2%80%85%EB%B9%B5%EC%A7%91/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` `그리디 알고리즘` </small> |
