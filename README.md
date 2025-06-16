@@ -125,6 +125,7 @@
 | Gold I | 14428 | 수열과 쿼리 16  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14428.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8516/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
 | Gold I | 14438 | 수열과 쿼리 17  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14438.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8517/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
 | Gold I | 16933 | 벽 부수고 이동하기 3  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/16933.%E2%80%85%EB%B2%BD%E2%80%85%EB%B6%80%EC%88%98%EA%B3%A0%E2%80%85%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0%E2%80%853/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
+| Gold I | 16991 | 외판원 순회 3  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16991.%E2%80%85%EC%99%B8%ED%8C%90%EC%9B%90%E2%80%85%EC%88%9C%ED%9A%8C%E2%80%853/README.md) | <small>`비트마스킹` `다이나믹 프로그래밍` `비트필드를 이용한 다이나믹 프로그래밍` `+1`</small> |
 | Gold I | 17143 | 낚시왕  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17143.%E2%80%85%EB%82%9A%EC%8B%9C%EC%99%95/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Gold I | 17435 | 합성함수와 쿼리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17435.%E2%80%85%ED%95%A9%EC%84%B1%ED%95%A8%EC%88%98%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/README.md) | <small>`자료 구조` `희소 배열` </small> |
 | Gold I | 17472 | 다리 만들기 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17472.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%852/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `깊이 우선 탐색` `그래프 이론` `구현` `+2`</small> |
