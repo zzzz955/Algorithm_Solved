@@ -1,6 +1,7 @@
 #include<iostream>
 #include<queue>
 #include<vector>
+#include<algorithm>
 #define ll long long
 using namespace std;
 
@@ -9,6 +10,9 @@ int n, m;
 int p[N];
 struct Edge {
 	int nn, nv;
+	bool operator<(const Edge& other) const {
+		return nv < other.nv;
+	}
 };
 vector<Edge> edges[N];
 struct Pos {
@@ -60,6 +64,8 @@ int main() {
 		edges[a].push_back({ b, c });
 		edges[b].push_back({ a, c });
 	}
+
+	for (int i = 1; i <= n; ++i) sort(edges[i].begin(), edges[i].end());
 
 	cout << dijkstra();
 }
