@@ -9,7 +9,7 @@ int t, n, m, k;
 struct Edge {
 	int nn, nc, nd;
 	bool operator<(const Edge& other) const {
-		return nc < other.nc;
+		return nd < other.nd;
 	}
 };
 struct Pos {
