@@ -34,6 +34,7 @@
 | Platinum IV | 1280 | 나무 심기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1280.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%8B%AC%EA%B8%B0/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum IV | 1298 | 노트북의 주인을 찾아서  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1298.%E2%80%85%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9D%98%E2%80%85%EC%A3%BC%EC%9D%B8%EC%9D%84%E2%80%85%EC%B0%BE%EC%95%84%EC%84%9C/README.md) | <small>`이분 매칭` </small> |
 | Platinum IV | 1849 | 순열  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1849.%E2%80%85%EC%88%9C%EC%97%B4/README.md) | <small>`이분 탐색` `자료 구조` `세그먼트 트리` </small> |
+| Platinum IV | 1854 | K번째 최단경로 찾기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1854.%E2%80%85K%EB%B2%88%EC%A7%B8%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`그래프 이론` `자료 구조` `집합과 맵` `최단 경로` `데이크스트라` `+1`</small> |
 | Platinum IV | 2188 | 축사 배정  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/2188.%E2%80%85%EC%B6%95%EC%82%AC%E2%80%85%EB%B0%B0%EC%A0%95/README.md) | <small>`이분 매칭` </small> |
 | Platinum IV | 2517 | 달리기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/2517.%E2%80%85%EB%8B%AC%EB%A6%AC%EA%B8%B0/README.md) | <small>`값 / 좌표 압축` `자료 구조` `세그먼트 트리` </small> |
 | Platinum IV | 2934 | LRH 식물  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/2934.%E2%80%85LRH%E2%80%85%EC%8B%9D%EB%AC%BC/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
