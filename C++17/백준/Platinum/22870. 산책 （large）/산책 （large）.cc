@@ -10,7 +10,6 @@ bool v[N];
 struct Edge {
 	int nn, nv;
 	bool operator<(const Edge& other) const {
-		if (nn == other.nn) return nv < other.nv;
 		return nn < other.nn;
 	}
 };
