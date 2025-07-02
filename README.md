@@ -43,6 +43,7 @@
 | Platinum IV | 3006 | 터보소트  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/3006.%E2%80%85%ED%84%B0%EB%B3%B4%EC%86%8C%ED%8A%B8/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum IV | 3176 | 도로 네트워크  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/3176.%E2%80%85%EB%8F%84%EB%A1%9C%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/README.md) | <small>`자료 구조` `최소 공통 조상` `희소 배열` `트리` </small> |
 | Platinum IV | 3653 | 영화 수집  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/3653.%E2%80%85%EC%98%81%ED%99%94%E2%80%85%EC%88%98%EC%A7%91/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
+| Platinum IV | 3988 | 수 고르기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/3988.%E2%80%85%EC%88%98%E2%80%85%EA%B3%A0%EB%A5%B4%EA%B8%B0/README.md) | <small>`자료 구조` `정렬` `집합과 맵` `우선순위 큐` `덱` `슬라이딩 윈도우` </small> |
 | Platinum IV | 5670 | 휴대폰 자판  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/5670.%E2%80%85%ED%9C%B4%EB%8C%80%ED%8F%B0%E2%80%85%EC%9E%90%ED%8C%90/README.md) | <small>`자료 구조` `문자열` `트리` `트라이` </small> |
 | Platinum IV | 5817 | 고통받는 난쟁이들  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/5817.%E2%80%85%EA%B3%A0%ED%86%B5%EB%B0%9B%EB%8A%94%E2%80%85%EB%82%9C%EC%9F%81%EC%9D%B4%EB%93%A4/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum IV | 9376 | 탈옥  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/9376.%E2%80%85%ED%83%88%EC%98%A5/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `최단 경로` `데이크스트라` `+1`</small> |
