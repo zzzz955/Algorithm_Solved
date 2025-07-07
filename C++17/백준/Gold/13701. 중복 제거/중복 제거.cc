@@ -11,9 +11,9 @@ int main() {
 	int n;
 	while (cin >> n) {
 		int idx = n / 8;
-		int mod = n % 8;
-		if (bucket[idx] & (1 << mod)) continue;
-		bucket[idx] += (1 << mod);
+		int bits = 1 << n % 8;
+		if (bucket[idx] & bits) continue;
+		bucket[idx] += bits;
 		cout << n << " ";
 	}
 }
