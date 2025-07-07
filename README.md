@@ -312,6 +312,7 @@
 | Gold IV | 13144 | List of Unique Numbers  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13144.%E2%80%85List%E2%80%85of%E2%80%85Unique%E2%80%85Numbers/README.md) | <small>`두 포인터` </small> |
 | Gold IV | 13397 | 구간 나누기 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13397.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0%E2%80%852/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
 | Gold IV | 13424 | 비밀 모임  | [&nbsp;🔗&nbsp;](Java/%EB%B0%B1%EC%A4%80/Gold/13424.%E2%80%85%EB%B9%84%EB%B0%80%E2%80%85%EB%AA%A8%EC%9E%84/README.md) | <small>`데이크스트라` `플로이드–워셜` `그래프 이론` `최단 경로` </small> |
+| Gold IV | 13701 | 중복 제거  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13701.%E2%80%85%EC%A4%91%EB%B3%B5%E2%80%85%EC%A0%9C%EA%B1%B0/README.md) | <small>`비트마스킹` `비트 집합` </small> |
 | Gold IV | 13913 | 숨바꼭질 4  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13913.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%E2%80%854/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 14002 | 가장 긴 증가하는 부분 수열 4  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14002.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4%E2%80%854/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Gold IV | 14226 | 이모티콘  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14226.%E2%80%85%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
