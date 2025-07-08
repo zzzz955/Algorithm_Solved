@@ -439,6 +439,7 @@
 | Gold V | 20168 | 골목 대장 호석 - 기능성  | [&nbsp;🔗&nbsp;](Java/%EB%B0%B1%EC%A4%80/Gold/20168.%E2%80%85%EA%B3%A8%EB%AA%A9%E2%80%85%EB%8C%80%EC%9E%A5%E2%80%85%ED%98%B8%EC%84%9D%E2%80%85%EF%BC%8D%E2%80%85%EA%B8%B0%EB%8A%A5%EC%84%B1/README.md) | <small>`그래프 이론` `브루트포스 알고리즘` `최단 경로` `데이크스트라` `백트래킹` </small> |
 | Gold V | 20437 | 문자열 게임 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/20437.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%852/README.md) | <small>`슬라이딩 윈도우` `문자열` </small> |
 | Gold V | 21608 | 상어 초등학교  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21608.%E2%80%85%EC%83%81%EC%96%B4%E2%80%85%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90/README.md) | <small>`구현` </small> |
+| Gold V | 21775 | 가희와 자원 놀이  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21775.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%9E%90%EC%9B%90%E2%80%85%EB%86%80%EC%9D%B4/README.md) | <small>`구현` `자료 구조` `집합과 맵` `시뮬레이션` `트리를 사용한 집합과 맵` </small> |
 | Gold V | 22251 | 빌런 호석  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/22251.%E2%80%85%EB%B9%8C%EB%9F%B0%E2%80%85%ED%98%B8%EC%84%9D/README.md) | <small>`브루트포스 알고리즘` `구현` </small> |
 | Gold V | 22352 | 항체 인식  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/22352.%E2%80%85%ED%95%AD%EC%B2%B4%E2%80%85%EC%9D%B8%EC%8B%9D/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 23747 | 와드  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/23747.%E2%80%85%EC%99%80%EB%93%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
