@@ -217,6 +217,7 @@
 | Gold III | 9466 | 텀 프로젝트  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9466.%E2%80%85%ED%85%80%E2%80%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold III | 9470 | Strahler 순서  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9470.%E2%80%85Strahler%E2%80%85%EC%88%9C%EC%84%9C/README.md) | <small>`방향 비순환 그래프` `그래프 이론` `위상 정렬` </small> |
 | Gold III | 9694 | 무엇을 아느냐가 아니라 누구를 아느냐가 문제다  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9694.%E2%80%85%EB%AC%B4%EC%97%87%EC%9D%84%E2%80%85%EC%95%84%EB%8A%90%EB%83%90%EA%B0%80%E2%80%85%EC%95%84%EB%8B%88%EB%9D%BC%E2%80%85%EB%88%84%EA%B5%AC%EB%A5%BC%E2%80%85%EC%95%84%EB%8A%90%EB%83%90%EA%B0%80%E2%80%85%EB%AC%B8%EC%A0%9C%EB%8B%A4/README.md) | <small>`그래프 이론` `최단 경로` `데이크스트라` `역추적` </small> |
+| Gold III | 9997 | 폰트  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9997.%E2%80%85%ED%8F%B0%ED%8A%B8/README.md) | <small>`비트마스킹` `브루트포스 알고리즘` `재귀` </small> |
 | Gold III | 10423 | 전기가 부족해  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/10423.%E2%80%85%EC%A0%84%EA%B8%B0%EA%B0%80%E2%80%85%EB%B6%80%EC%A1%B1%ED%95%B4/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold III | 11437 | LCA  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11437.%E2%80%85LCA/README.md) | <small>`그래프 이론` `최소 공통 조상` `트리` </small> |
 | Gold III | 11562 | 백양로 브레이크  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11562.%E2%80%85%EB%B0%B1%EC%96%91%EB%A1%9C%E2%80%85%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC/README.md) | <small>`플로이드–워셜` `그래프 이론` `최단 경로` </small> |
