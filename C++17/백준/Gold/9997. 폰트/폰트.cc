@@ -2,13 +2,14 @@
 using namespace std;
 
 const int N = 25;
-int n, tar;
+const int T = (1 << 26) - 1;
+int n;
 long long ans;
 int lst[N];
 
 void bt(int idx, int bit) {
 	if (idx >= n) {
-		if (bit == tar) {
+		if (bit == T) {
 			ans++;
 		}
 		return;
@@ -31,7 +32,6 @@ int main() {
 		lst[i] = b;
 	}
 
-	tar = (1 << 26) - 1;
 	bt(0, 0);
 	cout << ans;
 }
