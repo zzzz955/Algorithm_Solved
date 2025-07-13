@@ -3,7 +3,6 @@
 #define ll long long
 using namespace std;
 
-const int N = 1e6;
 int t, n;
 
 int main() {
@@ -21,11 +20,12 @@ int main() {
 		}
 
 		ll ans = 0;
-		while (pq.size() != 1) {
+		while (1) {
 			ll n1 = pq.top(); pq.pop();
 			ll n2 = pq.top(); pq.pop();
-			pq.push(n1 + n2);
 			ans += n1 + n2;
+			if (pq.empty()) break;
+			pq.push(n1 + n2);
 		}
 		cout << ans << "\n";
 	}
