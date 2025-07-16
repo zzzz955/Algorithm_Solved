@@ -2,16 +2,16 @@
 #include<queue>
 #include<vector>
 #include<cmath>
-#include<algorithm>
+//#include<algorithm>
 using namespace std;
 
 const int N = 1002;
 int n, k;
 struct Edge {
 	int nn, nv;
-	bool operator<(const Edge& other) const {
-		return nv < other.nv;
-	}
+	//bool operator<(const Edge& other) const {
+	//	return nv < other.nv;
+	//}
 };
 vector<Edge> edges[N];
 struct Pos {
@@ -81,7 +81,7 @@ int main() {
 		edges[i].push_back({ n + 1, fuel });
 	}
 
-	for (int i = 0; i <= n + 1; ++i) sort(edges[i].begin(), edges[i].end());
+	//for (int i = 0; i <= n + 1; ++i) sort(edges[i].begin(), edges[i].end());
 
 	int l = 0, r = 1500;
 	while (l <= r) {
