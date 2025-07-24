@@ -8,9 +8,6 @@ const int N = 4001;
 int n, m;
 struct Edge {
 	int nn, nv;
-	bool operator<(const Edge& other) const {
-		return nv < other.nv;
-	}
 };
 vector<Edge> edges[N];
 struct Fox {
@@ -39,6 +36,7 @@ vector<ll> dijkstra_fox() {
 		Fox fox = pq.top(); pq.pop();
 		int cn = fox.cn;
 		ll cv = fox.cv;
+		if (dist[cn] < cv) continue;
 
 		for (const Edge& edge : edges[cn]) {
 			int nn = edge.nn;
