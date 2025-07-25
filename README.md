@@ -116,6 +116,7 @@
 | Gold I | 1300 | K번째 수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1300.%E2%80%85K%EB%B2%88%EC%A7%B8%E2%80%85%EC%88%98/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
 | Gold I | 1700 | 멀티탭 스케줄링  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1700.%E2%80%85%EB%A9%80%ED%8B%B0%ED%83%AD%E2%80%85%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81/README.md) | <small>`그리디 알고리즘` </small> |
 | Gold I | 1700 | 멀티탭 스케줄링  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1700.%E2%80%85%EB%A9%80%ED%8B%B0%ED%83%AD%E2%80%85%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81/README.md) | <small>`그리디 알고리즘` </small> |
+| Gold I | 1800 | 인터넷 설치  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1800.%E2%80%85%EC%9D%B8%ED%84%B0%EB%84%B7%E2%80%85%EC%84%A4%EC%B9%98/README.md) | <small>`그래프 이론` `이분 탐색` `최단 경로` `데이크스트라` `매개 변수 탐색` </small> |
 | Gold I | 1884 | 고속도로  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1884.%E2%80%85%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C/README.md) | <small>`데이크스트라` `다이나믹 프로그래밍` `그래프 이론` `최단 경로` </small> |
 | Gold I | 2042 | 구간 합 구하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2042.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
 | Gold I | 2098 | 외판원 순회  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2098.%E2%80%85%EC%99%B8%ED%8C%90%EC%9B%90%E2%80%85%EC%88%9C%ED%9A%8C/README.md) | <small>`비트마스킹` `다이나믹 프로그래밍` `비트필드를 이용한 다이나믹 프로그래밍` `+1`</small> |
