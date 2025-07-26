@@ -457,6 +457,7 @@
 | Gold V | 22251 | 빌런 호석  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/22251.%E2%80%85%EB%B9%8C%EB%9F%B0%E2%80%85%ED%98%B8%EC%84%9D/README.md) | <small>`브루트포스 알고리즘` `구현` </small> |
 | Gold V | 22352 | 항체 인식  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/22352.%E2%80%85%ED%95%AD%EC%B2%B4%E2%80%85%EC%9D%B8%EC%8B%9D/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 23747 | 와드  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/23747.%E2%80%85%EC%99%80%EB%93%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
+| Gold V | 25556 | 포스택  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/25556.%E2%80%85%ED%8F%AC%EC%8A%A4%ED%83%9D/README.md) | <small>`자료 구조` `그리디 알고리즘` `스택` </small> |
 | Gold V | 27211 | 도넛 행성  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/27211.%E2%80%85%EB%8F%84%EB%84%9B%E2%80%85%ED%96%89%EC%84%B1/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` </small> |
 | Gold V | 27396 | 문자열 변환과 쿼리  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/27396.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B3%80%ED%99%98%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `문자열` </small> |
 | Gold V | 33851 | DAG LCA  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/33851.%E2%80%85DAG%E2%80%85LCA/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` </small> |
