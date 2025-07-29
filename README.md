@@ -375,6 +375,7 @@
 | Gold V | 1052 | 물병  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1052.%E2%80%85%EB%AC%BC%EB%B3%91/README.md) | <small>`비트마스킹` `그리디 알고리즘` `수학` </small> |
 | Gold V | 1068 | 트리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1068.%E2%80%85%ED%8A%B8%EB%A6%AC/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` `트리` </small> |
 | Gold V | 1092 | 배  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1092.%E2%80%85%EB%B0%B0/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
+| Gold V | 1174 | 줄어드는 수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1174.%E2%80%85%EC%A4%84%EC%96%B4%EB%93%9C%EB%8A%94%E2%80%85%EC%88%98/README.md) | <small>`브루트포스 알고리즘` `백트래킹` </small> |
 | Gold V | 1240 | 노드사이의 거리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1240.%E2%80%85%EB%85%B8%EB%93%9C%EC%82%AC%EC%9D%B4%EC%9D%98%E2%80%85%EA%B1%B0%EB%A6%AC/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` `트리` </small> |
 | Gold V | 1263 | 시간 관리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1263.%E2%80%85%EC%8B%9C%EA%B0%84%E2%80%85%EA%B4%80%EB%A6%AC/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Gold V | 1351 | 무한 수열  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1351.%E2%80%85%EB%AC%B4%ED%95%9C%E2%80%85%EC%88%98%EC%97%B4/README.md) | <small>`자료 구조` `다이나믹 프로그래밍` `해시를 사용한 집합과 맵` </small> |
