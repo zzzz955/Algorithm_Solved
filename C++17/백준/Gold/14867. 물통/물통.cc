@@ -1,69 +1,76 @@
 #include<iostream>
 #include<queue>
+#include<map>
 using namespace std;
+using pii = pair<int, int>;
 
 struct WB {
-	int a, b, c;
+	int a, b;
 };
 int ma, mb, da, db;
-bool v[1001][1001];
+map<pii, int> v;
 
 int bfs() {
 	queue<WB> q;
-	q.push({0, 0, 0});
-	v[0][0] = true;
+	q.push({ 0, 0 });
+	v[{0, 0}] = 0;
 
 	while (!q.empty()) {
 		WB wb = q.front(); q.pop();
-		int ca = wb.a, cb = wb.b, cc = wb.c;
+		int ca = wb.a, cb = wb.b;
+		int nc = v[{ca, cb}] + 1;
 		//cout << ca << " " << cb << "\n";
-		if (ca == da && cb == db) return cc;
+		if (ca == da && cb == db) return v[{ca, cb}];
 
-		if (!v[ma][cb]) {
-			v[ma][cb] = true;
-			q.push({ ma, cb, cc + 1 });
+		if (!v.count({ 0, cb })) {
+			v[{ 0, cb }] = nc;
+			q.push({ 0, cb });
 		}
 
-		if (!v[ca][mb]) {
-			v[ca][mb] = true;
-			q.push({ ca, mb, cc + 1 });
+		if (!v.count({ ma, cb })) {
+			v[{ ma, cb }] = nc;
+			q.push({ ma, cb });
 		}
 
-		if (!v[0][cb]) {
-			v[0][cb] = true;
-			q.push({ 0, cb, cc + 1 });
+		if (!v.count({ ca, 0 })) {
+			v[{ ca, 0 }] = nc;
+			q.push({ ca, 0 });
 		}
 
-		if (!v[ca][0]) {
-			v[ca][0] = true;
-			q.push({ ca, 0, cc + 1 });
+		if (!v.count({ ca, mb })) {
+			v[{ ca, mb }] = nc;
+			q.push({ ca, mb });
 		}
 
 		int diff = ma - ca;
 		if (cb > diff) {
-			if (!v[ma][cb - diff]) {
-				v[ma][cb - diff] = true;
-				q.push({ ma, cb - diff, cc + 1 });
+			int nb = cb - diff;
+			if (!v.count({ ma, nb })) {
+				v[{ ma, nb }] = nc;
+				q.push({ ma, nb });
 			}
 		}
 		else {
-			if (!v[ca + cb][0]) {
-				v[ca + cb][0] = true;
-				q.push({ ca + cb, 0, cc + 1 });
+			int na = ca + cb;
+			if (!v.count({ na, 0 })) {
+				v[{ na, 0 }] = nc;
+				q.push({ na, 0 });
 			}
 		}
 
 		diff = mb - cb;
 		if (ca > diff) {
-			if (!v[ca - diff][mb]) {
-				v[ca - diff][mb] = true;
-				q.push({ ca - diff, mb, cc + 1 });
+			int na = ca - diff;
+			if (!v.count({ na, mb })) {
+				v[{ na, mb }] = nc;
+				q.push({ na, mb });
 			}
 		}
 		else {
-			if (!v[0][ca + cb]) {
-				v[0][ca + cb] = true;
-				q.push({ 0, ca + cb, cc + 1 });
+			int nb = ca + cb;
+			if (!v.count({ 0, nb })) {
+				v[{ 0, nb }] = nc;
+				q.push({ 0, nb });
 			}
 		}
 	}
