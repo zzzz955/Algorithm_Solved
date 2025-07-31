@@ -180,6 +180,7 @@
 | Gold II | 13334 | 철로  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13334.%E2%80%85%EC%B2%A0%EB%A1%9C/README.md) | <small>`자료 구조` `우선순위 큐` `정렬` `스위핑` </small> |
 | Gold II | 13502 | 단어퍼즐 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13502.%E2%80%85%EB%8B%A8%EC%96%B4%ED%8D%BC%EC%A6%90%E2%80%852/README.md) | <small>`백트래킹` `자료 구조` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` `트리` `+3`</small> |
 | Gold II | 13911 | 집 구하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13911.%E2%80%85%EC%A7%91%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`그래프 이론` `최단 경로` `데이크스트라` </small> |
+| Gold II | 14867 | 물통  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14867.%E2%80%85%EB%AC%BC%ED%86%B5/README.md) | <small>`그래프 이론` `자료 구조` `그래프 탐색` `집합과 맵` `너비 우선 탐색` </small> |
 | Gold II | 15559 | 내 선물을 받아줘  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/15559.%E2%80%85%EB%82%B4%E2%80%85%EC%84%A0%EB%AC%BC%EC%9D%84%E2%80%85%EB%B0%9B%EC%95%84%EC%A4%98/README.md) | <small>`자료 구조` `깊이 우선 탐색` `분리 집합` `그래프 이론` `그래프 탐색` </small> |
 | Gold II | 16227 | 의약품 수송  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16227.%E2%80%85%EC%9D%98%EC%95%BD%ED%92%88%E2%80%85%EC%88%98%EC%86%A1/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold II | 16920 | 확장 게임  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16920.%E2%80%85%ED%99%95%EC%9E%A5%E2%80%85%EA%B2%8C%EC%9E%84/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` </small> |
