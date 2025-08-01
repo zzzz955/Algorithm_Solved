@@ -259,6 +259,7 @@
 | Gold III | 26086 | 어려운 스케줄링  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/26086.%E2%80%85%EC%96%B4%EB%A0%A4%EC%9A%B4%E2%80%85%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81/README.md) | <small>`자료 구조` `덱` `오프라인 쿼리` `정렬` </small> |
 | Gold IV | 1043 | 거짓말  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1043.%E2%80%85%EA%B1%B0%EC%A7%93%EB%A7%90/README.md) | <small>`자료 구조` `분리 집합` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 1062 | 가르침  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1062.%E2%80%85%EA%B0%80%EB%A5%B4%EC%B9%A8/README.md) | <small>`백트래킹` `비트마스킹` `브루트포스 알고리즘` </small> |
+| Gold IV | 1083 | 소트  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1083.%E2%80%85%EC%86%8C%ED%8A%B8/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Gold IV | 1197 | 최소 스패닝 트리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1197.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%EC%8A%A4%ED%8C%A8%EB%8B%9D%E2%80%85%ED%8A%B8%EB%A6%AC/README.md) | <small>`최소 스패닝 트리` `그래프 이론` </small> |
 | Gold IV | 1253 | 좋다  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1253.%E2%80%85%EC%A2%8B%EB%8B%A4/README.md) | <small>`이분 탐색` `자료 구조` `정렬` `두 포인터` </small> |
 | Gold IV | 1261 | 알고스팟  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/1261.%E2%80%85%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F/README.md) | <small>`0-1 너비 우선 탐색` `데이크스트라` `그래프 이론` `그래프 탐색` `+1`</small> |
