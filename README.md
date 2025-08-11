@@ -722,6 +722,7 @@
 | Bronze V | 24883 | 자동완성  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/24883.%E2%80%85%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1/README.md) | <small>`구현` </small> |
 | Bronze V | 25372 | 성택이의 은밀한 비밀번호  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/25372.%E2%80%85%EC%84%B1%ED%83%9D%EC%9D%B4%EC%9D%98%E2%80%85%EC%9D%80%EB%B0%80%ED%95%9C%E2%80%85%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8/README.md) | <small>`구현` `문자열` </small> |
 | Bronze V | 26711 | A+B  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/26711.%E2%80%85A%EF%BC%8BB/README.md) | <small>`수학` `사칙연산` `임의 정밀도 / 큰 수 연산` </small> |
+| Bronze V | 28701 | 세제곱의 합  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/28701.%E2%80%85%EC%84%B8%EC%A0%9C%EA%B3%B1%EC%9D%98%E2%80%85%ED%95%A9/README.md) | <small>`수학` `구현` `사칙연산` </small> |
 
 
 ## 📁 SWEA
