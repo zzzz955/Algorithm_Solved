@@ -27,9 +27,8 @@ int main() {
 				cout << 1;
 				return 0;
 			}
-			auto uit = upper_bound(lst + j + 1, lst + n, c - lst[i] - lst[j]);
 			auto lit = lower_bound(lst + j + 1, lst + n, c - lst[i] - lst[j]);
-			if (uit - lit) {
+			if (lit != lst + n && *lit == c - lst[i] - lst[j]) {
 				cout << 1;
 				return 0;
 			}
