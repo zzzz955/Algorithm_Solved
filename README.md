@@ -452,6 +452,7 @@
 | Gold V | 17609 | 회문  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17609.%E2%80%85%ED%9A%8C%EB%AC%B8/README.md) | <small>`문자열` `두 포인터` </small> |
 | Gold V | 17836 | 공주님을 구해라!  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17836.%E2%80%85%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%84%E2%80%85%EA%B5%AC%ED%95%B4%EB%9D%BC%EF%BC%81/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 18112 | 이진수 게임  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/18112.%E2%80%85%EC%9D%B4%EC%A7%84%EC%88%98%E2%80%85%EA%B2%8C%EC%9E%84/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `비트마스킹` </small> |
+| Gold V | 18114 | 블랙 프라이데이  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/18114.%E2%80%85%EB%B8%94%EB%9E%99%E2%80%85%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4/README.md) | <small>`이분 탐색` `브루트포스 알고리즘` `정렬` `두 포인터` </small> |
 | Gold V | 18405 | 경쟁적 전염  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/18405.%E2%80%85%EA%B2%BD%EC%9F%81%EC%A0%81%E2%80%85%EC%A0%84%EC%97%BC/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` </small> |
 | Gold V | 18428 | 감시 피하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/18428.%E2%80%85%EA%B0%90%EC%8B%9C%E2%80%85%ED%94%BC%ED%95%98%EA%B8%B0/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
 | Gold V | 19539 | 사과나무  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/19539.%E2%80%85%EC%82%AC%EA%B3%BC%EB%82%98%EB%AC%B4/README.md) | <small>`수학` `그리디 알고리즘` </small> |
