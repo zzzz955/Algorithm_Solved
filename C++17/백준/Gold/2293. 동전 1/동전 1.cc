@@ -16,12 +16,9 @@ int main() {
 		lst.push_back(a);
 	}
 
-	lst.erase(unique(lst.begin(), lst.end()), lst.end());
-	sort(lst.begin(), lst.end());
 	dp[0] = 1;
 	for (int j : lst) {
 		for (int i = j; i <= k; ++i) {
-			if (i < j) break;
 			dp[i] += dp[i - j];
 		}
 	}
