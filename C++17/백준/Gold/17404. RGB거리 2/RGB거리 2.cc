@@ -4,7 +4,6 @@ using namespace std;
 const int N = 1e3;
 int n;
 int lst[N][3];
-int dp[N][3];
 
 int main() {
 	ios::sync_with_stdio(0);
