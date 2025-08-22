@@ -402,6 +402,7 @@
 | Gold V | 2170 | 선 긋기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2170.%E2%80%85%EC%84%A0%E2%80%85%EA%B8%8B%EA%B8%B0/README.md) | <small>`정렬` `스위핑` </small> |
 | Gold V | 2212 | 센서  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2212.%E2%80%85%EC%84%BC%EC%84%9C/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Gold V | 2230 | 수 고르기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2230.%E2%80%85%EC%88%98%E2%80%85%EA%B3%A0%EB%A5%B4%EA%B8%B0/README.md) | <small>`정렬` `두 포인터` </small> |
+| Gold V | 2294 | 동전 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2294.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%852/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Gold V | 2467 | 용액  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2467.%E2%80%85%EC%9A%A9%EC%95%A1/README.md) | <small>`이분 탐색` `두 포인터` </small> |
 | Gold V | 2470 | 두 용액  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2470.%E2%80%85%EB%91%90%E2%80%85%EC%9A%A9%EC%95%A1/README.md) | <small>`이분 탐색` `정렬` `두 포인터` </small> |
 | Gold V | 2493 | 탑  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2493.%E2%80%85%ED%83%91/README.md) | <small>`자료 구조` `스택` </small> |
