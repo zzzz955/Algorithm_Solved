@@ -575,6 +575,7 @@
 | Silver V | 5800 | 성적 통계  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/5800.%E2%80%85%EC%84%B1%EC%A0%81%E2%80%85%ED%86%B5%EA%B3%84/README.md) | <small>`구현` `정렬` </small> |
 | Silver V | 10826 | 피보나치 수 4  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/10826.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%88%98%E2%80%854/README.md) | <small>`임의 정밀도 / 큰 수 연산` `다이나믹 프로그래밍` </small> |
 | Silver V | 11723 | 집합  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/11723.%E2%80%85%EC%A7%91%ED%95%A9/README.md) | <small>`비트마스킹` `구현` </small> |
+| Silver V | 12033 | 김인천씨의 식료품가게 (Small)  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/12033.%E2%80%85%EA%B9%80%EC%9D%B8%EC%B2%9C%EC%94%A8%EC%9D%98%E2%80%85%EC%8B%9D%EB%A3%8C%ED%92%88%EA%B0%80%EA%B2%8C%E2%80%85%EF%BC%88Small%EF%BC%89/README.md) | <small>`구현` `그리디 알고리즘` `브루트포스 알고리즘` </small> |
 | Bronze I | 1236 | 성 지키기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/1236.%E2%80%85%EC%84%B1%E2%80%85%EC%A7%80%ED%82%A4%EA%B8%B0/README.md) | <small>`구현` </small> |
 | Bronze I | 1292 | 쉽게 푸는 문제  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/1292.%E2%80%85%EC%89%BD%EA%B2%8C%E2%80%85%ED%91%B8%EB%8A%94%E2%80%85%EB%AC%B8%EC%A0%9C/README.md) | <small>`구현` `수학` </small> |
 | Bronze I | 1357 | 뒤집힌 덧셈  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/1357.%E2%80%85%EB%92%A4%EC%A7%91%ED%9E%8C%E2%80%85%EB%8D%A7%EC%85%88/README.md) | <small>`구현` `문자열` </small> |
