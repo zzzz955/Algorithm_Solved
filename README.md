@@ -359,6 +359,7 @@
 | Gold IV | 17144 | 미세먼지 안녕!  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17144.%E2%80%85%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%E2%80%85%EC%95%88%EB%85%95%EF%BC%81/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Gold IV | 17281 | ⚾  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17281.%E2%80%85%E2%9A%BE/README.md) | <small>`브루트포스 알고리즘` `구현` </small> |
 | Gold IV | 17298 | 오큰수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17298.%E2%80%85%EC%98%A4%ED%81%B0%EC%88%98/README.md) | <small>`자료 구조` `스택` </small> |
+| Gold IV | 17404 | RGB거리 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17404.%E2%80%85RGB%EA%B1%B0%EB%A6%AC%E2%80%852/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Gold IV | 17406 | 배열 돌리기 4  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17406.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%854/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `구현` </small> |
 | Gold IV | 17425 | 약수의 합  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/17425.%E2%80%85%EC%95%BD%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9/README.md) | <small>`수학` `정수론` `누적 합` `소수 판정` `에라토스테네스의 체` </small> |
 | Gold IV | 18223 | 민준이와 마산 그리고 건우  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/18223.%E2%80%85%EB%AF%BC%EC%A4%80%EC%9D%B4%EC%99%80%E2%80%85%EB%A7%88%EC%82%B0%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B3%A0%E2%80%85%EA%B1%B4%EC%9A%B0/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
