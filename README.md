@@ -366,6 +366,7 @@
 | Gold IV | 18223 | 민준이와 마산 그리고 건우  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/18223.%E2%80%85%EB%AF%BC%EC%A4%80%EC%9D%B4%EC%99%80%E2%80%85%EB%A7%88%EC%82%B0%E2%80%85%EA%B7%B8%EB%A6%AC%EA%B3%A0%E2%80%85%EA%B1%B4%EC%9A%B0/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 18513 | 샘터  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/18513.%E2%80%85%EC%83%98%ED%84%B0/README.md) | <small>`너비 우선 탐색` `자료 구조` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 19538 | 루머  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/19538.%E2%80%85%EB%A3%A8%EB%A8%B8/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` </small> |
+| Gold IV | 19942 | 다이어트  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/19942.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8/README.md) | <small>`브루트포스 알고리즘` `백트래킹` </small> |
 | Gold IV | 20040 | 사이클 게임  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/20040.%E2%80%85%EC%82%AC%EC%9D%B4%ED%81%B4%E2%80%85%EA%B2%8C%EC%9E%84/README.md) | <small>`자료 구조` `분리 집합` </small> |
 | Gold IV | 21924 | 도시 건설  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21924.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EA%B1%B4%EC%84%A4/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold IV | 21939 | 문제 추천 시스템 Version 1  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21939.%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%85%EC%B6%94%EC%B2%9C%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%85Version%E2%80%851/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `우선순위 큐` `트리를 사용한 집합과 맵` </small> |
