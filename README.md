@@ -714,6 +714,7 @@
 | Bronze V | 1271 | 엄청난 부자2  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/1271.%E2%80%85%EC%97%84%EC%B2%AD%EB%82%9C%E2%80%85%EB%B6%80%EC%9E%902/README.md) | <small>`임의 정밀도 / 큰 수 연산` `사칙연산` `수학` </small> |
 | Bronze V | 2338 | 긴자리 계산  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/2338.%E2%80%85%EA%B8%B4%EC%9E%90%EB%A6%AC%E2%80%85%EA%B3%84%EC%82%B0/README.md) | <small>`임의 정밀도 / 큰 수 연산` `사칙연산` `수학` </small> |
 | Bronze V | 4999 | 아!  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/4999.%E2%80%85%EC%95%84%EF%BC%81/README.md) | <small>`구현` `문자열` </small> |
+| Bronze V | 5341 | Pyramids  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/5341.%E2%80%85Pyramids/README.md) | <small>`수학` `구현` `사칙연산` </small> |
 | Bronze V | 6840 | Who is in the middle?  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/6840.%E2%80%85Who%E2%80%85is%E2%80%85in%E2%80%85the%E2%80%85middle%EF%BC%9F/README.md) | <small>`구현` </small> |
 | Bronze V | 7891 | Can you add this?  | [&nbsp;🔗&nbsp;](C99%20%28Clang%29/%EB%B0%B1%EC%A4%80/Bronze/7891.%E2%80%85Can%E2%80%85you%E2%80%85add%E2%80%85this%EF%BC%9F/README.md) | <small>`사칙연산` `구현` `수학` </small> |
 | Bronze V | 8545 | Zadanie próbne  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/8545.%E2%80%85Zadanie%E2%80%85pr%C3%B3bne/README.md) | <small>`구현` `문자열` </small> |
