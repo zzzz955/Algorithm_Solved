@@ -498,6 +498,7 @@
 | Silver I | 2343 | 기타 레슨  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/2343.%E2%80%85%EA%B8%B0%ED%83%80%E2%80%85%EB%A0%88%EC%8A%A8/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
 | Silver I | 2468 | 안전 영역  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2468.%E2%80%85%EC%95%88%EC%A0%84%E2%80%85%EC%98%81%EC%97%AD/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `깊이 우선 탐색` `그래프 이론` `+1`</small> |
 | Silver I | 2531 | 회전 초밥  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/2531.%E2%80%85%ED%9A%8C%EC%A0%84%E2%80%85%EC%B4%88%EB%B0%A5/README.md) | <small>`브루트포스 알고리즘` `슬라이딩 윈도우` `두 포인터` </small> |
+| Silver I | 2583 | 영역 구하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/2583.%E2%80%85%EC%98%81%EC%97%AD%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` `격자 그래프` `+1`</small> |
 | Silver I | 7562 | 나이트의 이동  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/7562.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%E2%80%85%EC%9D%B4%EB%8F%99/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Silver I | 11403 | 경로 찾기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/11403.%E2%80%85%EA%B2%BD%EB%A1%9C%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`플로이드–워셜` `그래프 이론` `그래프 탐색` `최단 경로` </small> |
 | Silver I | 14888 | 연산자 끼워넣기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/14888.%E2%80%85%EC%97%B0%EC%82%B0%EC%9E%90%E2%80%85%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
