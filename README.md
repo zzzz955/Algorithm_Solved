@@ -428,6 +428,7 @@
 | Gold V | 3980 | 선발 명단  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/3980.%E2%80%85%EC%84%A0%EB%B0%9C%E2%80%85%EB%AA%85%EB%8B%A8/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
 | Gold V | 5972 | 택배 배송  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/5972.%E2%80%85%ED%83%9D%EB%B0%B0%E2%80%85%EB%B0%B0%EC%86%A1/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold V | 6198 | 옥상 정원 꾸미기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/6198.%E2%80%85%EC%98%A5%EC%83%81%E2%80%85%EC%A0%95%EC%9B%90%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0/README.md) | <small>`자료 구조` `스택` </small> |
+| Gold V | 6443 | 애너그램  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/6443.%E2%80%85%EC%95%A0%EB%84%88%EA%B7%B8%EB%9E%A8/README.md) | <small>`문자열` `집합과 맵` `백트래킹` </small> |
 | Gold V | 6593 | 상범 빌딩  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/6593.%E2%80%85%EC%83%81%EB%B2%94%E2%80%85%EB%B9%8C%EB%94%A9/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 7490 | 0 만들기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/7490.%E2%80%850%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `구현` `문자열` </small> |
 | Gold V | 7569 | 토마토  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/7569.%E2%80%85%ED%86%A0%EB%A7%88%ED%86%A0/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
