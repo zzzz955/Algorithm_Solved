@@ -266,6 +266,7 @@
 | Gold III | 23563 | 벽 타기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/23563.%E2%80%85%EB%B2%BD%E2%80%85%ED%83%80%EA%B8%B0/README.md) | <small>`0-1 너비 우선 탐색` `데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold III | 24337 | 가희와 탑  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/24337.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%ED%83%91/README.md) | <small>`해 구성하기` `그리디 알고리즘` </small> |
 | Gold III | 26086 | 어려운 스케줄링  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/26086.%E2%80%85%EC%96%B4%EB%A0%A4%EC%9A%B4%E2%80%85%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81/README.md) | <small>`자료 구조` `덱` `오프라인 쿼리` `정렬` </small> |
+| Gold III | 28099 | 이상한 배열  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/28099.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EB%B0%B0%EC%97%B4/README.md) | <small>`자료 구조` `세그먼트 트리` `집합과 맵` `트리를 사용한 집합과 맵` </small> |
 | Gold IV | 1043 | 거짓말  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1043.%E2%80%85%EA%B1%B0%EC%A7%93%EB%A7%90/README.md) | <small>`자료 구조` `분리 집합` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 1062 | 가르침  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1062.%E2%80%85%EA%B0%80%EB%A5%B4%EC%B9%A8/README.md) | <small>`백트래킹` `비트마스킹` `브루트포스 알고리즘` </small> |
 | Gold IV | 1083 | 소트  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1083.%E2%80%85%EC%86%8C%ED%8A%B8/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
