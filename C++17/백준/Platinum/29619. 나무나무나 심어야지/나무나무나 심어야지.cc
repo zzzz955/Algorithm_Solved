@@ -4,7 +4,6 @@ using namespace std;
 
 const int N = 2e5 + 1;
 int n, m;
-int lst[N];
 int tree[N * 4];
 struct Query {
 	int op, i, j, w;
