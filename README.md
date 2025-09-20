@@ -756,6 +756,7 @@
 | Bronze V | 20254 | Site Score  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/20254.%E2%80%85Site%E2%80%85Score/README.md) | <small>`수학` `사칙연산` </small> |
 | Bronze V | 20492 | 세금  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/20492.%E2%80%85%EC%84%B8%EA%B8%88/README.md) | <small>`수학` `사칙연산` </small> |
 | Bronze V | 22193 | Multiply  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/22193.%E2%80%85Multiply/README.md) | <small>`수학` `사칙연산` `임의 정밀도 / 큰 수 연산` </small> |
+| Bronze V | 24078 | 余り (Remainder)  | [&nbsp;🔗&nbsp;](C99/%EB%B0%B1%EC%A4%80/Bronze/24078.%E2%80%85%E4%BD%99%E3%82%8A%E2%80%85%EF%BC%88Remainder%EF%BC%89/README.md) | <small>`수학` `사칙연산` </small> |
 | Bronze V | 24309 | РАВЕНСТВО  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/24309.%E2%80%85%D0%A0%D0%90%D0%92%D0%95%D0%9D%D0%A1%D0%A2%D0%92%D0%9E/README.md) | <small>`수학` `사칙연산` `임의 정밀도 / 큰 수 연산` </small> |
 | Bronze V | 24883 | 자동완성  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/24883.%E2%80%85%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1/README.md) | <small>`구현` </small> |
 | Bronze V | 25372 | 성택이의 은밀한 비밀번호  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/25372.%E2%80%85%EC%84%B1%ED%83%9D%EC%9D%B4%EC%9D%98%E2%80%85%EC%9D%80%EB%B0%80%ED%95%9C%E2%80%85%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8/README.md) | <small>`구현` `문자열` </small> |
