@@ -763,6 +763,7 @@
 | Bronze V | 26574 | Copier  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/26574.%E2%80%85Copier/README.md) | <small>`구현` </small> |
 | Bronze V | 26711 | A+B  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/26711.%E2%80%85A%EF%BC%8BB/README.md) | <small>`수학` `사칙연산` `임의 정밀도 / 큰 수 연산` </small> |
 | Bronze V | 27327 | 時間 (Hour)  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/27327.%E2%80%85%E6%99%82%E9%96%93%E2%80%85%EF%BC%88Hour%EF%BC%89/README.md) | <small>`수학` `사칙연산` </small> |
+| Bronze V | 27328 | 三方比較 (Three-Way Comparison)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/27328.%E2%80%85%E4%B8%89%E6%96%B9%E6%AF%94%E8%BC%83%E2%80%85%EF%BC%88Three%EF%BC%8DWay%E2%80%85Comparison%EF%BC%89/README.md) | <small>`수학` `구현` `사칙연산` </small> |
 | Bronze V | 27959 | 초코바  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/27959.%E2%80%85%EC%B4%88%EC%BD%94%EB%B0%94/README.md) | <small>`수학` `사칙연산` </small> |
 | Bronze V | 28701 | 세제곱의 합  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/28701.%E2%80%85%EC%84%B8%EC%A0%9C%EA%B3%B1%EC%9D%98%E2%80%85%ED%95%A9/README.md) | <small>`수학` `구현` `사칙연산` </small> |
 
