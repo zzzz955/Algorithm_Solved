@@ -373,6 +373,7 @@
 | Gold IV | 17092 | 색칠 공부  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17092.%E2%80%85%EC%83%89%EC%B9%A0%E2%80%85%EA%B3%B5%EB%B6%80/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `구현` `정렬` </small> |
 | Gold IV | 17141 | 연구소 2  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/17141.%E2%80%85%EC%97%B0%EA%B5%AC%EC%86%8C%E2%80%852/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 17144 | 미세먼지 안녕!  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17144.%E2%80%85%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%E2%80%85%EC%95%88%EB%85%95%EF%BC%81/README.md) | <small>`구현` `시뮬레이션` </small> |
+| Gold IV | 17255 | N으로 만들기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17255.%E2%80%85N%EC%9C%BC%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`자료 구조` `백트래킹` `트리를 사용한 집합과 맵` </small> |
 | Gold IV | 17281 | ⚾  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17281.%E2%80%85%E2%9A%BE/README.md) | <small>`브루트포스 알고리즘` `구현` </small> |
 | Gold IV | 17298 | 오큰수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17298.%E2%80%85%EC%98%A4%ED%81%B0%EC%88%98/README.md) | <small>`자료 구조` `스택` </small> |
 | Gold IV | 17404 | RGB거리 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17404.%E2%80%85RGB%EA%B1%B0%EB%A6%AC%E2%80%852/README.md) | <small>`다이나믹 프로그래밍` </small> |
