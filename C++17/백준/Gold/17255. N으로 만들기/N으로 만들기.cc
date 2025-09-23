@@ -38,15 +38,14 @@ int main() {
 	n = s.size();
 	for (int i = 1; i <= n; ++i) {
 		v[s[i - 1] - '0'] = true;
-		for (int j = 0; j <= n - i; ++j) {
-			string temp = s.substr(j, i);
-			dic.insert(temp);
-		}
+		for (int j = 0; j <= n - i; ++j) dic.insert(s.substr(j, i));
 	}
 
 	for (int i = 0; i <= 9; ++i) {
-		string first = to_string(i);
-		if (v[i]) bt(1, first, first);
+		if (v[i]) {
+			string first = to_string(i);
+			bt(1, first, first);
+		}
 	}
 	cout << ans;
 }
