@@ -268,6 +268,7 @@
 | Gold III | 17616 | 등수 찾기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17616.%E2%80%85%EB%93%B1%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` </small> |
 | Gold III | 22860 | 폴더 정리 (small)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/22860.%E2%80%85%ED%8F%B4%EB%8D%94%E2%80%85%EC%A0%95%EB%A6%AC%E2%80%85%EF%BC%88small%EF%BC%89/README.md) | <small>`자료 구조` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` `문자열` `트리` `+2`</small> |
 | Gold III | 22866 | 탑 보기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/22866.%E2%80%85%ED%83%91%E2%80%85%EB%B3%B4%EA%B8%B0/README.md) | <small>`자료 구조` `스택` </small> |
+| Gold III | 22944 | 죽음의 비  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/22944.%E2%80%85%EC%A3%BD%EC%9D%8C%EC%9D%98%E2%80%85%EB%B9%84/README.md) | <small>`그래프 이론` `브루트포스 알고리즘` `그래프 탐색` `너비 우선 탐색` `백트래킹` </small> |
 | Gold III | 23084 | IUPC와 비밀번호  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/23084.%E2%80%85IUPC%EC%99%80%E2%80%85%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8/README.md) | <small>`많은 조건 분기` `슬라이딩 윈도우` `문자열` </small> |
 | Gold III | 23563 | 벽 타기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/23563.%E2%80%85%EB%B2%BD%E2%80%85%ED%83%80%EA%B8%B0/README.md) | <small>`0-1 너비 우선 탐색` `데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold III | 24337 | 가희와 탑  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/24337.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%ED%83%91/README.md) | <small>`해 구성하기` `그리디 알고리즘` </small> |
