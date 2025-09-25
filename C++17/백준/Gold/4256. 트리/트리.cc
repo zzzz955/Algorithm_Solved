@@ -1,22 +1,20 @@
 #include<iostream>
 #include<vector>
-#include<unordered_map>
 using namespace std;
 
-const int N = 1000;
-int t, n, idx;
-int pre[N];
-unordered_map<int, int> dic;
-vector<int> post;
+const int N = 1002;
+int t, n;
+int pre_idx, post_idx;
+int pre[N], in[N], post[N];
 
 void build(int L, int R) {
 	if (L > R) return;
-	int root = pre[idx++];
-	int iroot = dic[root];
+	int root = pre[pre_idx++];
+	int iroot = in[root];
 
 	build(L, iroot - 1);
 	build(iroot + 1, R);
-	post.push_back(root);
+	post[post_idx++] = root;
 }
 
 int main() {
@@ -27,20 +25,18 @@ int main() {
 	cin >> t;
 	while (t--) {
 		cin >> n;
-		dic.clear();
-		post.clear();
-		idx = 0;
+		pre_idx = post_idx = 1;
 		
-		for (int i = 0; i < n; ++i) cin >> pre[i];
-		for (int i = 0; i < n; ++i) {
+		for (int i = 1; i <= n; ++i) cin >> pre[i];
+		for (int i = 1; i <= n; ++i) {
 			int a; cin >> a;
-			dic[a] = i;
+			in[a] = i;
 		}
 
-		build(0, n - 1);
-		for (int i = 0; i < n; ++i) {
+		build(1, n);
+		for (int i = 1; i <= n; ++i) {
 			cout << post[i];
-			if (i != n - 1) cout << " ";
+			if (i < n) cout << " ";
 		}
 		if (t) cout << "\n";
 	}
