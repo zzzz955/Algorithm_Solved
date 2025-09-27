@@ -12,10 +12,8 @@ int main() {
 	cin >> n;
 	while (n--) {
 		int d, w; cin >> d >> w;
-		bool flag = false;
 		while (!s.empty() && w < s.back()) s.pop_back();
 		if (s.empty() || s.back() < w) {
-			flag = true;
 			s.push_back(w);
 			ans++;
 		}
