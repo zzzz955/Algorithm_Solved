@@ -79,6 +79,7 @@
 | Platinum IV | 18138 | 리유나는 세일러복을 좋아해  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/18138.%E2%80%85%EB%A6%AC%EC%9C%A0%EB%82%98%EB%8A%94%E2%80%85%EC%84%B8%EC%9D%BC%EB%9F%AC%EB%B3%B5%EC%9D%84%E2%80%85%EC%A2%8B%EC%95%84%ED%95%B4/README.md) | <small>`이분 매칭` </small> |
 | Platinum IV | 22870 | 산책 (large)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/22870.%E2%80%85%EC%82%B0%EC%B1%85%E2%80%85%EF%BC%88large%EF%BC%89/README.md) | <small>`그래프 이론` `그래프 탐색` `최단 경로` `데이크스트라` </small> |
 | Platinum IV | 22959 | 신촌 수열과 쿼리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/22959.%E2%80%85%EC%8B%A0%EC%B4%8C%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC/README.md) | <small>`자료 구조` `세그먼트 트리` `이분 탐색` </small> |
+| Platinum IV | 30976 | 사랑의 큐피드  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/30976.%E2%80%85%EC%82%AC%EB%9E%91%EC%9D%98%E2%80%85%ED%81%90%ED%94%BC%EB%93%9C/README.md) | <small>`이분 매칭` </small> |
 | Platinum V | 1162 | 도로포장  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1162.%E2%80%85%EB%8F%84%EB%A1%9C%ED%8F%AC%EC%9E%A5/README.md) | <small>`다이나믹 프로그래밍` `그래프 이론` `최단 경로` `데이크스트라` </small> |
 | Platinum V | 1306 | 달려라 홍준  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1306.%E2%80%85%EB%8B%AC%EB%A0%A4%EB%9D%BC%E2%80%85%ED%99%8D%EC%A4%80/README.md) | <small>`자료 구조` `세그먼트 트리` `슬라이딩 윈도우` </small> |
 | Platinum V | 1321 | 군인  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1321.%E2%80%85%EA%B5%B0%EC%9D%B8/README.md) | <small>`이분 탐색` `자료 구조` `세그먼트 트리` </small> |
