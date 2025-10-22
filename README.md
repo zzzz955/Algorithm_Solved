@@ -432,6 +432,7 @@
 | Gold V | 1263 | 시간 관리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1263.%E2%80%85%EC%8B%9C%EA%B0%84%E2%80%85%EA%B4%80%EB%A6%AC/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Gold V | 1351 | 무한 수열  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1351.%E2%80%85%EB%AC%B4%ED%95%9C%E2%80%85%EC%88%98%EC%97%B4/README.md) | <small>`자료 구조` `다이나믹 프로그래밍` `해시를 사용한 집합과 맵` </small> |
 | Gold V | 1374 | 강의실  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1374.%E2%80%85%EA%B0%95%EC%9D%98%EC%8B%A4/README.md) | <small>`자료 구조` `그리디 알고리즘` `우선순위 큐` `정렬` </small> |
+| Gold V | 1456 | 거의 소수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1456.%E2%80%85%EA%B1%B0%EC%9D%98%E2%80%85%EC%86%8C%EC%88%98/README.md) | <small>`수학` `정수론` `소수 판정` `에라토스테네스의 체` </small> |
 | Gold V | 1584 | 게임  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1584.%E2%80%85%EA%B2%8C%EC%9E%84/README.md) | <small>`0-1 너비 우선 탐색` `데이크스트라` `그래프 이론` `그래프 탐색` `+1`</small> |
 | Gold V | 1593 | 문자 해독  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1593.%E2%80%85%EB%AC%B8%EC%9E%90%E2%80%85%ED%95%B4%EB%8F%85/README.md) | <small>`슬라이딩 윈도우` `문자열` </small> |
 | Gold V | 1717 | 집합의 표현  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1717.%E2%80%85%EC%A7%91%ED%95%A9%EC%9D%98%E2%80%85%ED%91%9C%ED%98%84/README.md) | <small>`자료 구조` `분리 집합` </small> |
