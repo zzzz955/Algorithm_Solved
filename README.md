@@ -342,6 +342,7 @@
 | Gold IV | 2661 | 좋은수열  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2661.%E2%80%85%EC%A2%8B%EC%9D%80%EC%88%98%EC%97%B4/README.md) | <small>`백트래킹` </small> |
 | Gold IV | 2665 | 미로만들기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2665.%E2%80%85%EB%AF%B8%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`0-1 너비 우선 탐색` `너비 우선 탐색` `데이크스트라` `그래프 이론` `+2`</small> |
 | Gold IV | 2800 | 괄호 제거  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2800.%E2%80%85%EA%B4%84%ED%98%B8%E2%80%85%EC%A0%9C%EA%B1%B0/README.md) | <small>`비트마스킹` `브루트포스 알고리즘` `자료 구조` `스택` `문자열` </small> |
+| Gold IV | 2922 | 즐거운 단어  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2922.%E2%80%85%EC%A6%90%EA%B1%B0%EC%9A%B4%E2%80%85%EB%8B%A8%EC%96%B4/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
 | Gold IV | 3055 | 탈출  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/3055.%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 3078 | 좋은 친구  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/3078.%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EC%B9%9C%EA%B5%AC/README.md) | <small>`자료 구조` `큐` `슬라이딩 윈도우` </small> |
 | Gold IV | 3151 | 합이 0  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/3151.%E2%80%85%ED%95%A9%EC%9D%B4%E2%80%850/README.md) | <small>`이분 탐색` `브루트포스 알고리즘` `정렬` `두 포인터` </small> |
