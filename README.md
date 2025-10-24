@@ -338,6 +338,7 @@
 | Gold IV | 2539 | 모자이크  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2539.%E2%80%85%EB%AA%A8%EC%9E%90%EC%9D%B4%ED%81%AC/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
 | Gold IV | 2573 | 빙산  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2573.%E2%80%85%EB%B9%99%EC%82%B0/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` `구현` </small> |
 | Gold IV | 2580 | 스도쿠  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2580.%E2%80%85%EC%8A%A4%EB%8F%84%EC%BF%A0/README.md) | <small>`백트래킹` </small> |
+| Gold IV | 2617 | 구슬 찾기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2617.%E2%80%85%EA%B5%AC%EC%8A%AC%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`그래프 이론` `그래프 탐색` `깊이 우선 탐색` `최단 경로` `플로이드–워셜` </small> |
 | Gold IV | 2636 | 치즈  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2636.%E2%80%85%EC%B9%98%EC%A6%88/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
 | Gold IV | 2661 | 좋은수열  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2661.%E2%80%85%EC%A2%8B%EC%9D%80%EC%88%98%EC%97%B4/README.md) | <small>`백트래킹` </small> |
 | Gold IV | 2665 | 미로만들기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2665.%E2%80%85%EB%AF%B8%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`0-1 너비 우선 탐색` `너비 우선 탐색` `데이크스트라` `그래프 이론` `+2`</small> |
