@@ -329,6 +329,7 @@
 | Gold IV | 2110 | 공유기 설치  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2110.%E2%80%85%EA%B3%B5%EC%9C%A0%EA%B8%B0%E2%80%85%EC%84%A4%EC%B9%98/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
 | Gold IV | 2133 | 타일 채우기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2133.%E2%80%85%ED%83%80%EC%9D%BC%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Gold IV | 2138 | 전구와 스위치  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2138.%E2%80%85%EC%A0%84%EA%B5%AC%EC%99%80%E2%80%85%EC%8A%A4%EC%9C%84%EC%B9%98/README.md) | <small>`그리디 알고리즘` </small> |
+| Gold IV | 2141 | 우체국  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2141.%E2%80%85%EC%9A%B0%EC%B2%B4%EA%B5%AD/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Gold IV | 2179 | 비슷한 단어  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2179.%E2%80%85%EB%B9%84%EC%8A%B7%ED%95%9C%E2%80%85%EB%8B%A8%EC%96%B4/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `정렬` `문자열` </small> |
 | Gold IV | 2194 | 유닛 이동시키기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2194.%E2%80%85%EC%9C%A0%EB%8B%9B%E2%80%85%EC%9D%B4%EB%8F%99%EC%8B%9C%ED%82%A4%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 2239 | 스도쿠  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2239.%E2%80%85%EC%8A%A4%EB%8F%84%EC%BF%A0/README.md) | <small>`백트래킹` `구현` </small> |
