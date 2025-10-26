@@ -1,5 +1,4 @@
 #include<iostream>
-#include<algorithm>
 using namespace std;
 
 const int N = 1e5;
@@ -12,7 +11,6 @@ int main() {
 
 	cin >> n;
 	for (int i = 0; i < n; ++i) cin >> lst[i];
-	sort(lst, lst + n);
 
 	int l = 0, r = n - 1, ans = 1e9;
 	while (l < r) {
