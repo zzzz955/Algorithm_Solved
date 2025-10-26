@@ -185,6 +185,7 @@
 | Gold II | 2211 | 네트워크 복구  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2211.%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%E2%80%85%EB%B3%B5%EA%B5%AC/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold II | 2352 | 반도체 설계  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2352.%E2%80%85%EB%B0%98%EB%8F%84%EC%B2%B4%E2%80%85%EC%84%A4%EA%B3%84/README.md) | <small>`이분 탐색` `가장 긴 증가하는 부분 수열: O(n log n)` </small> |
 | Gold II | 2437 | 저울  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2437.%E2%80%85%EC%A0%80%EC%9A%B8/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
+| Gold II | 2461 | 대표 선수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2461.%E2%80%85%EB%8C%80%ED%91%9C%E2%80%85%EC%84%A0%EC%88%98/README.md) | <small>`자료 구조` `정렬` `우선순위 큐` `두 포인터` </small> |
 | Gold II | 2481 | 해밍 경로  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2481.%E2%80%85%ED%95%B4%EB%B0%8D%E2%80%85%EA%B2%BD%EB%A1%9C/README.md) | <small>`그래프 이론` `자료 구조` `그래프 탐색` `집합과 맵` `너비 우선 탐색` `+2`</small> |
 | Gold II | 2585 | 경비행기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2585.%E2%80%85%EA%B2%BD%EB%B9%84%ED%96%89%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `이분 탐색` `그래프 이론` `그래프 탐색` `매개 변수 탐색` </small> |
 | Gold II | 2610 | 회의준비  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2610.%E2%80%85%ED%9A%8C%EC%9D%98%EC%A4%80%EB%B9%84/README.md) | <small>`그래프 이론` `자료 구조` `그래프 탐색` `너비 우선 탐색` `최단 경로` `+2`</small> |
