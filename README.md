@@ -99,6 +99,7 @@
 | Platinum V | 1989 | 부분배열 고르기 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1989.%E2%80%85%EB%B6%80%EB%B6%84%EB%B0%B0%EC%97%B4%E2%80%85%EA%B3%A0%EB%A5%B4%EA%B8%B0%E2%80%852/README.md) | <small>`자료 구조` `분할 정복` `누적 합` `세그먼트 트리` `스택` </small> |
 | Platinum V | 2104 | 부분배열 고르기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/2104.%E2%80%85%EB%B6%80%EB%B6%84%EB%B0%B0%EC%97%B4%E2%80%85%EA%B3%A0%EB%A5%B4%EA%B8%B0/README.md) | <small>`자료 구조` `분할 정복` `세그먼트 트리` `스택` </small> |
 | Platinum V | 2243 | 사탕상자  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/2243.%E2%80%85%EC%82%AC%ED%83%95%EC%83%81%EC%9E%90/README.md) | <small>`이분 탐색` `세그먼트 트리` `자료 구조` </small> |
+| Platinum V | 2325 | 개코전쟁  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/2325.%E2%80%85%EA%B0%9C%EC%BD%94%EC%A0%84%EC%9F%81/README.md) | <small>`그래프 이론` `최단 경로` `데이크스트라` </small> |
 | Platinum V | 2568 | 전깃줄 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/2568.%E2%80%85%EC%A0%84%EA%B9%83%EC%A4%84%E2%80%85%EF%BC%8D%E2%80%852/README.md) | <small>`가장 긴 증가하는 부분 수열: O(n log n)` </small> |
 | Platinum V | 2887 | 행성 터널  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/2887.%E2%80%85%ED%96%89%EC%84%B1%E2%80%85%ED%84%B0%EB%84%90/README.md) | <small>`그래프 이론` `최소 스패닝 트리` `정렬` </small> |
 | Platinum V | 3015 | 오아시스 재결합  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/3015.%E2%80%85%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4%E2%80%85%EC%9E%AC%EA%B2%B0%ED%95%A9/README.md) | <small>`자료 구조` `스택` </small> |
