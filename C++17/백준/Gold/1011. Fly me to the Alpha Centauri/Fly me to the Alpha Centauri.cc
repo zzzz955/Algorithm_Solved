@@ -1,12 +1,16 @@
 #include<iostream>
 using namespace std;
 
-int t;
+int t, x, y;
 
 int main() {
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+	cout.tie(0);
+
 	cin >> t;
 	while (t--) {
-		int x, y; cin >> x >> y;
+		cin >> x >> y;
 		if (y - x == 1) {
 			cout << 1 << "\n";
 			continue;
