@@ -186,6 +186,7 @@
 | Gold II | 1525 | 퍼즐  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1525.%E2%80%85%ED%8D%BC%EC%A6%90/README.md) | <small>`너비 우선 탐색` `자료 구조` `그래프 이론` `그래프 탐색` `+1`</small> |
 | Gold II | 1766 | 문제집  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1766.%E2%80%85%EB%AC%B8%EC%A0%9C%EC%A7%91/README.md) | <small>`방향 비순환 그래프` `자료 구조` `그래프 이론` `우선순위 큐` `위상 정렬` </small> |
 | Gold II | 1781 | 컵라면  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/1781.%E2%80%85%EC%BB%B5%EB%9D%BC%EB%A9%B4/README.md) | <small>`자료 구조` `그리디 알고리즘` `우선순위 큐` `정렬` </small> |
+| Gold II | 1826 | 연료 채우기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1826.%E2%80%85%EC%97%B0%EB%A3%8C%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0/README.md) | <small>`자료 구조` `그리디 알고리즘` `정렬` `우선순위 큐` </small> |
 | Gold II | 1918 | 후위 표기식  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1918.%E2%80%85%ED%9B%84%EC%9C%84%E2%80%85%ED%91%9C%EA%B8%B0%EC%8B%9D/README.md) | <small>`자료 구조` `스택` </small> |
 | Gold II | 2211 | 네트워크 복구  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2211.%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%E2%80%85%EB%B3%B5%EA%B5%AC/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold II | 2352 | 반도체 설계  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2352.%E2%80%85%EB%B0%98%EB%8F%84%EC%B2%B4%E2%80%85%EC%84%A4%EA%B3%84/README.md) | <small>`이분 탐색` `가장 긴 증가하는 부분 수열: O(n log n)` </small> |
