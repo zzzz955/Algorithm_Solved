@@ -30,10 +30,9 @@ char m[6][10];
 bool flag;
 vector<pair<Pos, char>> memo;
 
-bool chk() {
-	for (int i = 1; i < 7; ++i) {
-		if (c[i] != 4 || s[i] != 26) return false;
-	}
+bool chk(const Group& group) {
+	if (c[group.g1] == 4 && s[group.g1] != 26) return false;
+	if (c[group.g2] == 4 && s[group.g2] != 26) return false;
 	return true;
 }
 
@@ -54,10 +53,8 @@ void bt(int level) {
 	//print();
 	if (flag) return;
 	if (level == 13) {
-		if (chk()) {
-			print();
-			flag = true;
-		}
+		print();
+		flag = true;
 		return;
 	}
 	if (v[level]) bt(level + 1);
@@ -77,7 +74,7 @@ void bt(int level) {
 		s[group.g2] += i;
 		m[x][y] = 'A' + i - 1;
 
-		bt(level + 1);
+		if (chk(group))bt(level + 1);
 
 		u[i] = false;
 		--c[group.g1];
