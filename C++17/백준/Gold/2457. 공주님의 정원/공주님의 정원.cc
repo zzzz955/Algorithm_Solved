@@ -8,7 +8,6 @@ int n;
 struct Date {
 	int sd, ed;
 	bool operator<(const Date& other) const {
-		if (sd == other.sd) ed < other.ed;
 		return sd > other.sd;
 	}
 };
