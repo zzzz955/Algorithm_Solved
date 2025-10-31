@@ -17,6 +17,7 @@ int get_dist(int cx, int cy, int dx, int dy) {
 }
 
 void bt(int level, int cnt, int ch, int cx, int cy) {
+	if (ans - cnt >= mx - level) return;
 	int dist = get_dist(cx, cy, hx, hy);
 	if (dist <= ch) ans = max(ans, cnt);
 	if (level == mx) return;
@@ -38,6 +39,9 @@ void bt(int level, int cnt, int ch, int cx, int cy) {
 }
 
 int main() {
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+
 	cin >> n >> m >> h;
 	for (int i = 0; i < n; ++i) {
 		for (int j = 0; j < n; ++j) {
