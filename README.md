@@ -505,6 +505,7 @@
 | Gold V | 12865 | 평범한 배낭  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12865.%E2%80%85%ED%8F%89%EB%B2%94%ED%95%9C%E2%80%85%EB%B0%B0%EB%82%AD/README.md) | <small>`다이나믹 프로그래밍` `배낭 문제` </small> |
 | Gold V | 12919 | A와 B 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12919.%E2%80%85A%EC%99%80%E2%80%85B%E2%80%852/README.md) | <small>`브루트포스 알고리즘` `재귀` `문자열` </small> |
 | Gold V | 13023 | ABCDE  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13023.%E2%80%85ABCDE/README.md) | <small>`백트래킹` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
+| Gold V | 13164 | 행복 유치원  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13164.%E2%80%85%ED%96%89%EB%B3%B5%E2%80%85%EC%9C%A0%EC%B9%98%EC%9B%90/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Gold V | 13265 | 색칠하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13265.%E2%80%85%EC%83%89%EC%B9%A0%ED%95%98%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `이분 그래프` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 13549 | 숨바꼭질 3  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/13549.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%E2%80%853/README.md) | <small>`0-1 너비 우선 탐색` `너비 우선 탐색` `데이크스트라` `그래프 이론` `+2`</small> |
 | Gold V | 13549 | 숨바꼭질 3  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13549.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%E2%80%853/README.md) | <small>`0-1 너비 우선 탐색` `너비 우선 탐색` `데이크스트라` `그래프 이론` `+2`</small> |
