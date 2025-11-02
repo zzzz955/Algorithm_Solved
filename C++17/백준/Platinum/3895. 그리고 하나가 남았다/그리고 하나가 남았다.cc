@@ -40,11 +40,10 @@ int main() {
 		int idx = m, res = -1;
 		for (int i = 1; i <= n; ++i) {
 			res = query(1, 1, n, idx);
+			if (i == n) break;
 
-			if (i < n) {
-				idx = (idx - 1 + k) % tree[1];
-				if (idx == 0) idx = tree[1];
-			}
+			idx = (idx - 1 + k) % tree[1];
+			if (idx == 0) idx = tree[1];
 		}
 		cout << res << "\n";
 	}
