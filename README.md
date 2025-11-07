@@ -369,6 +369,7 @@
 | Gold IV | 5427 | 불  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/5427.%E2%80%85%EB%B6%88/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 5631 | 방사능  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/5631.%E2%80%85%EB%B0%A9%EC%82%AC%EB%8A%A5/README.md) | <small>`이분 탐색` `기하학` `정렬` </small> |
 | Gold IV | 5639 | 이진 검색 트리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/5639.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%EA%B2%80%EC%83%89%E2%80%85%ED%8A%B8%EB%A6%AC/README.md) | <small>`그래프 이론` `그래프 탐색` `트리` `재귀` </small> |
+| Gold IV | 6137 | 문자열 생성  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/6137.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%83%9D%EC%84%B1/README.md) | <small>`그리디 알고리즘` `문자열` `두 포인터` </small> |
 | Gold IV | 6497 | 전력난  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/6497.%E2%80%85%EC%A0%84%EB%A0%A5%EB%82%9C/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold IV | 6987 | 월드컵  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/6987.%E2%80%85%EC%9B%94%EB%93%9C%EC%BB%B5/README.md) | <small>`브루트포스 알고리즘` `백트래킹` </small> |
 | Gold IV | 7662 | 이중 우선순위 큐  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/7662.%E2%80%85%EC%9D%B4%EC%A4%91%E2%80%85%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%E2%80%85%ED%81%90/README.md) | <small>`자료 구조` `우선순위 큐` `트리를 사용한 집합과 맵` </small> |
