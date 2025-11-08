@@ -797,6 +797,7 @@
 | Bronze V | 6840 | Who is in the middle?  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/6840.%E2%80%85Who%E2%80%85is%E2%80%85in%E2%80%85the%E2%80%85middle%EF%BC%9F/README.md) | <small>`구현` </small> |
 | Bronze V | 7891 | Can you add this?  | [&nbsp;🔗&nbsp;](C99%20%28Clang%29/%EB%B0%B1%EC%A4%80/Bronze/7891.%E2%80%85Can%E2%80%85you%E2%80%85add%E2%80%85this%EF%BC%9F/README.md) | <small>`사칙연산` `구현` `수학` </small> |
 | Bronze V | 8545 | Zadanie próbne  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/8545.%E2%80%85Zadanie%E2%80%85pr%C3%B3bne/README.md) | <small>`구현` `문자열` </small> |
+| Bronze V | 8871 | Zadanie próbne 2  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/8871.%E2%80%85Zadanie%E2%80%85pr%C3%B3bne%E2%80%852/README.md) | <small>`수학` `사칙연산` </small> |
 | Bronze V | 9316 | Hello Judge  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/9316.%E2%80%85Hello%E2%80%85Judge/README.md) | <small>`구현` </small> |
 | Bronze V | 11942 | 고려대는 사랑입니다  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/11942.%E2%80%85%EA%B3%A0%EB%A0%A4%EB%8C%80%EB%8A%94%E2%80%85%EC%82%AC%EB%9E%91%EC%9E%85%EB%8B%88%EB%8B%A4/README.md) | <small>`구현` </small> |
 | Bronze V | 13277 | 큰 수 곱셈  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/13277.%E2%80%85%ED%81%B0%E2%80%85%EC%88%98%E2%80%85%EA%B3%B1%EC%85%88/README.md) | <small>`수학` `사칙연산` `임의 정밀도 / 큰 수 연산` </small> |
