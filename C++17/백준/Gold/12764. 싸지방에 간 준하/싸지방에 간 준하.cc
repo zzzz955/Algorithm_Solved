@@ -9,6 +9,7 @@ using pii = pair<int, int>;
 const int N = 1e5;
 int n;
 pii a[N];
+int c[N];
 
 int main() {
 	ios::sync_with_stdio(0);
@@ -25,7 +26,7 @@ int main() {
 	set<int> b;
 	for (int i = 0; i < n; ++i) b.insert(i);
 
-	map<int, int> c;
+	int cnt = 0;
 	priority_queue<pii, vector<pii>, greater<pii>> pq;
 	for (int i = 0; i < n; ++i) {
 		int st = a[i].first, et = a[i].second;
@@ -37,9 +38,9 @@ int main() {
 
 		int idx = *b.begin();
 		b.erase(b.begin());
-		++c[idx];
+		if (++c[idx] == 1) ++cnt;
 		pq.push({ et, idx });
 	}
-	cout << c.size() << "\n";
-	for (const auto& i : c) cout << i.second << " ";
+	cout << cnt << "\n";
+	for (int i = 0; i < cnt; ++i) cout << c[i] << " ";
 }
