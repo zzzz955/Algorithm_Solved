@@ -280,6 +280,7 @@
 | Gold III | 13418 | 학교 탐방하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13418.%E2%80%85%ED%95%99%EA%B5%90%E2%80%85%ED%83%90%EB%B0%A9%ED%95%98%EA%B8%B0/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold III | 14427 | 수열과 쿼리 15  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14427.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8515/README.md) | <small>`자료 구조` `우선순위 큐` `세그먼트 트리` </small> |
 | Gold III | 14442 | 벽 부수고 이동하기 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14442.%E2%80%85%EB%B2%BD%E2%80%85%EB%B6%80%EC%88%98%EA%B3%A0%E2%80%85%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0%E2%80%852/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
+| Gold III | 14621 | 나만 안되는 연애  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14621.%E2%80%85%EB%82%98%EB%A7%8C%E2%80%85%EC%95%88%EB%90%98%EB%8A%94%E2%80%85%EC%97%B0%EC%95%A0/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold III | 14658 | 하늘에서 별똥별이 빗발친다  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14658.%E2%80%85%ED%95%98%EB%8A%98%EC%97%90%EC%84%9C%E2%80%85%EB%B3%84%EB%98%A5%EB%B3%84%EC%9D%B4%E2%80%85%EB%B9%97%EB%B0%9C%EC%B9%9C%EB%8B%A4/README.md) | <small>`브루트포스 알고리즘` </small> |
 | Gold III | 14725 | 개미굴  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14725.%E2%80%85%EA%B0%9C%EB%AF%B8%EA%B5%B4/README.md) | <small>`자료 구조` `문자열` `트리` `트라이` </small> |
 | Gold III | 14890 | 경사로  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14890.%E2%80%85%EA%B2%BD%EC%82%AC%EB%A1%9C/README.md) | <small>`구현` </small> |
