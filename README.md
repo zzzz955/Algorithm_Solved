@@ -434,6 +434,7 @@
 | Gold IV | 18430 | 무기 공학  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/18430.%E2%80%85%EB%AC%B4%EA%B8%B0%E2%80%85%EA%B3%B5%ED%95%99/README.md) | <small>`백트래킹` </small> |
 | Gold IV | 18513 | 샘터  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/18513.%E2%80%85%EC%83%98%ED%84%B0/README.md) | <small>`너비 우선 탐색` `자료 구조` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 19538 | 루머  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/19538.%E2%80%85%EB%A3%A8%EB%A8%B8/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` </small> |
+| Gold IV | 19640 | 화장실의 규칙  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/19640.%E2%80%85%ED%99%94%EC%9E%A5%EC%8B%A4%EC%9D%98%E2%80%85%EA%B7%9C%EC%B9%99/README.md) | <small>`구현` `자료 구조` `시뮬레이션` `우선순위 큐` </small> |
 | Gold IV | 19942 | 다이어트  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/19942.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8/README.md) | <small>`브루트포스 알고리즘` `백트래킹` </small> |
 | Gold IV | 20007 | 떡 돌리기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/20007.%E2%80%85%EB%96%A1%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/README.md) | <small>`그래프 이론` `정렬` `최단 경로` `데이크스트라` </small> |
 | Gold IV | 20040 | 사이클 게임  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/20040.%E2%80%85%EC%82%AC%EC%9D%B4%ED%81%B4%E2%80%85%EA%B2%8C%EC%9E%84/README.md) | <small>`자료 구조` `분리 집합` </small> |
