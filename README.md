@@ -253,6 +253,7 @@
 | Gold III | 2206 | 벽 부수고 이동하기  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/2206.%E2%80%85%EB%B2%BD%E2%80%85%EB%B6%80%EC%88%98%EA%B3%A0%E2%80%85%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold III | 2234 | 성곽  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2234.%E2%80%85%EC%84%B1%EA%B3%BD/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `비트마스킹` `격자 그래프` </small> |
 | Gold III | 2252 | 줄 세우기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2252.%E2%80%85%EC%A4%84%E2%80%85%EC%84%B8%EC%9A%B0%EA%B8%B0/README.md) | <small>`방향 비순환 그래프` `그래프 이론` `위상 정렬` </small> |
+| Gold III | 2370 | 시장 선거 포스터  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2370.%E2%80%85%EC%8B%9C%EC%9E%A5%E2%80%85%EC%84%A0%EA%B1%B0%E2%80%85%ED%8F%AC%EC%8A%A4%ED%84%B0/README.md) | <small>`구현` `값 / 좌표 압축` </small> |
 | Gold III | 2457 | 공주님의 정원  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2457.%E2%80%85%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%98%E2%80%85%EC%A0%95%EC%9B%90/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Gold III | 2473 | 세 용액  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2473.%E2%80%85%EC%84%B8%E2%80%85%EC%9A%A9%EC%95%A1/README.md) | <small>`이분 탐색` `정렬` `두 포인터` </small> |
 | Gold III | 2533 | 사회망 서비스(SNS)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2533.%E2%80%85%EC%82%AC%ED%9A%8C%EB%A7%9D%E2%80%85%EC%84%9C%EB%B9%84%EC%8A%A4%EF%BC%88SNS%EF%BC%89/README.md) | <small>`다이나믹 프로그래밍` `트리에서의 다이나믹 프로그래밍` `트리` </small> |
