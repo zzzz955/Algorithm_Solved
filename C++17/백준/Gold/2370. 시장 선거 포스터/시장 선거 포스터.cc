@@ -11,6 +11,7 @@ vector<pii> cs;
 vector<int> xs;
 int tree[N * 4];
 int lazy[N * 4];
+set<int> ans;
 
 void propagate(int node, int s, int e) {
 	if (lazy[node]) {
@@ -34,16 +35,18 @@ void update(int node, int s, int e, int L, int R, int v) {
 	int mid = (s + e) / 2;
 	update(node * 2, s, mid, L, R, v);
 	update(node * 2 + 1, mid + 1, e, L, R, v);
+	tree[node] = tree[node * 2] == tree[node * 2 + 1] ? tree[node * 2] : 0;
 }
 
-set<int> query(int node, int s, int e, int L, int R) {
+void query(int node, int s, int e, int L, int R) {
 	propagate(node, s, e);
-	if (s == e) return { tree[node] };
-	int mid = (s + e) / 2;
-	set<int> left = query(node * 2, s, mid, L, R);
-	set<int> right = query(node * 2 + 1, mid + 1, e, L, R);
-	left.insert(right.begin(), right.end());
-	return left;
+	if (tree[node]) ans.insert(tree[node]);
+	if (s == e) return;
+	else {
+		int mid = (s + e) / 2;
+		query(node * 2, s, mid, L, R);
+		query(node * 2 + 1, mid + 1, e, L, R);
+	}
 }
 
 int main() {
@@ -70,7 +73,7 @@ int main() {
 		int ri = lower_bound(xs.begin(), xs.end(), r) - xs.begin();
 		update(1, 1, m, li, ri, i);
 	}
-	set<int> ans = query(1, 1, m, 1, m);
+	query(1, 1, m, 1, m);
 	if (ans.count(0)) ans.erase(0);
 	cout << ans.size();
 }
