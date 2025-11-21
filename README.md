@@ -336,6 +336,7 @@
 | Gold IV | 1863 | 스카이라인 쉬운거  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1863.%E2%80%85%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8%E2%80%85%EC%89%AC%EC%9A%B4%EA%B1%B0/README.md) | <small>`자료 구조` `스택` </small> |
 | Gold IV | 1922 | 네트워크 연결  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1922.%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%E2%80%85%EC%97%B0%EA%B2%B0/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold IV | 1953 | 팀배분  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1953.%E2%80%85%ED%8C%80%EB%B0%B0%EB%B6%84/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` `이분 그래프` </small> |
+| Gold IV | 1956 | 운동  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1956.%E2%80%85%EC%9A%B4%EB%8F%99/README.md) | <small>`그래프 이론` `최단 경로` `플로이드–워셜` </small> |
 | Gold IV | 1963 | 소수 경로  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1963.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EA%B2%BD%EB%A1%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `수학` `정수론` `소수 판정` `+1`</small> |
 | Gold IV | 1967 | 트리의 지름  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1967.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EC%A7%80%EB%A6%84/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` `트리` </small> |
 | Gold IV | 1976 | 여행 가자  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1976.%E2%80%85%EC%97%AC%ED%96%89%E2%80%85%EA%B0%80%EC%9E%90/README.md) | <small>`자료 구조` `분리 집합` `그래프 이론` `그래프 탐색` </small> |
