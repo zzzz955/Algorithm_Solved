@@ -846,6 +846,7 @@
 | Bronze V | 26545 | Mathematics  | [&nbsp;🔗&nbsp;](C99/%EB%B0%B1%EC%A4%80/Bronze/26545.%E2%80%85Mathematics/README.md) | <small>`수학` `구현` `사칙연산` </small> |
 | Bronze V | 26574 | Copier  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/26574.%E2%80%85Copier/README.md) | <small>`구현` </small> |
 | Bronze V | 26711 | A+B  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/26711.%E2%80%85A%EF%BC%8BB/README.md) | <small>`수학` `사칙연산` `임의 정밀도 / 큰 수 연산` </small> |
+| Bronze V | 27324 | ゾロ目 (Same Numbers)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/27324.%E2%80%85%E3%82%BE%E3%83%AD%E7%9B%AE%E2%80%85%EF%BC%88Same%E2%80%85Numbers%EF%BC%89/README.md) | <small>`수학` `사칙연산` </small> |
 | Bronze V | 27327 | 時間 (Hour)  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/27327.%E2%80%85%E6%99%82%E9%96%93%E2%80%85%EF%BC%88Hour%EF%BC%89/README.md) | <small>`수학` `사칙연산` </small> |
 | Bronze V | 27328 | 三方比較 (Three-Way Comparison)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/27328.%E2%80%85%E4%B8%89%E6%96%B9%E6%AF%94%E8%BC%83%E2%80%85%EF%BC%88Three%EF%BC%8DWay%E2%80%85Comparison%EF%BC%89/README.md) | <small>`수학` `구현` `사칙연산` </small> |
 | Bronze V | 27434 | 팩토리얼 3  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/27434.%E2%80%85%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%E2%80%853/README.md) | <small>`수학` `사칙연산` `임의 정밀도 / 큰 수 연산` </small> |
