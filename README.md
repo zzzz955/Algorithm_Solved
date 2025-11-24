@@ -854,6 +854,7 @@
 | Bronze V | 28444 | HI-ARC=?  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/28444.%E2%80%85HI%EF%BC%8DARC%EF%BC%9D%EF%BC%9F/README.md) | <small>`수학` `사칙연산` </small> |
 | Bronze V | 28701 | 세제곱의 합  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/28701.%E2%80%85%EC%84%B8%EC%A0%9C%EA%B3%B1%EC%9D%98%E2%80%85%ED%95%A9/README.md) | <small>`수학` `구현` `사칙연산` </small> |
 | Bronze V | 30007 | 라면 공식  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/30007.%E2%80%85%EB%9D%BC%EB%A9%B4%E2%80%85%EA%B3%B5%EC%8B%9D/README.md) | <small>`수학` `구현` `사칙연산` </small> |
+| Bronze V | 30328 | Java Warriors  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/30328.%E2%80%85Java%E2%80%85Warriors/README.md) | <small>`수학` `사칙연산` </small> |
 
 
 ## 📁 SWEA
