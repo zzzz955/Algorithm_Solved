@@ -387,6 +387,7 @@
 | Gold IV | 9019 | DSLR  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9019.%E2%80%85DSLR/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 9663 | N-Queen  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9663.%E2%80%85N%EF%BC%8DQueen/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
 | Gold IV | 9935 | 문자열 폭발  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9935.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%ED%8F%AD%EB%B0%9C/README.md) | <small>`자료 구조` `스택` `문자열` </small> |
+| Gold IV | 10159 | 저울  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/10159.%E2%80%85%EC%A0%80%EC%9A%B8/README.md) | <small>`그래프 이론` `그래프 탐색` `최단 경로` `깊이 우선 탐색` `플로이드–워셜` </small> |
 | Gold IV | 10282 | 해킹  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/10282.%E2%80%85%ED%95%B4%ED%82%B9/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 10942 | 팰린드롬?  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/10942.%E2%80%85%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EF%BC%9F/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Gold IV | 11054 | 가장 긴 바이토닉 부분 수열  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11054.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EB%B0%94%EC%9D%B4%ED%86%A0%EB%8B%89%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4/README.md) | <small>`다이나믹 프로그래밍` </small> |
