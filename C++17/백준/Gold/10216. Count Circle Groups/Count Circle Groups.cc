@@ -2,18 +2,23 @@
 #include<vector>
 #include<queue>
 #include<cmath>
+#include<cstring>
 using namespace std;
 
+const int N = 3e3 + 1;
 int t, n;
 struct Pos {
 	int x, y, r;
 };
+Pos poses[N];
+vector<int> edges[N];
+bool v[N];
 
 double get_dist(const Pos& a, const Pos& b) {
 	return sqrt(pow(a.x - b.x, 2) + pow(a.y - b.y, 2));
 }
 
-void bfs(int sn, const vector<vector<int>>& edges, vector<bool>& v) {
+void bfs(int sn) {
 	queue<int> q;
 	q.push(sn);
 	v[sn] = true;
@@ -38,13 +43,12 @@ int main() {
 	while (t--) {
 		cin >> n;
 
-		vector<Pos> poses(n + 1);
 		for (int i = 1; i <= n; ++i) {
 			int x, y, r; cin >> x >> y >> r;
 			poses[i] = { x, y, r };
 		}
 
-		vector<vector<int>> edges(n + 1);
+		for (int i = 1; i <= n; ++i) edges[i].clear();
 		for (int i = 1; i < n; ++i) {
 			for (int j = i + 1; j <= n; ++j) {
 				Pos a = poses[i], b = poses[j];
@@ -56,12 +60,12 @@ int main() {
 			}
 		}
 
-		vector<bool> v(n + 1);
 		int g = 0;
+		memset(v, 0, n + 1);
 		for (int i = 1; i <= n; ++i) {
 			if (v[i]) continue;
 			++g;
-			bfs(i, edges, v);
+			bfs(i);
 		}
 
 		cout << g << "\n";
