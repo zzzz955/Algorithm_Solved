@@ -860,6 +860,7 @@
 | Bronze V | 27959 | 초코바  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/27959.%E2%80%85%EC%B4%88%EC%BD%94%EB%B0%94/README.md) | <small>`수학` `사칙연산` </small> |
 | Bronze V | 28113 | 정보섬의 대중교통  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/28113.%E2%80%85%EC%A0%95%EB%B3%B4%EC%84%AC%EC%9D%98%E2%80%85%EB%8C%80%EC%A4%91%EA%B5%90%ED%86%B5/README.md) | <small>`수학` `구현` `사칙연산` </small> |
 | Bronze V | 28444 | HI-ARC=?  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/28444.%E2%80%85HI%EF%BC%8DARC%EF%BC%9D%EF%BC%9F/README.md) | <small>`수학` `사칙연산` </small> |
+| Bronze V | 28691 | 정보보호학부 동아리 소개  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/28691.%E2%80%85%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99%EB%B6%80%E2%80%85%EB%8F%99%EC%95%84%EB%A6%AC%E2%80%85%EC%86%8C%EA%B0%9C/README.md) | <small>`구현` `문자열` </small> |
 | Bronze V | 28701 | 세제곱의 합  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/28701.%E2%80%85%EC%84%B8%EC%A0%9C%EA%B3%B1%EC%9D%98%E2%80%85%ED%95%A9/README.md) | <small>`수학` `구현` `사칙연산` </small> |
 | Bronze V | 30007 | 라면 공식  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/30007.%E2%80%85%EB%9D%BC%EB%A9%B4%E2%80%85%EA%B3%B5%EC%8B%9D/README.md) | <small>`수학` `구현` `사칙연산` </small> |
 | Bronze V | 30030 | 스위트콘 가격 구하기  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/30030.%E2%80%85%EC%8A%A4%EC%9C%84%ED%8A%B8%EC%BD%98%E2%80%85%EA%B0%80%EA%B2%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`수학` `사칙연산` </small> |
