@@ -240,6 +240,7 @@
 | Gold III | 1516 | 게임 개발  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1516.%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%85%EA%B0%9C%EB%B0%9C/README.md) | <small>`방향 비순환 그래프` `다이나믹 프로그래밍` `그래프 이론` `위상 정렬` </small> |
 | Gold III | 1520 | 내리막 길  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1520.%E2%80%85%EB%82%B4%EB%A6%AC%EB%A7%89%E2%80%85%EA%B8%B8/README.md) | <small>`깊이 우선 탐색` `다이나믹 프로그래밍` `그래프 이론` `그래프 탐색` </small> |
 | Gold III | 1600 | 말이 되고픈 원숭이  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1600.%E2%80%85%EB%A7%90%EC%9D%B4%E2%80%85%EB%90%98%EA%B3%A0%ED%94%88%E2%80%85%EC%9B%90%EC%88%AD%EC%9D%B4/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
+| Gold III | 1613 | 역사  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1613.%E2%80%85%EC%97%AD%EC%82%AC/README.md) | <small>`그래프 이론` `최단 경로` `플로이드–워셜` </small> |
 | Gold III | 1644 | 소수의 연속합  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1644.%E2%80%85%EC%86%8C%EC%88%98%EC%9D%98%E2%80%85%EC%97%B0%EC%86%8D%ED%95%A9/README.md) | <small>`수학` `정수론` `소수 판정` `에라토스테네스의 체` `두 포인터` </small> |
 | Gold III | 1701 | Cubeditor  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1701.%E2%80%85Cubeditor/README.md) | <small>`KMP` `문자열` </small> |
 | Gold III | 1719 | 택배  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1719.%E2%80%85%ED%83%9D%EB%B0%B0/README.md) | <small>`데이크스트라` `플로이드–워셜` `그래프 이론` `최단 경로` </small> |
