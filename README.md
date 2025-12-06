@@ -459,6 +459,7 @@
 | Gold IV | 22942 | 데이터 체커  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/22942.%E2%80%85%EB%8D%B0%EC%9D%B4%ED%84%B0%E2%80%85%EC%B2%B4%EC%BB%A4/README.md) | <small>`자료 구조` `정렬` `기하학` `스위핑` `스택` </small> |
 | Gold IV | 22945 | 팀 빌딩  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/22945.%E2%80%85%ED%8C%80%E2%80%85%EB%B9%8C%EB%94%A9/README.md) | <small>`두 포인터` </small> |
 | Gold IV | 23793 | 두 단계 최단 경로 1  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/23793.%E2%80%85%EB%91%90%E2%80%85%EB%8B%A8%EA%B3%84%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C%E2%80%851/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
+| Gold IV | 24041 | 성싶당 밀키트  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/24041.%E2%80%85%EC%84%B1%EC%8B%B6%EB%8B%B9%E2%80%85%EB%B0%80%ED%82%A4%ED%8A%B8/README.md) | <small>`그리디 알고리즘` `정렬` `이분 탐색` `매개 변수 탐색` </small> |
 | Gold IV | 24955 | 숫자 이어 붙이기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/24955.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%9D%B4%EC%96%B4%E2%80%85%EB%B6%99%EC%9D%B4%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` `수학` `+2`</small> |
 | Gold IV | 25195 | Yes or yes  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/25195.%E2%80%85Yes%E2%80%85or%E2%80%85yes/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` </small> |
 | Gold IV | 25417 | 고속의 숫자 탐색  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/25417.%E2%80%85%EA%B3%A0%EC%86%8D%EC%9D%98%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%ED%83%90%EC%83%89/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
