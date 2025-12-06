@@ -5,7 +5,7 @@ using ll = long long;
 
 const int N = 2e5;
 int n, g, k;
-priority_queue<ll> A, B;
+priority_queue<ll, vector<ll>, greater<ll>> pq;
 struct Info {
 	int S, L;
 	bool O;
@@ -27,26 +27,23 @@ int main() {
 	ll l = 0, r = 2e9, ans = -1;
 	while (l <= r) {
 		ll mid = (l + r) / 2;
-		for (int i = 0; i < n; ++i) {
-			const Info& info = ing[i];
-			if (info.O) A.push(1ll * info.S * max(1ll, mid - info.L));
-			else B.push(1ll * info.S * max(1ll, mid - info.L));
-		}
-
 		ll sum = 0;
 		int remove = 0;
-		while (!B.empty()) {
-			ll val = B.top(); B.pop();
+
+		for (int i = 0; i < n; ++i) {
+			const Info& info = ing[i];
+			ll val = 1ll * info.S * max(1ll, mid - info.L);
 			sum += val;
+
+			if (info.O) {
+				pq.push(val);
+				if (pq.size() > k) pq.pop();
+			}
 		}
 
-		while (!A.empty()) {
-			ll val = A.top(); A.pop();
-			if (remove < k) {
-				++remove;
-				continue;
-			}
-			sum += val;
+		while (!pq.empty()) {
+			ll val = pq.top(); pq.pop();
+			sum -= val;
 		}
 
 		//cout << sum << "\n";
