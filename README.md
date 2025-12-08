@@ -235,6 +235,7 @@
 | Gold II | 21944 | 문제 추천 시스템 Version 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21944.%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%85%EC%B6%94%EC%B2%9C%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%85Version%E2%80%852/README.md) | <small>`자료 구조` `트리를 사용한 집합과 맵` </small> |
 | Gold II | 23059 | 리그 오브 레게노  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/23059.%E2%80%85%EB%A6%AC%EA%B7%B8%E2%80%85%EC%98%A4%EB%B8%8C%E2%80%85%EB%A0%88%EA%B2%8C%EB%85%B8/README.md) | <small>`그래프 이론` `자료 구조` `집합과 맵` `해시를 사용한 집합과 맵` `위상 정렬` `+1`</small> |
 | Gold III | 1005 | ACM Craft  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) | <small>`방향 비순환 그래프` `다이나믹 프로그래밍` `그래프 이론` `위상 정렬` </small> |
+| Gold III | 1132 | 합  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1132.%E2%80%85%ED%95%A9/README.md) | <small>`그리디 알고리즘` </small> |
 | Gold III | 1238 | 파티  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/1238.%E2%80%85%ED%8C%8C%ED%8B%B0/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold III | 1414 | 불우이웃돕기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1414.%E2%80%85%EB%B6%88%EC%9A%B0%EC%9D%B4%EC%9B%83%EB%8F%95%EA%B8%B0/README.md) | <small>`그래프 이론` `문자열` `최소 스패닝 트리` </small> |
 | Gold III | 1516 | 게임 개발  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1516.%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%85%EA%B0%9C%EB%B0%9C/README.md) | <small>`방향 비순환 그래프` `다이나믹 프로그래밍` `그래프 이론` `위상 정렬` </small> |
