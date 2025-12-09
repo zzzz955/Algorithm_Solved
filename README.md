@@ -146,6 +146,7 @@
 | Gold I | 2042 | 구간 합 구하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2042.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
 | Gold I | 2098 | 외판원 순회  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2098.%E2%80%85%EC%99%B8%ED%8C%90%EC%9B%90%E2%80%85%EC%88%9C%ED%9A%8C/README.md) | <small>`비트마스킹` `다이나믹 프로그래밍` `비트필드를 이용한 다이나믹 프로그래밍` `+1`</small> |
 | Gold I | 2268 | 수들의 합 7  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2268.%E2%80%85%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%857/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
+| Gold I | 2307 | 도로검문  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2307.%E2%80%85%EB%8F%84%EB%A1%9C%EA%B2%80%EB%AC%B8/README.md) | <small>`그래프 이론` `최단 경로` `데이크스트라` `역추적` </small> |
 | Gold I | 2357 | 최솟값과 최댓값  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2357.%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B3%BC%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
 | Gold I | 2536 | 버스 갈아타기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2536.%E2%80%85%EB%B2%84%EC%8A%A4%E2%80%85%EA%B0%88%EC%95%84%ED%83%80%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `기하학` `그래프 이론` `그래프 탐색` `선분 교차 판정` </small> |
 | Gold I | 3217 | malloc  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/3217.%E2%80%85malloc/README.md) | <small>`구현` `자료 구조` `연결 리스트` </small> |
