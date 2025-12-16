@@ -235,6 +235,7 @@
 | Gold II | 21609 | 상어 중학교  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21609.%E2%80%85%EC%83%81%EC%96%B4%E2%80%85%EC%A4%91%ED%95%99%EA%B5%90/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
 | Gold II | 21944 | 문제 추천 시스템 Version 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21944.%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%85%EC%B6%94%EC%B2%9C%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%85Version%E2%80%852/README.md) | <small>`자료 구조` `트리를 사용한 집합과 맵` </small> |
 | Gold II | 23059 | 리그 오브 레게노  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/23059.%E2%80%85%EB%A6%AC%EA%B7%B8%E2%80%85%EC%98%A4%EB%B8%8C%E2%80%85%EB%A0%88%EA%B2%8C%EB%85%B8/README.md) | <small>`그래프 이론` `자료 구조` `집합과 맵` `해시를 사용한 집합과 맵` `위상 정렬` `+1`</small> |
+| Gold II | 32510 | 키가 비슷한 친구  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/32510.%E2%80%85%ED%82%A4%EA%B0%80%E2%80%85%EB%B9%84%EC%8A%B7%ED%95%9C%E2%80%85%EC%B9%9C%EA%B5%AC/README.md) | <small>`자료 구조` `정렬` `우선순위 큐` </small> |
 | Gold III | 1005 | ACM Craft  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) | <small>`방향 비순환 그래프` `다이나믹 프로그래밍` `그래프 이론` `위상 정렬` </small> |
 | Gold III | 1132 | 합  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1132.%E2%80%85%ED%95%A9/README.md) | <small>`그리디 알고리즘` </small> |
 | Gold III | 1238 | 파티  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/1238.%E2%80%85%ED%8C%8C%ED%8B%B0/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
