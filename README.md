@@ -9,6 +9,7 @@
 | Diamond V | 18185 | 라면 사기 (Small)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Diamond/18185.%E2%80%85%EB%9D%BC%EB%A9%B4%E2%80%85%EC%82%AC%EA%B8%B0%E2%80%85%EF%BC%88Small%EF%BC%89/README.md) | <small>`그리디 알고리즘` </small> |
 | Platinum I | 13925 | 수열과 쿼리 13  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/13925.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8513/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
 | Platinum II | 7469 | K번째 수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/7469.%E2%80%85K%EB%B2%88%EC%A7%B8%E2%80%85%EC%88%98/README.md) | <small>`이분 탐색` `자료 구조` `머지 소트 트리` `세그먼트 트리` `정렬` </small> |
+| Platinum II | 14446 | Promotion Counting  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/14446.%E2%80%85Promotion%E2%80%85Counting/README.md) | <small>`자료 구조` `정렬` `트리` `세그먼트 트리` `오일러 경로 테크닉` `+1`</small> |
 | Platinum II | 15480 | LCA와 쿼리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/15480.%E2%80%85LCA%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/README.md) | <small>`최소 공통 조상` `트리` </small> |
 | Platinum II | 15782 | Calculate! 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/15782.%E2%80%85Calculate%EF%BC%81%E2%80%852/README.md) | <small>`자료 구조` `오일러 경로 테크닉` `그래프 이론` `그래프 탐색` `세그먼트 트리` `+2`</small> |
 | Platinum II | 15899 | 트리와 색깔  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/15899.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%83%89%EA%B9%94/README.md) | <small>`자료 구조` `오일러 경로 테크닉` `머지 소트 트리` `세그먼트 트리` `정렬` `+1`</small> |
