@@ -201,6 +201,7 @@
 | Gold II | 2481 | 해밍 경로  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2481.%E2%80%85%ED%95%B4%EB%B0%8D%E2%80%85%EA%B2%BD%EB%A1%9C/README.md) | <small>`그래프 이론` `자료 구조` `그래프 탐색` `집합과 맵` `너비 우선 탐색` `+2`</small> |
 | Gold II | 2585 | 경비행기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2585.%E2%80%85%EA%B2%BD%EB%B9%84%ED%96%89%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `이분 탐색` `그래프 이론` `그래프 탐색` `매개 변수 탐색` </small> |
 | Gold II | 2610 | 회의준비  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2610.%E2%80%85%ED%9A%8C%EC%9D%98%EC%A4%80%EB%B9%84/README.md) | <small>`그래프 이론` `자료 구조` `그래프 탐색` `너비 우선 탐색` `최단 경로` `+2`</small> |
+| Gold II | 2613 | 숫자구슬  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2613.%E2%80%85%EC%88%AB%EC%9E%90%EA%B5%AC%EC%8A%AC/README.md) | <small>`다이나믹 프로그래밍` `그리디 알고리즘` `이분 탐색` `매개 변수 탐색` `역추적` </small> |
 | Gold II | 2632 | 피자판매  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2632.%E2%80%85%ED%94%BC%EC%9E%90%ED%8C%90%EB%A7%A4/README.md) | <small>`이분 탐색` `집합과 맵` `누적 합` </small> |
 | Gold II | 2637 | 장난감 조립  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2637.%E2%80%85%EC%9E%A5%EB%82%9C%EA%B0%90%E2%80%85%EC%A1%B0%EB%A6%BD/README.md) | <small>`다이나믹 프로그래밍` `그래프 이론` `방향 비순환 그래프` `위상 정렬` </small> |
 | Gold II | 2696 | 중앙값 구하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2696.%E2%80%85%EC%A4%91%EC%95%99%EA%B0%92%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`자료 구조` `우선순위 큐` </small> |
