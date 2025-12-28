@@ -1,13 +1,12 @@
 #include<iostream>
 #include<algorithm>
-#include<map>
 #include<vector>
 using namespace std;
 using pii = pair<int, int>;
 
 const int N = 1e5;
 int n;
-map<int, int> xs;
+vector<int> xs;
 pii qs[N];
 vector<int> tree;
 vector<int> lazy;
@@ -55,19 +54,21 @@ int main() {
 	for (int i = 0; i < n; ++i) {
 		int w, d; cin >> w >> d;
 		int s = d, e = d + w - 1;
-		xs[s];
-		xs[e];
+		xs.push_back(s);
+		xs.push_back(e);
 		qs[i] = { s, e };
 	}
 
-	int idx = 0;
-	for (auto& x : xs) x.second = ++idx;
+	sort(xs.begin(), xs.end());
+	xs.erase(unique(xs.begin(), xs.end()), xs.end());
+
 	int len = xs.size();
 	tree.resize((len + 1) * 4, 0);
 	lazy.resize((len + 1) * 4, 0);
 
 	for (int i = 0; i < n; ++i) {
-		int L = xs[qs[i].first], R = xs[qs[i].second];
+		int L = lower_bound(xs.begin(), xs.end(), qs[i].first) - xs.begin() + 1;
+		int R = lower_bound(xs.begin(), xs.end(), qs[i].second) - xs.begin() + 1;
 		//cout << L << " " << R << "\n";
 		int mx = query(1, 1, len, L, R);
 		update(1, 1, len, L, R, mx + 1);
