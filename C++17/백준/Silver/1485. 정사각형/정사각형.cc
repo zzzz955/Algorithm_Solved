@@ -14,6 +14,10 @@ int get_dist(const pii& a, const pii& b) {
 }
 
 int main() {
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+	cout.tie(0);
+
 	cin >> t;
 	while (t--) {
 		array<pii, 4> coords;
