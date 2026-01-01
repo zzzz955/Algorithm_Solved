@@ -528,6 +528,7 @@
 | Gold V | 3967 | 매직 스타  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/3967.%E2%80%85%EB%A7%A4%EC%A7%81%E2%80%85%EC%8A%A4%ED%83%80/README.md) | <small>`구현` `브루트포스 알고리즘` `백트래킹` </small> |
 | Gold V | 3980 | 선발 명단  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/3980.%E2%80%85%EC%84%A0%EB%B0%9C%E2%80%85%EB%AA%85%EB%8B%A8/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
 | Gold V | 5430 | AC  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/5430.%E2%80%85AC/README.md) | <small>`덱` `파싱` `구현` `문자열` `자료 구조` </small> |
+| Gold V | 5549 | 행성 탐사  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/5549.%E2%80%85%ED%96%89%EC%84%B1%E2%80%85%ED%83%90%EC%82%AC/README.md) | <small>`누적 합` </small> |
 | Gold V | 5588 | 별자리 찾기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/5588.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`자료 구조` `브루트포스 알고리즘` `집합과 맵` `해시를 사용한 집합과 맵` </small> |
 | Gold V | 5972 | 택배 배송  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/5972.%E2%80%85%ED%83%9D%EB%B0%B0%E2%80%85%EB%B0%B0%EC%86%A1/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold V | 6198 | 옥상 정원 꾸미기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/6198.%E2%80%85%EC%98%A5%EC%83%81%E2%80%85%EC%A0%95%EC%9B%90%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0/README.md) | <small>`자료 구조` `스택` </small> |
