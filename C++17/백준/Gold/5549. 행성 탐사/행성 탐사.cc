@@ -3,7 +3,6 @@ using namespace std;
 
 const int N = 1001;
 int n, m, k;
-int js[N][N], os[N][N], is[N][N];
 int pj[N][N], po[N][N], pi[N][N];
 
 int main() {
@@ -14,18 +13,14 @@ int main() {
 	cin >> n >> m >> k;
 	for (int i = 1; i <= n; ++i) {
 		for (int j = 1; j <= m; ++j) {
-			char c; cin >> c;
-			if (c == 'J') ++js[i][j];
-			else if (c == 'O') ++os[i][j];
-			else ++is[i][j];
-		}
-	}
+			pj[i][j] = pj[i][j - 1] + pj[i - 1][j] - pj[i - 1][j - 1];
+			po[i][j] = po[i][j - 1] + po[i - 1][j] - po[i - 1][j - 1];
+			pi[i][j] = pi[i][j - 1] + pi[i - 1][j] - pi[i - 1][j - 1];
 
-	for (int i = 1; i <= n; ++i) {
-		for (int j = 1; j <= m; ++j) {
-			pj[i][j] = pj[i][j - 1] + pj[i - 1][j] - pj[i - 1][j - 1] + js[i][j];
-			po[i][j] = po[i][j - 1] + po[i - 1][j] - po[i - 1][j - 1] + os[i][j];
-			pi[i][j] = pi[i][j - 1] + pi[i - 1][j] - pi[i - 1][j - 1] + is[i][j];
+			char c; cin >> c;
+			if (c == 'J') ++pj[i][j];
+			else if (c == 'O') ++po[i][j];
+			else ++pi[i][j];
 		}
 	}
 
