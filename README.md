@@ -470,6 +470,7 @@
 | Gold IV | 19942 | 다이어트  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/19942.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8/README.md) | <small>`브루트포스 알고리즘` `백트래킹` </small> |
 | Gold IV | 20007 | 떡 돌리기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/20007.%E2%80%85%EB%96%A1%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/README.md) | <small>`그래프 이론` `정렬` `최단 경로` `데이크스트라` </small> |
 | Gold IV | 20040 | 사이클 게임  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/20040.%E2%80%85%EC%82%AC%EC%9D%B4%ED%81%B4%E2%80%85%EA%B2%8C%EC%9E%84/README.md) | <small>`자료 구조` `분리 집합` </small> |
+| Gold IV | 20046 | Road Reconstruction  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/20046.%E2%80%85Road%E2%80%85Reconstruction/README.md) | <small>`그래프 이론` `그래프 탐색` `최단 경로` `데이크스트라` `격자 그래프` </small> |
 | Gold IV | 21924 | 도시 건설  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21924.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EA%B1%B4%EC%84%A4/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold IV | 21939 | 문제 추천 시스템 Version 1  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21939.%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%85%EC%B6%94%EC%B2%9C%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%85Version%E2%80%851/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `우선순위 큐` `트리를 사용한 집합과 맵` </small> |
 | Gold IV | 22116 | 창영이와 퇴근  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/22116.%E2%80%85%EC%B0%BD%EC%98%81%EC%9D%B4%EC%99%80%E2%80%85%ED%87%B4%EA%B7%BC/README.md) | <small>`데이크스트라` `그래프 이론` `그래프 탐색` `최단 경로` </small> |
