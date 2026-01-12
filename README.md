@@ -22,6 +22,7 @@
 | Platinum III | 1867 | 돌멩이 제거  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1867.%E2%80%85%EB%8F%8C%EB%A9%A9%EC%9D%B4%E2%80%85%EC%A0%9C%EA%B1%B0/README.md) | <small>`이분 매칭` </small> |
 | Platinum III | 2465 | 줄 세우기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/2465.%E2%80%85%EC%A4%84%E2%80%85%EC%84%B8%EC%9A%B0%EA%B8%B0/README.md) | <small>`자료 구조` `세그먼트 트리` `이분 탐색` </small> |
 | Platinum III | 2820 | 자동차 공장  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/2820.%E2%80%85%EC%9E%90%EB%8F%99%EC%B0%A8%E2%80%85%EA%B3%B5%EC%9E%A5/README.md) | <small>`자료 구조` `오일러 경로 테크닉` `느리게 갱신되는 세그먼트 트리` `트리` `+1`</small> |
+| Platinum III | 2873 | 롤러코스터  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/2873.%E2%80%85%EB%A1%A4%EB%9F%AC%EC%BD%94%EC%8A%A4%ED%84%B0/README.md) | <small>`구현` `그리디 알고리즘` `해 구성하기` `홀짝성` </small> |
 | Platinum III | 9345 | 디지털 비디오 디스크(DVDs)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/9345.%E2%80%85%EB%94%94%EC%A7%80%ED%84%B8%E2%80%85%EB%B9%84%EB%94%94%EC%98%A4%E2%80%85%EB%94%94%EC%8A%A4%ED%81%AC%EF%BC%88DVDs%EF%BC%89/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum III | 11377 | 열혈강호 3  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/11377.%E2%80%85%EC%97%B4%ED%98%88%EA%B0%95%ED%98%B8%E2%80%853/README.md) | <small>`그래프 이론` `최대 유량` `이분 매칭` </small> |
 | Platinum III | 11378 | 열혈강호 4  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/11378.%E2%80%85%EC%97%B4%ED%98%88%EA%B0%95%ED%98%B8%E2%80%854/README.md) | <small>`그래프 이론` `최대 유량` `이분 매칭` </small> |
