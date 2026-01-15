@@ -711,6 +711,7 @@
 | Silver IV | 11656 | 접미사 배열  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/11656.%E2%80%85%EC%A0%91%EB%AF%B8%EC%82%AC%E2%80%85%EB%B0%B0%EC%97%B4/README.md) | <small>`정렬` `문자열` </small> |
 | Silver IV | 14425 | 문자열 집합  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/14425.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%A7%91%ED%95%A9/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `문자열` `트리를 사용한 집합과 맵` </small> |
 | Silver IV | 14911 | 궁합 쌍 찾기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/14911.%E2%80%85%EA%B6%81%ED%95%A9%E2%80%85%EC%8C%8D%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`브루트포스 알고리즘` `자료 구조` `해시를 사용한 집합과 맵` `정렬` </small> |
+| Silver IV | 15736 | 청기 백기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/15736.%E2%80%85%EC%B2%AD%EA%B8%B0%E2%80%85%EB%B0%B1%EA%B8%B0/README.md) | <small>`수학` `정수론` </small> |
 | Silver IV | 17252 | 삼삼한 수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/17252.%E2%80%85%EC%82%BC%EC%82%BC%ED%95%9C%E2%80%85%EC%88%98/README.md) | <small>`사칙연산` `수학` </small> |
 | Silver IV | 24465 | 데뷔의 꿈  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/24465.%E2%80%85%EB%8D%B0%EB%B7%94%EC%9D%98%E2%80%85%EA%BF%88/README.md) | <small>`구현` `정렬` </small> |
 | Silver IV | 25192 | 인사성 밝은 곰곰이  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/25192.%E2%80%85%EC%9D%B8%EC%82%AC%EC%84%B1%E2%80%85%EB%B0%9D%EC%9D%80%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `트리를 사용한 집합과 맵` </small> |
