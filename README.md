@@ -593,6 +593,7 @@
 | Gold V | 18114 | 블랙 프라이데이  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/18114.%E2%80%85%EB%B8%94%EB%9E%99%E2%80%85%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4/README.md) | <small>`이분 탐색` `브루트포스 알고리즘` `정렬` `두 포인터` </small> |
 | Gold V | 18405 | 경쟁적 전염  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/18405.%E2%80%85%EA%B2%BD%EC%9F%81%EC%A0%81%E2%80%85%EC%A0%84%EC%97%BC/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` </small> |
 | Gold V | 18428 | 감시 피하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/18428.%E2%80%85%EA%B0%90%EC%8B%9C%E2%80%85%ED%94%BC%ED%95%98%EA%B8%B0/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
+| Gold V | 18869 | 멀티버스 Ⅱ  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/18869.%E2%80%85%EB%A9%80%ED%8B%B0%EB%B2%84%EC%8A%A4%E2%80%85%E2%85%A1/README.md) | <small>`정렬` `값 / 좌표 압축` </small> |
 | Gold V | 19539 | 사과나무  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/19539.%E2%80%85%EC%82%AC%EA%B3%BC%EB%82%98%EB%AC%B4/README.md) | <small>`수학` `그리디 알고리즘` </small> |
 | Gold V | 19598 | 최소 회의실 개수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/19598.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EA%B0%9C%EC%88%98/README.md) | <small>`자료 구조` `그리디 알고리즘` `우선순위 큐` `정렬` `스위핑` </small> |
 | Gold V | 19641 | 중첩 집합 모델  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/19641.%E2%80%85%EC%A4%91%EC%B2%A9%E2%80%85%EC%A7%91%ED%95%A9%E2%80%85%EB%AA%A8%EB%8D%B8/README.md) | <small>`깊이 우선 탐색` `오일러 경로 테크닉` `그래프 이론` `그래프 탐색` `트리` </small> |
