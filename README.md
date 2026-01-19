@@ -547,6 +547,7 @@
 | Gold V | 9024 | 두 수의 합  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9024.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9/README.md) | <small>`정렬` `이분 탐색` `두 포인터` </small> |
 | Gold V | 9205 | 맥주 마시면서 걸어가기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9205.%E2%80%85%EB%A7%A5%EC%A3%BC%E2%80%85%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C%E2%80%85%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 9251 | LCS  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9251.%E2%80%85LCS/README.md) | <small>`다이나믹 프로그래밍` `문자열` </small> |
+| Gold V | 9763 | 마을의 친밀도  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9763.%E2%80%85%EB%A7%88%EC%9D%84%EC%9D%98%E2%80%85%EC%B9%9C%EB%B0%80%EB%8F%84/README.md) | <small>`브루트포스 알고리즘` </small> |
 | Gold V | 10026 | 적록색약  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/10026.%E2%80%85%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 10472 | 십자뒤집기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/10472.%E2%80%85%EC%8B%AD%EC%9E%90%EB%92%A4%EC%A7%91%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `비트마스킹` `브루트포스 알고리즘` `그래프 이론` `+1`</small> |
 | Gold V | 10597 | 순열장난  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/10597.%E2%80%85%EC%88%9C%EC%97%B4%EC%9E%A5%EB%82%9C/README.md) | <small>`백트래킹` </small> |
