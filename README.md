@@ -871,6 +871,7 @@
 | Bronze V | 8545 | Zadanie próbne  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/8545.%E2%80%85Zadanie%E2%80%85pr%C3%B3bne/README.md) | <small>`구현` `문자열` </small> |
 | Bronze V | 8871 | Zadanie próbne 2  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/8871.%E2%80%85Zadanie%E2%80%85pr%C3%B3bne%E2%80%852/README.md) | <small>`수학` `사칙연산` </small> |
 | Bronze V | 9316 | Hello Judge  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/9316.%E2%80%85Hello%E2%80%85Judge/README.md) | <small>`구현` </small> |
+| Bronze V | 9653 | 스타워즈 로고  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/9653.%E2%80%85%EC%8A%A4%ED%83%80%EC%9B%8C%EC%A6%88%E2%80%85%EB%A1%9C%EA%B3%A0/README.md) | <small>`구현` </small> |
 | Bronze V | 10189 | Hook  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/10189.%E2%80%85Hook/README.md) | <small>`구현` </small> |
 | Bronze V | 11942 | 고려대는 사랑입니다  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/11942.%E2%80%85%EA%B3%A0%EB%A0%A4%EB%8C%80%EB%8A%94%E2%80%85%EC%82%AC%EB%9E%91%EC%9E%85%EB%8B%88%EB%8B%A4/README.md) | <small>`구현` </small> |
 | Bronze V | 13277 | 큰 수 곱셈  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/13277.%E2%80%85%ED%81%B0%E2%80%85%EC%88%98%E2%80%85%EA%B3%B1%EC%85%88/README.md) | <small>`수학` `사칙연산` `임의 정밀도 / 큰 수 연산` </small> |
