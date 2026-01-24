@@ -581,6 +581,7 @@
 | Gold V | 15681 | 트리와 쿼리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/15681.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/README.md) | <small>`깊이 우선 탐색` `다이나믹 프로그래밍` `트리에서의 다이나믹 프로그래밍` `트리` `+2`</small> |
 | Gold V | 15686 | 치킨 배달  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/15686.%E2%80%85%EC%B9%98%ED%82%A8%E2%80%85%EB%B0%B0%EB%8B%AC/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `구현` </small> |
 | Gold V | 15989 | 1, 2, 3 더하기 4  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/15989.%E2%80%851%EF%BC%8C%E2%80%852%EF%BC%8C%E2%80%853%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0%E2%80%854/README.md) | <small>`다이나믹 프로그래밍` </small> |
+| Gold V | 16498 | 작은 벌점  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16498.%E2%80%85%EC%9E%91%EC%9D%80%E2%80%85%EB%B2%8C%EC%A0%90/README.md) | <small>`브루트포스 알고리즘` `정렬` `이분 탐색` </small> |
 | Gold V | 16509 | 장군  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16509.%E2%80%85%EC%9E%A5%EA%B5%B0/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` </small> |
 | Gold V | 16928 | 뱀과 사다리 게임  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16928.%E2%80%85%EB%B1%80%EA%B3%BC%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC%E2%80%85%EA%B2%8C%EC%9E%84/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 16935 | 배열 돌리기 3  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16935.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%853/README.md) | <small>`구현` </small> |
