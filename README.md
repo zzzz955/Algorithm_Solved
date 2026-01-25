@@ -879,6 +879,7 @@
 | Bronze V | 10189 | Hook  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/10189.%E2%80%85Hook/README.md) | <small>`구현` </small> |
 | Bronze V | 11942 | 고려대는 사랑입니다  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/11942.%E2%80%85%EA%B3%A0%EB%A0%A4%EB%8C%80%EB%8A%94%E2%80%85%EC%82%AC%EB%9E%91%EC%9E%85%EB%8B%88%EB%8B%A4/README.md) | <small>`구현` </small> |
 | Bronze V | 13277 | 큰 수 곱셈  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/13277.%E2%80%85%ED%81%B0%E2%80%85%EC%88%98%E2%80%85%EA%B3%B1%EC%85%88/README.md) | <small>`수학` `사칙연산` `임의 정밀도 / 큰 수 연산` </small> |
+| Bronze V | 14581 | 팬들에게 둘러싸인 홍준  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/14581.%E2%80%85%ED%8C%AC%EB%93%A4%EC%97%90%EA%B2%8C%E2%80%85%EB%91%98%EB%9F%AC%EC%8B%B8%EC%9D%B8%E2%80%85%ED%99%8D%EC%A4%80/README.md) | <small>`구현` </small> |
 | Bronze V | 14928 | 큰 수 (BIG)  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Bronze/14928.%E2%80%85%ED%81%B0%E2%80%85%EC%88%98%E2%80%85%EF%BC%88BIG%EF%BC%89/README.md) | <small>`수학` `사칙연산` `임의 정밀도 / 큰 수 연산` </small> |
 | Bronze V | 15000 | CAPS  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/15000.%E2%80%85CAPS/README.md) | <small>`구현` `문자열` </small> |
 | Bronze V | 15680 | 연세대학교  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/15680.%E2%80%85%EC%97%B0%EC%84%B8%EB%8C%80%ED%95%99%EA%B5%90/README.md) | <small>`구현` </small> |
