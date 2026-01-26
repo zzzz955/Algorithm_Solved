@@ -917,6 +917,7 @@
 | Bronze V | 29751 | 삼각형  | [&nbsp;🔗&nbsp;](C99/%EB%B0%B1%EC%A4%80/Bronze/29751.%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95/README.md) | <small>`수학` `기하학` `사칙연산` </small> |
 | Bronze V | 30007 | 라면 공식  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/30007.%E2%80%85%EB%9D%BC%EB%A9%B4%E2%80%85%EA%B3%B5%EC%8B%9D/README.md) | <small>`수학` `구현` `사칙연산` </small> |
 | Bronze V | 30030 | 스위트콘 가격 구하기  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/30030.%E2%80%85%EC%8A%A4%EC%9C%84%ED%8A%B8%EC%BD%98%E2%80%85%EA%B0%80%EA%B2%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`수학` `사칙연산` </small> |
+| Bronze V | 30224 | Lucky 7  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/30224.%E2%80%85Lucky%E2%80%857/README.md) | <small>`수학` `구현` </small> |
 | Bronze V | 30328 | Java Warriors  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/30328.%E2%80%85Java%E2%80%85Warriors/README.md) | <small>`수학` `사칙연산` </small> |
 
 
