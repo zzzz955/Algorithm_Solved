@@ -561,6 +561,7 @@
 | Gold V | 11729 | 하노이 탑 이동 순서  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11729.%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4%E2%80%85%ED%83%91%E2%80%85%EC%9D%B4%EB%8F%99%E2%80%85%EC%88%9C%EC%84%9C/README.md) | <small>`재귀` </small> |
 | Gold V | 11909 | 배열 탈출  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11909.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`데이크스트라` `다이나믹 프로그래밍` `그래프 이론` `최단 경로` </small> |
 | Gold V | 11964 | Fruit Feast  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11964.%E2%80%85Fruit%E2%80%85Feast/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
+| Gold V | 12025 | 장난꾸러기 영훈  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12025.%E2%80%85%EC%9E%A5%EB%82%9C%EA%BE%B8%EB%9F%AC%EA%B8%B0%E2%80%85%EC%98%81%ED%9B%88/README.md) | <small>`수학` `비트마스킹` </small> |
 | Gold V | 12852 | 1로 만들기 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12852.%E2%80%851%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%852/README.md) | <small>`다이나믹 프로그래밍` `그래프 이론` `그래프 탐색` `역추적` </small> |
 | Gold V | 12865 | 평범한 배낭  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/12865.%E2%80%85%ED%8F%89%EB%B2%94%ED%95%9C%E2%80%85%EB%B0%B0%EB%82%AD/README.md) | <small>`다이나믹 프로그래밍` `배낭 문제` </small> |
 | Gold V | 12865 | 평범한 배낭  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12865.%E2%80%85%ED%8F%89%EB%B2%94%ED%95%9C%E2%80%85%EB%B0%B0%EB%82%AD/README.md) | <small>`다이나믹 프로그래밍` `배낭 문제` </small> |
