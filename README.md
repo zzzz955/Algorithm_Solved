@@ -923,6 +923,7 @@
 | Bronze V | 30030 | 스위트콘 가격 구하기  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/30030.%E2%80%85%EC%8A%A4%EC%9C%84%ED%8A%B8%EC%BD%98%E2%80%85%EA%B0%80%EA%B2%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`수학` `사칙연산` </small> |
 | Bronze V | 30224 | Lucky 7  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/30224.%E2%80%85Lucky%E2%80%857/README.md) | <small>`수학` `구현` </small> |
 | Bronze V | 30328 | Java Warriors  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/30328.%E2%80%85Java%E2%80%85Warriors/README.md) | <small>`수학` `사칙연산` </small> |
+| Bronze V | 32951 | AI 선도대학  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/32951.%E2%80%85AI%E2%80%85%EC%84%A0%EB%8F%84%EB%8C%80%ED%95%99/README.md) | <small>`수학` `사칙연산` </small> |
 
 
 ## 📁 SWEA
