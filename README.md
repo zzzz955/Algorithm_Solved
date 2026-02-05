@@ -284,6 +284,7 @@
 | Gold III | 4386 | 별자리 만들기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/4386.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold III | 6087 | 레이저 통신  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/6087.%E2%80%85%EB%A0%88%EC%9D%B4%EC%A0%80%E2%80%85%ED%86%B5%EC%8B%A0/README.md) | <small>`너비 우선 탐색` `데이크스트라` `그래프 이론` `그래프 탐색` `최단 경로` </small> |
 | Gold III | 7432 | 디스크 트리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/7432.%E2%80%85%EB%94%94%EC%8A%A4%ED%81%AC%E2%80%85%ED%8A%B8%EB%A6%AC/README.md) | <small>`자료 구조` `문자열` `트리` `트라이` </small> |
+| Gold III | 8972 | 미친 아두이노  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/8972.%E2%80%85%EB%AF%B8%EC%B9%9C%E2%80%85%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Gold III | 9344 | 도로  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9344.%E2%80%85%EB%8F%84%EB%A1%9C/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold III | 9466 | 텀 프로젝트  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9466.%E2%80%85%ED%85%80%E2%80%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold III | 9470 | Strahler 순서  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9470.%E2%80%85Strahler%E2%80%85%EC%88%9C%EC%84%9C/README.md) | <small>`방향 비순환 그래프` `그래프 이론` `위상 정렬` </small> |
