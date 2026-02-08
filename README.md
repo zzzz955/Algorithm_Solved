@@ -422,6 +422,7 @@
 | Gold IV | 11054 | 가장 긴 바이토닉 부분 수열  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11054.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EB%B0%94%EC%9D%B4%ED%86%A0%EB%8B%89%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Gold IV | 11404 | 플로이드  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11404.%E2%80%85%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C/README.md) | <small>`플로이드–워셜` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 11559 | Puyo Puyo  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11559.%E2%80%85Puyo%E2%80%85Puyo/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
+| Gold IV | 12786 | INHA SUIT  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12786.%E2%80%85INHA%E2%80%85SUIT/README.md) | <small>`다이나믹 프로그래밍` `그래프 이론` `최단 경로` `데이크스트라` `+1`</small> |
 | Gold IV | 12834 | 주간 미팅  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12834.%E2%80%85%EC%A3%BC%EA%B0%84%E2%80%85%EB%AF%B8%ED%8C%85/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 12851 | 숨바꼭질 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12851.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%E2%80%852/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 12869 | 뮤탈리스크  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/12869.%E2%80%85%EB%AE%A4%ED%83%88%EB%A6%AC%EC%8A%A4%ED%81%AC/README.md) | <small>`너비 우선 탐색` `다이나믹 프로그래밍` `그래프 이론` `그래프 탐색` </small> |
