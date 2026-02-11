@@ -83,6 +83,7 @@
 | Platinum IV | 15271 | 친구 팰린드롬 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/15271.%E2%80%85%EC%B9%9C%EA%B5%AC%E2%80%85%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%E2%80%852/README.md) | <small>`이분 매칭` </small> |
 | Platinum IV | 15816 | 퀘스트 중인 모험가  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/15816.%E2%80%85%ED%80%98%EC%8A%A4%ED%8A%B8%E2%80%85%EC%A4%91%EC%9D%B8%E2%80%85%EB%AA%A8%ED%97%98%EA%B0%80/README.md) | <small>`값 / 좌표 압축` `자료 구조` `세그먼트 트리` </small> |
 | Platinum IV | 15967 | 에바쿰  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/15967.%E2%80%85%EC%97%90%EB%B0%94%EC%BF%B0/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
+| Platinum IV | 16221 | 모독  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/16221.%E2%80%85%EB%AA%A8%EB%8F%85/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum IV | 16975 | 수열과 쿼리 21  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/16975.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8521/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
 | Platinum IV | 16978 | 수열과 쿼리 22  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/16978.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8522/README.md) | <small>`자료 구조` `오프라인 쿼리` `세그먼트 트리` </small> |
 | Platinum IV | 17408 | 수열과 쿼리 24  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/17408.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8524/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
