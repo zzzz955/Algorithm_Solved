@@ -937,6 +937,7 @@
 | Bronze V | 30328 | Java Warriors  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/30328.%E2%80%85Java%E2%80%85Warriors/README.md) | <small>`수학` `사칙연산` </small> |
 | Bronze V | 32929 | UOS 문자열  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/32929.%E2%80%85UOS%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md) | <small>`수학` `구현` `문자열` `사칙연산` </small> |
 | Bronze V | 32951 | AI 선도대학  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/32951.%E2%80%85AI%E2%80%85%EC%84%A0%EB%8F%84%EB%8C%80%ED%95%99/README.md) | <small>`수학` `사칙연산` </small> |
+| Bronze V | 34052 | 체육은 수학과목 입니다 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/34052.%E2%80%85%EC%B2%B4%EC%9C%A1%EC%9D%80%E2%80%85%EC%88%98%ED%95%99%EA%B3%BC%EB%AA%A9%E2%80%85%EC%9E%85%EB%8B%88%EB%8B%A4%E2%80%852/README.md) | <small>`수학` `구현` `사칙연산` </small> |
 
 
 ## 📁 SWEA
