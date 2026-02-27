@@ -1,37 +1,44 @@
+#include <algorithm>
 #include <iostream>
 #include <vector>
-#include <algorithm>
 using namespace std;
 
-const int N = 51;
-int nodes[ N ];
-int n, m;
+const	uint8_t	 N = 51;
+		uint8_t	 nodes[ N ];
+		int		 n;
+		int		 m;
+
 struct Edge
 {
-	int f, t, w;
-	bool operator<(const Edge& other) const
+	uint8_t f, t, w;
+	bool operator<( const Edge& other ) const
 	{
 		return w < other.w;
 	}
 };
-vector<Edge> edges;
+vector< Edge > edges;
 
-int Find( int a )
+int Find( uint8_t a )
 {
-	if ( nodes[ a ] == a ) return a;
+	if ( nodes[ a ] == a )
+		return a;
 	return nodes[ a ] = Find( nodes[ a ] );
 }
 
-bool Union( int a, int b )
+bool Union( uint8_t a, uint8_t b )
 {
-	int A = Find( a );
-	int B = Find( b );
-	if ( A == B ) return false;
+	uint8_t A = Find( a );
+	uint8_t B = Find( b );
+
+	if ( A == B )
+		return false;
+
 	nodes[ B ] = A;
 	return true;
 }
 
-int main() {
+int main()
+{
 	ios::sync_with_stdio( 0 );
 	cin.tie( 0 );
 	cout.tie( 0 );
@@ -41,20 +48,28 @@ int main() {
 	{
 		cin >> m;
 		edges.clear();
-		for ( int i = 1; i <= n; ++i )
+		for ( uint8_t i = 1; i <= n; ++i )
 			nodes[ i ] = i;
 
 		while ( m-- )
 		{
-			int f, t, w; cin >> f >> t >> w;
-			edges.push_back( { f, t, w } );
+			int f, t, w;
+			cin >> f >> t >> w;
+			edges.push_back( { 
+				static_cast< uint8_t >( f ), 
+				static_cast< uint8_t >( t ), 
+				static_cast< uint8_t >( w ) 
+				} );
 		}
 
 		sort( edges.begin(), edges.end() );
-		int sum = 0, cnt = 0;
+		uint16_t sum = 0;
+		uint8_t	 cnt = 0;
+
 		for ( const Edge& edge : edges )
 		{
 			const auto& [f, t, w] = edge;
+
 			if ( Union( f, t ) )
 			{
 				sum += w;
