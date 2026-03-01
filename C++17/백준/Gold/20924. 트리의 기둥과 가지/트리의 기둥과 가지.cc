@@ -1,8 +1,7 @@
 #include <iostream>
 #include <vector>
-#include <cstring>
 using namespace std;
-using pii = pair< int, int >;
+using pii = pair< int, uint16_t >;
 
 const int N = 2e5 + 1;
 int n, r, mn, mpn, r_to_m, mx_dist;
@@ -52,7 +51,9 @@ int main()
 	cin >> n >> r;
 	for ( int i = 0; i < n - 1; ++i )
 	{
-		int f, t, w; cin >> f >> t >> w;
+		int f, t; 
+		uint16_t w;
+		cin >> f >> t >> w;
 		edges[ f ].push_back( { t, w } );
 		edges[ t ].push_back( { f, w } );
 	}
