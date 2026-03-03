@@ -717,6 +717,7 @@
 | Silver III | 2149 | 암호 해독  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/2149.%E2%80%85%EC%95%94%ED%98%B8%E2%80%85%ED%95%B4%EB%8F%85/README.md) | <small>`구현` `정렬` `문자열` </small> |
 | Silver III | 2910 | 빈도 정렬  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/2910.%E2%80%85%EB%B9%88%EB%8F%84%E2%80%85%EC%A0%95%EB%A0%AC/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `정렬` </small> |
 | Silver III | 3273 | 두 수의 합  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/3273.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9/README.md) | <small>`정렬` `두 포인터` </small> |
+| Silver III | 7795 | 먹을 것인가 먹힐 것인가  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/7795.%E2%80%85%EB%A8%B9%EC%9D%84%E2%80%85%EA%B2%83%EC%9D%B8%EA%B0%80%E2%80%85%EB%A8%B9%ED%9E%90%E2%80%85%EA%B2%83%EC%9D%B8%EA%B0%80/README.md) | <small>`정렬` `이분 탐색` `두 포인터` </small> |
 | Silver III | 9017 | 크로스 컨트리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/9017.%E2%80%85%ED%81%AC%EB%A1%9C%EC%8A%A4%E2%80%85%EC%BB%A8%ED%8A%B8%EB%A6%AC/README.md) | <small>`구현` </small> |
 | Silver III | 10158 | 개미  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/10158.%E2%80%85%EA%B0%9C%EB%AF%B8/README.md) | <small>`수학` `애드 혹` `사칙연산` </small> |
 | Silver III | 11659 | 구간 합 구하기 4  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/11659.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%854/README.md) | <small>`누적 합` </small> |
