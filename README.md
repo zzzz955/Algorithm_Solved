@@ -511,6 +511,7 @@
 | Gold IV | 29811 | 지각하기 싫어  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/29811.%E2%80%85%EC%A7%80%EA%B0%81%ED%95%98%EA%B8%B0%E2%80%85%EC%8B%AB%EC%96%B4/README.md) | <small>`자료 구조` `우선순위 큐` `트리를 사용한 집합과 맵` </small> |
 | Gold IV | 30827 | 회의실 배정  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/30827.%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Gold IV | 31792 | 한빛미디어 (Hard)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/31792.%E2%80%85%ED%95%9C%EB%B9%9B%EB%AF%B8%EB%94%94%EC%96%B4%E2%80%85%EF%BC%88Hard%EF%BC%89/README.md) | <small>`이분 탐색` `자료 구조` `그리디 알고리즘` `트리를 사용한 집합과 맵` </small> |
+| Gold IV | 32197 | 절연 구간 최소화  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/32197.%E2%80%85%EC%A0%88%EC%97%B0%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%EC%B5%9C%EC%86%8C%ED%99%94/README.md) | <small>`그래프 이론` `최단 경로` `데이크스트라` `0-1 너비 우선 탐색` </small> |
 | Gold V | 1011 | Fly me to the Alpha Centauri  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1011.%E2%80%85Fly%E2%80%85me%E2%80%85to%E2%80%85the%E2%80%85Alpha%E2%80%85Centauri/README.md) | <small>`수학` </small> |
 | Gold V | 1038 | 감소하는 수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1038.%E2%80%85%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%E2%80%85%EC%88%98/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
 | Gold V | 1052 | 물병  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1052.%E2%80%85%EB%AC%BC%EB%B3%91/README.md) | <small>`비트마스킹` `그리디 알고리즘` `수학` </small> |
