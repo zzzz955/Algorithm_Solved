@@ -951,6 +951,7 @@
 | Bronze V | 30087 | 진흥원 세미나  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/30087.%E2%80%85%EC%A7%84%ED%9D%A5%EC%9B%90%E2%80%85%EC%84%B8%EB%AF%B8%EB%82%98/README.md) | <small>`구현` </small> |
 | Bronze V | 30224 | Lucky 7  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/30224.%E2%80%85Lucky%E2%80%857/README.md) | <small>`수학` `구현` </small> |
 | Bronze V | 30328 | Java Warriors  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/30328.%E2%80%85Java%E2%80%85Warriors/README.md) | <small>`수학` `사칙연산` </small> |
+| Bronze V | 31450 | Everyone is a winner  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/31450.%E2%80%85Everyone%E2%80%85is%E2%80%85a%E2%80%85winner/README.md) | <small>`수학` `사칙연산` </small> |
 | Bronze V | 32384 | 사랑은 고려대입니다  | [&nbsp;🔗&nbsp;](C99/%EB%B0%B1%EC%A4%80/Bronze/32384.%E2%80%85%EC%82%AC%EB%9E%91%EC%9D%80%E2%80%85%EA%B3%A0%EB%A0%A4%EB%8C%80%EC%9E%85%EB%8B%88%EB%8B%A4/README.md) | <small>`구현` </small> |
 | Bronze V | 32929 | UOS 문자열  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/32929.%E2%80%85UOS%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md) | <small>`수학` `구현` `문자열` `사칙연산` </small> |
 | Bronze V | 32951 | AI 선도대학  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/32951.%E2%80%85AI%E2%80%85%EC%84%A0%EB%8F%84%EB%8C%80%ED%95%99/README.md) | <small>`수학` `사칙연산` </small> |
