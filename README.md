@@ -190,6 +190,7 @@
 | Gold I | 23817 | 포항항  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/23817.%E2%80%85%ED%8F%AC%ED%95%AD%ED%95%AD/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `그래프 이론` `그래프 탐색` </small> |
 | Gold I | 24042 | 횡단보도  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/24042.%E2%80%85%ED%9A%A1%EB%8B%A8%EB%B3%B4%EB%8F%84/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold I | 28707 | 배열 정렬  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/28707.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%A0%95%EB%A0%AC/README.md) | <small>`그래프 이론` `자료 구조` `집합과 맵` `최단 경로` `해시를 사용한 집합과 맵` `+2`</small> |
+| Gold I | 32644 | 랜덤 넘버 추측하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/32644.%E2%80%85%EB%9E%9C%EB%8D%A4%E2%80%85%EB%84%98%EB%B2%84%E2%80%85%EC%B6%94%EC%B8%A1%ED%95%98%EA%B8%B0/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Gold II | 1039 | 교환  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1039.%E2%80%85%EA%B5%90%ED%99%98/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold II | 1079 | 마피아  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1079.%E2%80%85%EB%A7%88%ED%94%BC%EC%95%84/README.md) | <small>`구현` `브루트포스 알고리즘` `백트래킹` </small> |
 | Gold II | 1135 | 뉴스 전하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1135.%E2%80%85%EB%89%B4%EC%8A%A4%E2%80%85%EC%A0%84%ED%95%98%EA%B8%B0/README.md) | <small>`다이나믹 프로그래밍` `그리디 알고리즘` `정렬` `트리` `+1`</small> |
