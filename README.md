@@ -960,6 +960,7 @@
 | Bronze V | 32951 | AI 선도대학  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/32951.%E2%80%85AI%E2%80%85%EC%84%A0%EB%8F%84%EB%8C%80%ED%95%99/README.md) | <small>`수학` `사칙연산` </small> |
 | Bronze V | 33161 | 鉛筆 2 (Pencils 2)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/33161.%E2%80%85%E9%89%9B%E7%AD%86%E2%80%852%E2%80%85%EF%BC%88Pencils%E2%80%852%EF%BC%89/README.md) | <small>`수학` `사칙연산` </small> |
 | Bronze V | 33165 | 徒競走 (Footrace)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/33165.%E2%80%85%E5%BE%92%E7%AB%B6%E8%B5%B0%E2%80%85%EF%BC%88Footrace%EF%BC%89/README.md) | <small>`수학` `사칙연산` </small> |
+| Bronze V | 33169 | 所持金 (Money On Me)  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/33169.%E2%80%85%E6%89%80%E6%8C%81%E9%87%91%E2%80%85%EF%BC%88Money%E2%80%85On%E2%80%85Me%EF%BC%89/README.md) | <small>`수학` `사칙연산` </small> |
 | Bronze V | 33515 | 노트북 세 대를 가지고 왔다  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/33515.%E2%80%85%EB%85%B8%ED%8A%B8%EB%B6%81%E2%80%85%EC%84%B8%E2%80%85%EB%8C%80%EB%A5%BC%E2%80%85%EA%B0%80%EC%A7%80%EA%B3%A0%E2%80%85%EC%99%94%EB%8B%A4/README.md) | <small>`수학` `구현` </small> |
 | Bronze V | 34052 | 체육은 수학과목 입니다 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/34052.%E2%80%85%EC%B2%B4%EC%9C%A1%EC%9D%80%E2%80%85%EC%88%98%ED%95%99%EA%B3%BC%EB%AA%A9%E2%80%85%EC%9E%85%EB%8B%88%EB%8B%A4%E2%80%852/README.md) | <small>`수학` `구현` `사칙연산` </small> |
 | Bronze V | 34281 | Class Photo  | [&nbsp;🔗&nbsp;](PyPy3/%EB%B0%B1%EC%A4%80/Bronze/34281.%E2%80%85Class%E2%80%85Photo/README.md) | <small>`수학` `사칙연산` </small> |
