@@ -1,31 +1,27 @@
 #include <iostream>
-#include <vector>
-#include <queue>
 using namespace std;
 
 const int N = 3e5 + 1;
 int n;
-bool v[ N ];
-vector< int > edges[ N ];
+int nodes[ N ];
 
-void bfs()
+int Find( int a )
 {
-	queue< int > q;
-	q.push( 1 );
-	v[ 1 ] = true;
+	if ( nodes[ a ] == a )
+		return a;
 
-	while ( !q.empty() )
-	{
-		int cn = q.front(); q.pop();
-		for ( int nn : edges[ cn ] )
-		{
-			if ( v[ nn ] )
-				continue;
+	return nodes[ a ] = Find( nodes[ a ] );
+}
 
-			v[ nn ] = true;
-			q.push( nn );
-		}
-	}
+void Union( int a, int b )
+{
+	int A = Find( a );
+	int B = Find( b );
+
+	if ( A == B )
+		return;
+
+	nodes[ B ] = A;
 }
 
 int main()
@@ -34,17 +30,19 @@ int main()
 	cin.tie( 0 );
 
 	cin >> n;
+	for ( int i = 1; i <= n; ++i )
+		nodes[ i ] = i;
+
 	for ( int i = 0; i < n - 2; ++i )
 	{
-		int f, t; cin >> f >> t;
-		edges[ f ].push_back( t );
-		edges[ t ].push_back( f );
+		int a, b; cin >> a >> b;
+		Union( a, b );
 	}
 
-	bfs();
+	int def = Find( 1 );
 	for ( int i = 2; i <= n; ++i )
 	{
-		if ( v[ i ] )
+		if ( def == Find( i ) )
 			continue;
 
 		cout << 1 << " " << i;
