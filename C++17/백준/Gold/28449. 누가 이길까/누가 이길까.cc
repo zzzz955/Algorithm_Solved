@@ -1,15 +1,13 @@
 #include <iostream>
 #include <algorithm>
-#include <unordered_map>
 using namespace std;
 using ll = long long;
 
 const int N = 1e5;
-const int M = 1e5;
 int hi[ N ];
-int arc[ M ];
+int arc[ N ];
+int dic[ N + 1 ];
 int n, m;
-unordered_map< int, int > dic;
 
 static ll GetWinCount( int A[], int B[], int a, int b )
 {
@@ -39,8 +37,7 @@ int main()
 	for ( int i = 0; i < m; ++i )
 	{
 		cin >> arc[ i ];
-		if ( dic.count( arc[ i ] ) )
-			draw += dic[ arc[ i ] ];
+		draw += dic[ arc[ i ] ];
 	}
 
 	sort( hi, hi + n );
