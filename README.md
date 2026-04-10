@@ -974,6 +974,7 @@
 | Bronze V | 34721 | 역사를 걸으면 동국이 보이고  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/34721.%E2%80%85%EC%97%AD%EC%82%AC%EB%A5%BC%E2%80%85%EA%B1%B8%EC%9C%BC%EB%A9%B4%E2%80%85%EB%8F%99%EA%B5%AD%EC%9D%B4%E2%80%85%EB%B3%B4%EC%9D%B4%EA%B3%A0/README.md) | <small>`구현` </small> |
 | Bronze V | 34813 | 공통교육과정  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/34813.%E2%80%85%EA%B3%B5%ED%86%B5%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95/README.md) | <small>`구현` `문자열` </small> |
 | Bronze V | 34921 | 덕후  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/34921.%E2%80%85%EB%8D%95%ED%9B%84/README.md) | <small>`수학` `사칙연산` </small> |
+| Bronze V | 34945 | 채플이 너무해  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/34945.%E2%80%85%EC%B1%84%ED%94%8C%EC%9D%B4%E2%80%85%EB%84%88%EB%AC%B4%ED%95%B4/README.md) | <small>`수학` `구현` `사칙연산` </small> |
 
 
 ## 📁 SWEA
