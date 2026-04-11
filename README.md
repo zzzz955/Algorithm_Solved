@@ -639,6 +639,7 @@
 | Gold V | 21608 | 상어 초등학교  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21608.%E2%80%85%EC%83%81%EC%96%B4%E2%80%85%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90/README.md) | <small>`구현` </small> |
 | Gold V | 21758 | 꿀 따기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21758.%E2%80%85%EA%BF%80%E2%80%85%EB%94%B0%EA%B8%B0/README.md) | <small>`그리디 알고리즘` `누적 합` </small> |
 | Gold V | 21772 | 가희의 고구마 먹방  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21772.%E2%80%85%EA%B0%80%ED%9D%AC%EC%9D%98%E2%80%85%EA%B3%A0%EA%B5%AC%EB%A7%88%E2%80%85%EB%A8%B9%EB%B0%A9/README.md) | <small>`구현` `브루트포스 알고리즘` `백트래킹` </small> |
+| Gold V | 21773 | 가희와 프로세스 1  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21773.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%E2%80%851/README.md) | <small>`자료 구조` `우선순위 큐` </small> |
 | Gold V | 21775 | 가희와 자원 놀이  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21775.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%EC%9E%90%EC%9B%90%E2%80%85%EB%86%80%EC%9D%B4/README.md) | <small>`구현` `자료 구조` `집합과 맵` `시뮬레이션` `트리를 사용한 집합과 맵` </small> |
 | Gold V | 22251 | 빌런 호석  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/22251.%E2%80%85%EB%B9%8C%EB%9F%B0%E2%80%85%ED%98%B8%EC%84%9D/README.md) | <small>`브루트포스 알고리즘` `구현` </small> |
 | Gold V | 22252 | 정보 상인 호석  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/22252.%E2%80%85%EC%A0%95%EB%B3%B4%E2%80%85%EC%83%81%EC%9D%B8%E2%80%85%ED%98%B8%EC%84%9D/README.md) | <small>`자료 구조` `집합과 맵` `해시를 사용한 집합과 맵` `트리를 사용한 집합과 맵` `+1`</small> |
