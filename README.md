@@ -997,6 +997,7 @@
 | D3 | 1244 | [S/W 문제해결 응용] 2일차 - 최대 상금  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D3/1244.%E2%80%85%EF%BC%BBS%EF%BC%8FW%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%E2%80%85%EC%9D%91%EC%9A%A9%EF%BC%BD%E2%80%852%EC%9D%BC%EC%B0%A8%E2%80%85%EF%BC%8D%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%EC%83%81%EA%B8%88/README.md) | <small></small> |
 | D3 | 2948 | 문자열 교집합  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D3/2948.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B5%90%EC%A7%91%ED%95%A9/README.md) | <small></small> |
 | D3 | 22683 | 나무 베기  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D3/22683.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EB%B2%A0%EA%B8%B0/README.md) | <small></small> |
+| D3 | 26389 | 여행  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D3/26389.%E2%80%85%EC%97%AC%ED%96%89/README.md) | <small></small> |
 | D2 | 22654 | 차윤이의 RC카  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D2/22654.%E2%80%85%EC%B0%A8%EC%9C%A4%EC%9D%B4%EC%9D%98%E2%80%85RC%EC%B9%B4/README.md) | <small></small> |
 | D1 | 1545 | 거꾸로 출력해 보아요  | [&nbsp;🔗&nbsp;](Python/SWEA/D1/1545.%E2%80%85%EA%B1%B0%EA%BE%B8%EB%A1%9C%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%B4%E2%80%85%EB%B3%B4%EC%95%84%EC%9A%94/README.md) | <small></small> |
 | D1 | 1936 | 1대1 가위바위보  | [&nbsp;🔗&nbsp;](Python/SWEA/D1/1936.%E2%80%851%EB%8C%801%E2%80%85%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4/README.md) | <small></small> |
