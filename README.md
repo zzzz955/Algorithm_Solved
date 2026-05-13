@@ -995,6 +995,7 @@
 | D4 | 10966 | 물놀이를 가자  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D4/10966.%E2%80%85%EB%AC%BC%EB%86%80%EC%9D%B4%EB%A5%BC%E2%80%85%EA%B0%80%EC%9E%90/README.md) | <small></small> |
 | D4 | 25838 | 여우 줄이기  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D4/25838.%E2%80%85%EC%97%AC%EC%9A%B0%E2%80%85%EC%A4%84%EC%9D%B4%EA%B8%B0/README.md) | <small></small> |
 | D4 | 26504 | MST 만들기  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D4/26504.%E2%80%85MST%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small></small> |
+| D4 | 26793 | 게으름뱅이  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D4/26793.%E2%80%85%EA%B2%8C%EC%9C%BC%EB%A6%84%EB%B1%85%EC%9D%B4/README.md) | <small></small> |
 | D3 | 1244 | [S/W 문제해결 응용] 2일차 - 최대 상금  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D3/1244.%E2%80%85%EF%BC%BBS%EF%BC%8FW%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%E2%80%85%EC%9D%91%EC%9A%A9%EF%BC%BD%E2%80%852%EC%9D%BC%EC%B0%A8%E2%80%85%EF%BC%8D%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%EC%83%81%EA%B8%88/README.md) | <small></small> |
 | D3 | 2948 | 문자열 교집합  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D3/2948.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B5%90%EC%A7%91%ED%95%A9/README.md) | <small></small> |
 | D3 | 22683 | 나무 베기  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D3/22683.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EB%B2%A0%EA%B8%B0/README.md) | <small></small> |
