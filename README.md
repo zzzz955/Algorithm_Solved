@@ -999,6 +999,7 @@
 | D3 | 1244 | [S/W 문제해결 응용] 2일차 - 최대 상금  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D3/1244.%E2%80%85%EF%BC%BBS%EF%BC%8FW%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%E2%80%85%EC%9D%91%EC%9A%A9%EF%BC%BD%E2%80%852%EC%9D%BC%EC%B0%A8%E2%80%85%EF%BC%8D%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%EC%83%81%EA%B8%88/README.md) | <small></small> |
 | D3 | 2948 | 문자열 교집합  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D3/2948.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B5%90%EC%A7%91%ED%95%A9/README.md) | <small></small> |
 | D3 | 22683 | 나무 베기  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D3/22683.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EB%B2%A0%EA%B8%B0/README.md) | <small></small> |
+| D3 | 25655 | 유치원생은 쉽게 푸는 문제  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D3/25655.%E2%80%85%EC%9C%A0%EC%B9%98%EC%9B%90%EC%83%9D%EC%9D%80%E2%80%85%EC%89%BD%EA%B2%8C%E2%80%85%ED%91%B8%EB%8A%94%E2%80%85%EB%AC%B8%EC%A0%9C/README.md) | <small></small> |
 | D3 | 26389 | 여행  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D3/26389.%E2%80%85%EC%97%AC%ED%96%89/README.md) | <small></small> |
 | D3 | 26792 | 덧셈과 뺄셈  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D3/26792.%E2%80%85%EB%8D%A7%EC%85%88%EA%B3%BC%E2%80%85%EB%BA%84%EC%85%88/README.md) | <small></small> |
 | D2 | 22654 | 차윤이의 RC카  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D2/22654.%E2%80%85%EC%B0%A8%EC%9C%A4%EC%9D%B4%EC%9D%98%E2%80%85RC%EC%B9%B4/README.md) | <small></small> |
