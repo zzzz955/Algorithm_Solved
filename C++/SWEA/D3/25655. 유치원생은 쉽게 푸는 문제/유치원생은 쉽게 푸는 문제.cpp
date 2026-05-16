@@ -2,7 +2,6 @@
 using namespace	std;
 
 int t, x;
-string s;
 
 int main()
 {
@@ -14,16 +13,15 @@ int main()
 	while ( t-- )
 	{
 		cin >> x;
-		s.clear();
 		
 		if ( x == 1 )
-			s = "0";
+			cout << "0";
 		else if ( x % 2 )
-			s = "4";
+			cout << "4";
 
 		for ( int i = 0; i < x / 2; ++i )
-			s += "8";
+			cout << "8";
 
-		cout << s << '\n';
+		cout << '\n';
 	}
 }
