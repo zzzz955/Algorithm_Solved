@@ -150,8 +150,8 @@
 | Gold I | 1208 | 부분수열의 합 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1208.%E2%80%85%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%852/README.md) | <small>`이분 탐색` `중간에서 만나기` </small> |
 | Gold I | 1275 | 커피숍2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1275.%E2%80%85%EC%BB%A4%ED%94%BC%EC%88%8D2/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
 | Gold I | 1300 | K번째 수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1300.%E2%80%85K%EB%B2%88%EC%A7%B8%E2%80%85%EC%88%98/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
-| Gold I | 1700 | 멀티탭 스케줄링  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1700.%E2%80%85%EB%A9%80%ED%8B%B0%ED%83%AD%E2%80%85%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81/README.md) | <small>`그리디 알고리즘` </small> |
 | Gold I | 1700 | 멀티탭 스케줄링  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1700.%E2%80%85%EB%A9%80%ED%8B%B0%ED%83%AD%E2%80%85%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81/README.md) | <small>`그리디 알고리즘` </small> |
+| Gold I | 1700 | 멀티탭 스케줄링  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1700.%E2%80%85%EB%A9%80%ED%8B%B0%ED%83%AD%E2%80%85%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81/README.md) | <small>`그리디 알고리즘` </small> |
 | Gold I | 1800 | 인터넷 설치  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1800.%E2%80%85%EC%9D%B8%ED%84%B0%EB%84%B7%E2%80%85%EC%84%A4%EC%B9%98/README.md) | <small>`그래프 이론` `이분 탐색` `최단 경로` `데이크스트라` `매개 변수 탐색` </small> |
 | Gold I | 1884 | 고속도로  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1884.%E2%80%85%EA%B3%A0%EC%86%8D%EB%8F%84%EB%A1%9C/README.md) | <small>`데이크스트라` `다이나믹 프로그래밍` `그래프 이론` `최단 경로` </small> |
 | Gold I | 2042 | 구간 합 구하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2042.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
@@ -173,8 +173,8 @@
 | Gold I | 11689 | GCD(n, k) = 1  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/11689.%E2%80%85GCD%EF%BC%88n%EF%BC%8C%E2%80%85k%EF%BC%89%E2%80%85%EF%BC%9D%E2%80%851/README.md) | <small>`오일러 피 함수` `수학` `정수론` </small> |
 | Gold I | 12100 | 2048 (Easy)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12100.%E2%80%852048%E2%80%85%EF%BC%88Easy%EF%BC%89/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `구현` `시뮬레이션` </small> |
 | Gold I | 12837 | 가계부 (Hard)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12837.%E2%80%85%EA%B0%80%EA%B3%84%EB%B6%80%E2%80%85%EF%BC%88Hard%EF%BC%89/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
-| Gold I | 13459 | 구슬 탈출  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/13459.%E2%80%85%EA%B5%AC%EC%8A%AC%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
 | Gold I | 13459 | 구슬 탈출  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13459.%E2%80%85%EA%B5%AC%EC%8A%AC%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
+| Gold I | 13459 | 구슬 탈출  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/13459.%E2%80%85%EA%B5%AC%EC%8A%AC%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
 | Gold I | 13460 | 구슬 탈출 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13460.%E2%80%85%EA%B5%AC%EC%8A%AC%E2%80%85%ED%83%88%EC%B6%9C%E2%80%852/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
 | Gold I | 14428 | 수열과 쿼리 16  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14428.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8516/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
 | Gold I | 14438 | 수열과 쿼리 17  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14438.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8517/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
@@ -298,8 +298,8 @@
 | Gold III | 10423 | 전기가 부족해  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/10423.%E2%80%85%EC%A0%84%EA%B8%B0%EA%B0%80%E2%80%85%EB%B6%80%EC%A1%B1%ED%95%B4/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold III | 11437 | LCA  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11437.%E2%80%85LCA/README.md) | <small>`그래프 이론` `최소 공통 조상` `트리` </small> |
 | Gold III | 11562 | 백양로 브레이크  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11562.%E2%80%85%EB%B0%B1%EC%96%91%EB%A1%9C%E2%80%85%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC/README.md) | <small>`플로이드–워셜` `그래프 이론` `최단 경로` </small> |
-| Gold III | 11779 | 최소비용 구하기 2  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/11779.%E2%80%85%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%852/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold III | 11779 | 최소비용 구하기 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11779.%E2%80%85%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%852/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
+| Gold III | 11779 | 최소비용 구하기 2  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/11779.%E2%80%85%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%852/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold III | 12764 | 싸지방에 간 준하  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12764.%E2%80%85%EC%8B%B8%EC%A7%80%EB%B0%A9%EC%97%90%E2%80%85%EA%B0%84%E2%80%85%EC%A4%80%ED%95%98/README.md) | <small>`구현` `자료 구조` `그리디 알고리즘` `집합과 맵` `시뮬레이션` `우선순위 큐` </small> |
 | Gold III | 13418 | 학교 탐방하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13418.%E2%80%85%ED%95%99%EA%B5%90%E2%80%85%ED%83%90%EB%B0%A9%ED%95%98%EA%B8%B0/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold III | 14427 | 수열과 쿼리 15  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14427.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8515/README.md) | <small>`자료 구조` `우선순위 큐` `세그먼트 트리` </small> |
@@ -352,16 +352,16 @@
 | Gold IV | 1083 | 소트  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1083.%E2%80%85%EC%86%8C%ED%8A%B8/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Gold IV | 1197 | 최소 스패닝 트리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1197.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%EC%8A%A4%ED%8C%A8%EB%8B%9D%E2%80%85%ED%8A%B8%EB%A6%AC/README.md) | <small>`최소 스패닝 트리` `그래프 이론` </small> |
 | Gold IV | 1253 | 좋다  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1253.%E2%80%85%EC%A2%8B%EB%8B%A4/README.md) | <small>`이분 탐색` `자료 구조` `정렬` `두 포인터` </small> |
-| Gold IV | 1261 | 알고스팟  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/1261.%E2%80%85%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F/README.md) | <small>`0-1 너비 우선 탐색` `데이크스트라` `그래프 이론` `그래프 탐색` `+1`</small> |
 | Gold IV | 1261 | 알고스팟  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1261.%E2%80%85%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F/README.md) | <small>`0-1 너비 우선 탐색` `데이크스트라` `그래프 이론` `그래프 탐색` `+1`</small> |
+| Gold IV | 1261 | 알고스팟  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/1261.%E2%80%85%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F/README.md) | <small>`0-1 너비 우선 탐색` `데이크스트라` `그래프 이론` `그래프 탐색` `+1`</small> |
 | Gold IV | 1277 | 발전소 설치  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1277.%E2%80%85%EB%B0%9C%EC%A0%84%EC%86%8C%E2%80%85%EC%84%A4%EC%B9%98/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 1322 | X와 K  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1322.%E2%80%85X%EC%99%80%E2%80%85K/README.md) | <small>`수학` `비트마스킹` </small> |
 | Gold IV | 1327 | 소트 게임  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1327.%E2%80%85%EC%86%8C%ED%8A%B8%E2%80%85%EA%B2%8C%EC%9E%84/README.md) | <small>`너비 우선 탐색` `자료 구조` `그래프 이론` `그래프 탐색` `+2`</small> |
 | Gold IV | 1339 | 단어 수학  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1339.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%88%98%ED%95%99/README.md) | <small>`그리디 알고리즘` </small> |
 | Gold IV | 1461 | 도서관  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1461.%E2%80%85%EB%8F%84%EC%84%9C%EA%B4%80/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Gold IV | 1477 | 휴게소 세우기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1477.%E2%80%85%ED%9C%B4%EA%B2%8C%EC%86%8C%E2%80%85%EC%84%B8%EC%9A%B0%EA%B8%B0/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
-| Gold IV | 1504 | 특정한 최단 경로  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1504.%E2%80%85%ED%8A%B9%EC%A0%95%ED%95%9C%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 1504 | 특정한 최단 경로  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1504.%E2%80%85%ED%8A%B9%EC%A0%95%ED%95%9C%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
+| Gold IV | 1504 | 특정한 최단 경로  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1504.%E2%80%85%ED%8A%B9%EC%A0%95%ED%95%9C%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 1647 | 도시 분할 계획  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1647.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EB%B6%84%ED%95%A0%E2%80%85%EA%B3%84%ED%9A%8D/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold IV | 1662 | 압축  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1662.%E2%80%85%EC%95%95%EC%B6%95/README.md) | <small>`자료 구조` `재귀` `스택` </small> |
 | Gold IV | 1689 | 겹치는 선분  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1689.%E2%80%85%EA%B2%B9%EC%B9%98%EB%8A%94%E2%80%85%EC%84%A0%EB%B6%84/README.md) | <small>`그리디 알고리즘` `정렬` `스위핑` </small> |
@@ -583,16 +583,16 @@
 | Gold V | 11964 | Fruit Feast  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11964.%E2%80%85Fruit%E2%80%85Feast/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 12025 | 장난꾸러기 영훈  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12025.%E2%80%85%EC%9E%A5%EB%82%9C%EA%BE%B8%EB%9F%AC%EA%B8%B0%E2%80%85%EC%98%81%ED%9B%88/README.md) | <small>`수학` `비트마스킹` </small> |
 | Gold V | 12852 | 1로 만들기 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12852.%E2%80%851%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%852/README.md) | <small>`다이나믹 프로그래밍` `그래프 이론` `그래프 탐색` `역추적` </small> |
-| Gold V | 12865 | 평범한 배낭  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/12865.%E2%80%85%ED%8F%89%EB%B2%94%ED%95%9C%E2%80%85%EB%B0%B0%EB%82%AD/README.md) | <small>`다이나믹 프로그래밍` `배낭 문제` </small> |
 | Gold V | 12865 | 평범한 배낭  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12865.%E2%80%85%ED%8F%89%EB%B2%94%ED%95%9C%E2%80%85%EB%B0%B0%EB%82%AD/README.md) | <small>`다이나믹 프로그래밍` `배낭 문제` </small> |
+| Gold V | 12865 | 평범한 배낭  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/12865.%E2%80%85%ED%8F%89%EB%B2%94%ED%95%9C%E2%80%85%EB%B0%B0%EB%82%AD/README.md) | <small>`다이나믹 프로그래밍` `배낭 문제` </small> |
 | Gold V | 12919 | A와 B 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12919.%E2%80%85A%EC%99%80%E2%80%85B%E2%80%852/README.md) | <small>`브루트포스 알고리즘` `재귀` `문자열` </small> |
 | Gold V | 12931 | 두 배 더하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12931.%E2%80%85%EB%91%90%E2%80%85%EB%B0%B0%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0/README.md) | <small>`그리디 알고리즘` </small> |
 | Gold V | 12980 | 좋아하는 수열  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12980.%E2%80%85%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94%E2%80%85%EC%88%98%EC%97%B4/README.md) | <small>`브루트포스 알고리즘` `백트래킹` </small> |
 | Gold V | 13023 | ABCDE  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13023.%E2%80%85ABCDE/README.md) | <small>`백트래킹` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 13164 | 행복 유치원  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13164.%E2%80%85%ED%96%89%EB%B3%B5%E2%80%85%EC%9C%A0%EC%B9%98%EC%9B%90/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Gold V | 13265 | 색칠하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13265.%E2%80%85%EC%83%89%EC%B9%A0%ED%95%98%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `이분 그래프` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
-| Gold V | 13549 | 숨바꼭질 3  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/13549.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%E2%80%853/README.md) | <small>`0-1 너비 우선 탐색` `너비 우선 탐색` `데이크스트라` `그래프 이론` `+2`</small> |
 | Gold V | 13549 | 숨바꼭질 3  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13549.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%E2%80%853/README.md) | <small>`0-1 너비 우선 탐색` `너비 우선 탐색` `데이크스트라` `그래프 이론` `+2`</small> |
+| Gold V | 13549 | 숨바꼭질 3  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/13549.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%E2%80%853/README.md) | <small>`0-1 너비 우선 탐색` `너비 우선 탐색` `데이크스트라` `그래프 이론` `+2`</small> |
 | Gold V | 14217 | 그래프 탐색  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14217.%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84%E2%80%85%ED%83%90%EC%83%89/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` </small> |
 | Gold V | 14284 | 간선 이어가기 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14284.%E2%80%85%EA%B0%84%EC%84%A0%E2%80%85%EC%9D%B4%EC%96%B4%EA%B0%80%EA%B8%B0%E2%80%852/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold V | 14567 | 선수과목 (Prerequisite)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14567.%E2%80%85%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9%E2%80%85%EF%BC%88Prerequisite%EF%BC%89/README.md) | <small>`방향 비순환 그래프` `다이나믹 프로그래밍` `그래프 이론` `위상 정렬` </small> |
@@ -682,8 +682,8 @@
 | Silver I | 11403 | 경로 찾기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/11403.%E2%80%85%EA%B2%BD%EB%A1%9C%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`플로이드–워셜` `그래프 이론` `그래프 탐색` `최단 경로` </small> |
 | Silver I | 14888 | 연산자 끼워넣기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/14888.%E2%80%85%EC%97%B0%EC%82%B0%EC%9E%90%E2%80%85%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
 | Silver I | 14889 | 스타트와 링크  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/14889.%E2%80%85%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%E2%80%85%EB%A7%81%ED%81%AC/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
-| Silver I | 14940 | 쉬운 최단거리  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/14940.%E2%80%85%EC%89%AC%EC%9A%B4%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Silver I | 14940 | 쉬운 최단거리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/14940.%E2%80%85%EC%89%AC%EC%9A%B4%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
+| Silver I | 14940 | 쉬운 최단거리  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/14940.%E2%80%85%EC%89%AC%EC%9A%B4%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Silver I | 17615 | 볼 모으기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/17615.%E2%80%85%EB%B3%BC%E2%80%85%EB%AA%A8%EC%9C%BC%EA%B8%B0/README.md) | <small>`그리디 알고리즘` </small> |
 | Silver I | 20922 | 겹치는 건 싫어  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/20922.%E2%80%85%EA%B2%B9%EC%B9%98%EB%8A%94%E2%80%85%EA%B1%B4%E2%80%85%EC%8B%AB%EC%96%B4/README.md) | <small>`두 포인터` </small> |
 | Silver I | 23758 | 중앙값 제거  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/23758.%E2%80%85%EC%A4%91%EC%95%99%EA%B0%92%E2%80%85%EC%A0%9C%EA%B1%B0/README.md) | <small>`수학` `그리디 알고리즘` `정렬` </small> |
@@ -711,8 +711,8 @@
 | Silver II | 11053 | 가장 긴 증가하는 부분 수열  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/11053.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4/README.md) | <small>`다이나믹 프로그래밍` `가장 긴 증가하는 부분 수열 문제` </small> |
 | Silver II | 11055 | 가장 큰 증가하는 부분 수열  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/11055.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%ED%81%B0%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Silver II | 11722 | 가장 긴 감소하는 부분 수열  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/11722.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4/README.md) | <small>`다이나믹 프로그래밍` </small> |
-| Silver II | 11724 | 연결 요소의 개수  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/11724.%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EC%9A%94%EC%86%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` </small> |
 | Silver II | 11724 | 연결 요소의 개수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/11724.%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EC%9A%94%EC%86%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` </small> |
+| Silver II | 11724 | 연결 요소의 개수  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/11724.%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EC%9A%94%EC%86%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` </small> |
 | Silver II | 11725 | 트리의 부모 찾기  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/11725.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EB%B6%80%EB%AA%A8%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`그래프 이론` `그래프 탐색` `트리` `너비 우선 탐색` `깊이 우선 탐색` </small> |
 | Silver II | 12891 | DNA 비밀번호  | [&nbsp;🔗&nbsp;](Java/%EB%B0%B1%EC%A4%80/Silver/12891.%E2%80%85DNA%E2%80%85%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8/README.md) | <small>`슬라이딩 윈도우` `문자열` </small> |
 | Silver II | 14247 | 나무 자르기  | [&nbsp;🔗&nbsp;](Java/%EB%B0%B1%EC%A4%80/Silver/14247.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
@@ -809,8 +809,8 @@
 | Bronze II | 2948 | 2009년  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2948.%E2%80%852009%EB%85%84/README.md) | <small>`구현` </small> |
 | Bronze II | 2954 | 창영이의 일기장  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2954.%E2%80%85%EC%B0%BD%EC%98%81%EC%9D%B4%EC%9D%98%E2%80%85%EC%9D%BC%EA%B8%B0%EC%9E%A5/README.md) | <small>`구현` `문자열` </small> |
 | Bronze II | 3028 | 창영마을  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/3028.%E2%80%85%EC%B0%BD%EC%98%81%EB%A7%88%EC%9D%84/README.md) | <small>`구현` `시뮬레이션` `문자열` </small> |
-| Bronze II | 3040 | 백설 공주와 일곱 난쟁이  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Bronze/3040.%E2%80%85%EB%B0%B1%EC%84%A4%E2%80%85%EA%B3%B5%EC%A3%BC%EC%99%80%E2%80%85%EC%9D%BC%EA%B3%B1%E2%80%85%EB%82%9C%EC%9F%81%EC%9D%B4/README.md) | <small>`브루트포스 알고리즘` </small> |
 | Bronze II | 3040 | 백설 공주와 일곱 난쟁이  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/3040.%E2%80%85%EB%B0%B1%EC%84%A4%E2%80%85%EA%B3%B5%EC%A3%BC%EC%99%80%E2%80%85%EC%9D%BC%EA%B3%B1%E2%80%85%EB%82%9C%EC%9F%81%EC%9D%B4/README.md) | <small>`브루트포스 알고리즘` </small> |
+| Bronze II | 3040 | 백설 공주와 일곱 난쟁이  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Bronze/3040.%E2%80%85%EB%B0%B1%EC%84%A4%E2%80%85%EA%B3%B5%EC%A3%BC%EC%99%80%E2%80%85%EC%9D%BC%EA%B3%B1%E2%80%85%EB%82%9C%EC%9F%81%EC%9D%B4/README.md) | <small>`브루트포스 알고리즘` </small> |
 | Bronze II | 3062 | 수 뒤집기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/3062.%E2%80%85%EC%88%98%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/README.md) | <small>`사칙연산` `구현` `수학` `문자열` </small> |
 | Bronze II | 3449 | 해밍 거리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/3449.%E2%80%85%ED%95%B4%EB%B0%8D%E2%80%85%EA%B1%B0%EB%A6%AC/README.md) | <small>`문자열` </small> |
 | Bronze II | 4597 | 패리티  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/4597.%E2%80%85%ED%8C%A8%EB%A6%AC%ED%8B%B0/README.md) | <small>`구현` `문자열` </small> |
@@ -837,8 +837,8 @@
 | Bronze II | 11091 | 알파벳 전부 쓰기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/11091.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3%E2%80%85%EC%A0%84%EB%B6%80%E2%80%85%EC%93%B0%EA%B8%B0/README.md) | <small>`구현` `문자열` </small> |
 | Bronze II | 11575 | Affine Cipher  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/11575.%E2%80%85Affine%E2%80%85Cipher/README.md) | <small>`구현` `문자열` </small> |
 | Bronze II | 11944 | NN  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/11944.%E2%80%85NN/README.md) | <small>`구현` `문자열` </small> |
-| Bronze II | 21180 | Reconstruct Sum  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Bronze/21180.%E2%80%85Reconstruct%E2%80%85Sum/README.md) | <small>`브루트포스 알고리즘` `수학` </small> |
 | Bronze II | 21180 | Reconstruct Sum  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/21180.%E2%80%85Reconstruct%E2%80%85Sum/README.md) | <small>`브루트포스 알고리즘` `수학` </small> |
+| Bronze II | 21180 | Reconstruct Sum  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Bronze/21180.%E2%80%85Reconstruct%E2%80%85Sum/README.md) | <small>`브루트포스 알고리즘` `수학` </small> |
 | Bronze III | 1547 | 공  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/1547.%E2%80%85%EA%B3%B5/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Bronze III | 2010 | 플러그  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2010.%E2%80%85%ED%94%8C%EB%9F%AC%EA%B7%B8/README.md) | <small>`사칙연산` `수학` </small> |
 | Bronze III | 2445 | 별 찍기 | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Bronze/2445.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%858/README.md) | <small>`구현` </small> |
@@ -996,6 +996,7 @@
 | D4 | 25838 | 여우 줄이기  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D4/25838.%E2%80%85%EC%97%AC%EC%9A%B0%E2%80%85%EC%A4%84%EC%9D%B4%EA%B8%B0/README.md) | <small></small> |
 | D4 | 26504 | MST 만들기  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D4/26504.%E2%80%85MST%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small></small> |
 | D4 | 26793 | 게으름뱅이  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D4/26793.%E2%80%85%EA%B2%8C%EC%9C%BC%EB%A6%84%EB%B1%85%EC%9D%B4/README.md) | <small></small> |
+| D4 | 26838 | 화려한 경로  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D4/26838.%E2%80%85%ED%99%94%EB%A0%A4%ED%95%9C%E2%80%85%EA%B2%BD%EB%A1%9C/README.md) | <small></small> |
 | D3 | 1244 | [S/W 문제해결 응용] 2일차 - 최대 상금  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D3/1244.%E2%80%85%EF%BC%BBS%EF%BC%8FW%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%E2%80%85%EC%9D%91%EC%9A%A9%EF%BC%BD%E2%80%852%EC%9D%BC%EC%B0%A8%E2%80%85%EF%BC%8D%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%EC%83%81%EA%B8%88/README.md) | <small></small> |
 | D3 | 2948 | 문자열 교집합  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D3/2948.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B5%90%EC%A7%91%ED%95%A9/README.md) | <small></small> |
 | D3 | 22683 | 나무 베기  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D3/22683.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EB%B2%A0%EA%B8%B0/README.md) | <small></small> |
@@ -1051,8 +1052,8 @@
 | level 3 | 49191 | 순위  | [&nbsp;🔗&nbsp;](C%2B%2B/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/49191.%E2%80%85%EC%88%9C%EC%9C%84/README.md) | <small></small> |
 | level 3 | 59042 | 없어진 기록 찾기  | [&nbsp;🔗&nbsp;](Oracle/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/59042.%E2%80%85%EC%97%86%EC%96%B4%EC%A7%84%E2%80%85%EA%B8%B0%EB%A1%9D%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small></small> |
 | level 3 | 59043 | 있었는데요 없었습니다  | [&nbsp;🔗&nbsp;](Oracle/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/59043.%E2%80%85%EC%9E%88%EC%97%88%EB%8A%94%EB%8D%B0%EC%9A%94%E2%80%85%EC%97%86%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4/README.md) | <small></small> |
-| level 3 | 59044 | 오랜 기간 보호한 동물(1)  | [&nbsp;🔗&nbsp;](MySQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/59044.%E2%80%85%EC%98%A4%EB%9E%9C%E2%80%85%EA%B8%B0%EA%B0%84%E2%80%85%EB%B3%B4%ED%98%B8%ED%95%9C%E2%80%85%EB%8F%99%EB%AC%BC%EF%BC%881%EF%BC%89/README.md) | <small></small> |
 | level 3 | 59044 | 오랜 기간 보호한 동물(1)  | [&nbsp;🔗&nbsp;](Oracle/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/59044.%E2%80%85%EC%98%A4%EB%9E%9C%E2%80%85%EA%B8%B0%EA%B0%84%E2%80%85%EB%B3%B4%ED%98%B8%ED%95%9C%E2%80%85%EB%8F%99%EB%AC%BC%EF%BC%881%EF%BC%89/README.md) | <small></small> |
+| level 3 | 59044 | 오랜 기간 보호한 동물(1)  | [&nbsp;🔗&nbsp;](MySQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/59044.%E2%80%85%EC%98%A4%EB%9E%9C%E2%80%85%EA%B8%B0%EA%B0%84%E2%80%85%EB%B3%B4%ED%98%B8%ED%95%9C%E2%80%85%EB%8F%99%EB%AC%BC%EF%BC%881%EF%BC%89/README.md) | <small></small> |
 | level 3 | 87694 | 아이템 줍기  | [&nbsp;🔗&nbsp;](C%2B%2B/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/87694.%E2%80%85%EC%95%84%EC%9D%B4%ED%85%9C%E2%80%85%EC%A4%8D%EA%B8%B0/README.md) | <small></small> |
 | level 3 | 144855 | 카테고리 별 도서 판매량 집계하기  | [&nbsp;🔗&nbsp;](Oracle/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/144855.%E2%80%85%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%E2%80%85%EB%B3%84%E2%80%85%EB%8F%84%EC%84%9C%E2%80%85%ED%8C%90%EB%A7%A4%EB%9F%89%E2%80%85%EC%A7%91%EA%B3%84%ED%95%98%EA%B8%B0/README.md) | <small></small> |
 | level 3 | 157340 | 자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기  | [&nbsp;🔗&nbsp;](MySQL/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/157340.%E2%80%85%EC%9E%90%EB%8F%99%EC%B0%A8%E2%80%85%EB%8C%80%EC%97%AC%E2%80%85%EA%B8%B0%EB%A1%9D%EC%97%90%EC%84%9C%E2%80%85%EB%8C%80%EC%97%AC%EC%A4%91%E2%80%85%EF%BC%8F%E2%80%85%EB%8C%80%EC%97%AC%E2%80%85%EA%B0%80%EB%8A%A5%E2%80%85%EC%97%AC%EB%B6%80%E2%80%85%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0/README.md) | <small></small> |
