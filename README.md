@@ -992,6 +992,7 @@
 | D4 | 3234 | 준환이의 양팔저울  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D4/3234.%E2%80%85%EC%A4%80%ED%99%98%EC%9D%B4%EC%9D%98%E2%80%85%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8/README.md) | <small></small> |
 | D4 | 4111 | 무선 단속 카메라  | [&nbsp;🔗&nbsp;](SWEA/D4/4111.%E2%80%85%EB%AC%B4%EC%84%A0%E2%80%85%EB%8B%A8%EC%86%8D%E2%80%85%EC%B9%B4%EB%A9%94%EB%9D%BC/README.md) | <small></small> |
 | D4 | 7465 | 창용 마을 무리의 개수  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D4/7465.%E2%80%85%EC%B0%BD%EC%9A%A9%E2%80%85%EB%A7%88%EC%9D%84%E2%80%85%EB%AC%B4%EB%A6%AC%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/README.md) | <small></small> |
+| D4 | 7829 | 보물왕 태혁  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D4/7829.%E2%80%85%EB%B3%B4%EB%AC%BC%EC%99%95%E2%80%85%ED%83%9C%ED%98%81/README.md) | <small></small> |
 | D4 | 10966 | 물놀이를 가자  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D4/10966.%E2%80%85%EB%AC%BC%EB%86%80%EC%9D%B4%EB%A5%BC%E2%80%85%EA%B0%80%EC%9E%90/README.md) | <small></small> |
 | D4 | 17299 | 최소 덧셈  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D4/17299.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%EB%8D%A7%EC%85%88/README.md) | <small></small> |
 | D4 | 25838 | 여우 줄이기  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D4/25838.%E2%80%85%EC%97%AC%EC%9A%B0%E2%80%85%EC%A4%84%EC%9D%B4%EA%B8%B0/README.md) | <small></small> |
