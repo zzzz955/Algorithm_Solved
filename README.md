@@ -739,6 +739,7 @@
 | Silver III | 7795 | 먹을 것인가 먹힐 것인가  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/7795.%E2%80%85%EB%A8%B9%EC%9D%84%E2%80%85%EA%B2%83%EC%9D%B8%EA%B0%80%E2%80%85%EB%A8%B9%ED%9E%90%E2%80%85%EA%B2%83%EC%9D%B8%EA%B0%80/README.md) | <small>`정렬` `이분 탐색` `두 포인터` </small> |
 | Silver III | 9017 | 크로스 컨트리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/9017.%E2%80%85%ED%81%AC%EB%A1%9C%EC%8A%A4%E2%80%85%EC%BB%A8%ED%8A%B8%EB%A6%AC/README.md) | <small>`구현` </small> |
 | Silver III | 10158 | 개미  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/10158.%E2%80%85%EA%B0%9C%EB%AF%B8/README.md) | <small>`수학` `애드 혹` `사칙연산` </small> |
+| Silver III | 11441 | 합 구하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/11441.%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`누적 합` </small> |
 | Silver III | 11659 | 구간 합 구하기 4  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/11659.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%854/README.md) | <small>`누적 합` </small> |
 | Silver III | 14607 | 피자 (Large)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/14607.%E2%80%85%ED%94%BC%EC%9E%90%E2%80%85%EF%BC%88Large%EF%BC%89/README.md) | <small>`수학` `다이나믹 프로그래밍` </small> |
 | Silver III | 15652 | N과 M (4)  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/15652.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%884%EF%BC%89/README.md) | <small>`백트래킹` </small> |
