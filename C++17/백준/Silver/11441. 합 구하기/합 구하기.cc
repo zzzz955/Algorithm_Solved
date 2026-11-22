@@ -3,7 +3,6 @@ using namespace std;
 
 const int N = 1e5 + 5;
 int n, m;
-int arr[ N ];
 int pre_sum[ N + 1 ];
 
 int main()
@@ -15,8 +14,8 @@ int main()
 	cin >> n;
 	for ( int i = 0; i < n; ++i )
 	{
-		cin >> arr[ i ];
-		pre_sum[ i + 1 ] = pre_sum[ i ] + arr[ i ];
+		int d; cin >> d;
+		pre_sum[ i + 1 ] = pre_sum[ i ] + d;
 	}
 		
 
